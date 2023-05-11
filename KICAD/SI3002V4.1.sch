@@ -1,0 +1,7413 @@
+EESchema Schematic File Version 4
+LIBS:SI3002V4.1-cache
+EELAYER 26 0
+EELAYER END
+$Descr User 38885 13838
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Wire Line
+	16500 5500 16000 5500
+Wire Wire Line
+	16000 5100 16000 5500
+Wire Wire Line
+	15700 5500 16000 5500
+Wire Wire Line
+	15700 5400 15700 5500
+Connection ~ 16000 5500
+Connection ~ 15700 5500
+Text Label 16500 5500 0    10   ~ 0
+GND
+Wire Wire Line
+	10300 5500 9800 5500
+Wire Wire Line
+	9800 5100 9800 5500
+Wire Wire Line
+	9800 5500 9500 5500
+Wire Wire Line
+	9500 5300 9500 5500
+Connection ~ 9800 5500
+Connection ~ 9500 5500
+Text Label 10300 5500 0    10   ~ 0
+GND
+Wire Wire Line
+	29100 6900 29100 7300
+Wire Wire Line
+	28800 7300 29100 7300
+Connection ~ 29100 7300
+Text Label 29100 6900 0    10   ~ 0
+GND
+Wire Wire Line
+	30800 7400 30800 7800
+Wire Wire Line
+	30800 7800 30400 7800
+Connection ~ 30800 7800
+Text Label 30800 7400 0    10   ~ 0
+GND
+Wire Wire Line
+	26300 9900 26000 9900
+Wire Wire Line
+	26000 9900 26000 9800
+Wire Wire Line
+	26300 10000 26300 9900
+Connection ~ 26300 9900
+Text Label 26300 9900 0    10   ~ 0
+GND
+Wire Wire Line
+	7800 1900 7800 1800
+Text Label 7800 1900 0    10   ~ 0
+GND
+Wire Wire Line
+	20400 4700 20400 4850
+Wire Wire Line
+	20400 4850 20400 5000
+Connection ~ 20400 4850
+Text Label 20400 4700 0    10   ~ 0
+GND
+Wire Wire Line
+	22200 7500 22200 7600
+Wire Wire Line
+	22200 7600 21800 7600
+Wire Wire Line
+	21500 7600 21800 7600
+Connection ~ 21800 7600
+Text Label 22200 7500 0    10   ~ 0
+GND
+Wire Wire Line
+	26700 9100 26700 9300
+Connection ~ 26700 9300
+Text Label 26700 9100 0    10   ~ 0
+GND
+Wire Wire Line
+	26700 9800 26700 10000
+Connection ~ 26700 10000
+Text Label 26700 9800 0    10   ~ 0
+GND
+Wire Wire Line
+	8100 11800 8100 12000
+Wire Wire Line
+	9200 11900 9200 12000
+Wire Wire Line
+	8700 11900 8700 12000
+Wire Wire Line
+	8700 12000 9200 12000
+Wire Wire Line
+	8700 12000 8400 12000
+Wire Wire Line
+	8400 11200 8400 12000
+Wire Wire Line
+	8400 12000 8100 12000
+Wire Wire Line
+	8100 12000 7700 12000
+Wire Wire Line
+	7700 12000 7400 12000
+Wire Wire Line
+	7100 12000 7400 12000
+Wire Wire Line
+	7400 10900 7400 11000
+Wire Wire Line
+	7400 11000 7400 12000
+Wire Wire Line
+	7100 12000 6000 12000
+Wire Wire Line
+	5600 11200 5600 12000
+Wire Wire Line
+	5600 12000 6000 12000
+Wire Wire Line
+	7700 12000 7700 11800
+Connection ~ 8700 12000
+Connection ~ 8400 12000
+Connection ~ 8100 12000
+Connection ~ 7700 12000
+Connection ~ 7400 11000
+Connection ~ 7100 12000
+Connection ~ 7400 12000
+Connection ~ 6000 12000
+Text Label 8100 11800 0    10   ~ 0
+GND
+Wire Wire Line
+	18400 9600 18100 9600
+Wire Wire Line
+	18100 9600 18100 9700
+Connection ~ 18100 9600
+Text Label 18400 9600 0    10   ~ 0
+GND
+Wire Wire Line
+	19200 9600 18900 9600
+Wire Wire Line
+	18900 9600 18900 9700
+Connection ~ 18900 9600
+Text Label 19200 9600 0    10   ~ 0
+GND
+Wire Wire Line
+	30100 10100 30100 10500
+Wire Wire Line
+	29800 10500 30100 10500
+Connection ~ 30100 10500
+Text Label 30100 10100 0    10   ~ 0
+GND
+Wire Wire Line
+	16900 3200 16900 3300
+Text Label 16900 3200 0    10   ~ 0
+GND
+Wire Wire Line
+	27500 6900 27500 7300
+Wire Wire Line
+	27200 7300 27500 7300
+Connection ~ 27500 7300
+Text Label 27500 6900 0    10   ~ 0
+GND
+Wire Wire Line
+	32800 10200 32600 10200
+Wire Wire Line
+	32600 10200 32600 10300
+Text Label 32800 10200 0    10   ~ 0
+GND
+Wire Wire Line
+	19200 8500 19200 8400
+Wire Wire Line
+	20200 8400 20200 8500
+Wire Wire Line
+	20200 8500 19900 8500
+Wire Wire Line
+	19900 8400 19900 8500
+Wire Wire Line
+	19900 8500 19200 8500
+Wire Wire Line
+	20200 8500 20500 8500
+Wire Wire Line
+	20500 8500 20500 8400
+Wire Wire Line
+	19000 8500 19200 8500
+Connection ~ 19200 8400
+Connection ~ 19900 8500
+Connection ~ 19200 8500
+Connection ~ 20200 8500
+Text Label 19200 8500 0    10   ~ 0
+GND
+Wire Wire Line
+	23500 6500 23500 10100
+Wire Wire Line
+	23500 10100 23500 10700
+Wire Wire Line
+	23500 10700 21200 10700
+Wire Wire Line
+	21200 10700 20800 10700
+Wire Wire Line
+	20800 10700 20200 10700
+Wire Wire Line
+	20200 10700 16200 10700
+Wire Wire Line
+	16200 11900 16200 10700
+Wire Wire Line
+	16200 11900 16100 12000
+Wire Wire Line
+	16100 12000 16100 10300
+Wire Wire Line
+	16100 10300 15100 10300
+Wire Wire Line
+	15100 10100 15100 10300
+Wire Wire Line
+	14800 10200 14800 10300
+Wire Wire Line
+	14800 10300 15100 10300
+Wire Wire Line
+	14600 10300 14800 10300
+Wire Wire Line
+	14300 9900 14600 9900
+Wire Wire Line
+	14600 9900 14600 10000
+Wire Wire Line
+	14300 10000 14600 10000
+Wire Wire Line
+	14600 10000 14600 10300
+Wire Wire Line
+	13600 10300 14600 10300
+Wire Wire Line
+	13200 10200 13200 10300
+Wire Wire Line
+	12400 10400 12400 10300
+Wire Wire Line
+	11700 10400 11700 10300
+Wire Wire Line
+	13400 9400 13000 9400
+Wire Wire Line
+	13000 9400 12700 9400
+Wire Wire Line
+	12700 9400 11900 9400
+Wire Wire Line
+	11900 9400 11600 9400
+Wire Wire Line
+	11600 9400 11200 9400
+Wire Wire Line
+	10900 9400 11200 9400
+Wire Wire Line
+	10800 10100 10900 10100
+Wire Wire Line
+	10900 10100 10900 9400
+Wire Wire Line
+	10900 10300 10900 10100
+Wire Wire Line
+	11300 10400 11300 10500
+Wire Wire Line
+	11300 10300 11300 10400
+Wire Wire Line
+	11300 10300 10900 10300
+Wire Wire Line
+	11600 10300 11300 10300
+Wire Wire Line
+	11600 10100 11600 10300
+Wire Wire Line
+	11600 10300 11700 10300
+Wire Wire Line
+	11700 10300 12000 10300
+Wire Wire Line
+	12000 10200 12000 10300
+Wire Wire Line
+	12000 10300 12400 10300
+Wire Wire Line
+	12400 10300 12700 10300
+Wire Wire Line
+	12700 10100 12700 10300
+Wire Wire Line
+	12700 10300 12800 10300
+Wire Wire Line
+	12800 10400 12800 10300
+Wire Wire Line
+	12800 10300 13200 10300
+Wire Wire Line
+	13200 10300 13500 10300
+Wire Wire Line
+	13500 10300 13600 10300
+Wire Wire Line
+	13600 9900 13500 9900
+Wire Wire Line
+	13500 9900 13500 10000
+Wire Wire Line
+	13500 10000 13500 10300
+Wire Wire Line
+	13500 10000 13600 10000
+Wire Wire Line
+	22700 6100 22700 6500
+Wire Wire Line
+	23500 6500 22700 6500
+Wire Wire Line
+	23600 10100 23500 10100
+Connection ~ 21200 10700
+Connection ~ 20800 10700
+Connection ~ 20200 10700
+Connection ~ 16100 12000
+Connection ~ 15100 10300
+Connection ~ 14800 10300
+Connection ~ 14600 10000
+Connection ~ 14600 10300
+Connection ~ 13600 10300
+Connection ~ 13000 9400
+Connection ~ 12700 9400
+Connection ~ 11900 9400
+Connection ~ 11600 9400
+Connection ~ 11200 9400
+Connection ~ 10900 10100
+Connection ~ 11300 10400
+Connection ~ 11300 10300
+Connection ~ 11600 10300
+Connection ~ 11700 10300
+Connection ~ 12000 10300
+Connection ~ 12400 10300
+Connection ~ 12700 10300
+Connection ~ 12800 10300
+Connection ~ 13200 10300
+Connection ~ 13500 10300
+Connection ~ 13500 10000
+Connection ~ 23500 10100
+Text Label 23500 6500 0    10   ~ 0
+GND
+Wire Wire Line
+	4800 4000 4900 4000
+Wire Wire Line
+	4900 4000 5100 4000
+Wire Wire Line
+	4900 4200 4900 4000
+Wire Wire Line
+	5700 4200 4900 4200
+Wire Wire Line
+	5700 3500 5700 4200
+Wire Wire Line
+	5000 3500 5700 3500
+Wire Wire Line
+	4200 3300 4200 3400
+Wire Wire Line
+	4400 3400 4200 3400
+Wire Wire Line
+	4400 3150 4400 3400
+Wire Wire Line
+	4400 3400 4600 3400
+Wire Wire Line
+	4600 3100 4600 3400
+Wire Wire Line
+	4600 3400 4750 3400
+Wire Wire Line
+	4750 3250 4750 3400
+Wire Wire Line
+	4750 3400 5000 3400
+Wire Wire Line
+	5000 3400 5000 3500
+Wire Wire Line
+	5000 3400 5250 3400
+Wire Wire Line
+	5250 3150 5250 3400
+Wire Wire Line
+	5250 3400 5650 3400
+Wire Wire Line
+	5650 3200 5650 3400
+Wire Wire Line
+	5650 3400 5900 3400
+Wire Wire Line
+	5900 3200 5900 3400
+Wire Wire Line
+	6200 3400 5900 3400
+Wire Wire Line
+	6200 3200 6200 3400
+Wire Wire Line
+	15500 7300 15200 7300
+Wire Wire Line
+	14900 4800 14900 7200
+Wire Wire Line
+	13900 6800 13900 7100
+Wire Wire Line
+	11100 5500 11100 5600
+Wire Wire Line
+	12400 5600 11100 5600
+Wire Wire Line
+	12400 7100 12400 5600
+Wire Wire Line
+	11100 6900 11100 7100
+Wire Wire Line
+	11100 7100 11800 7100
+Wire Wire Line
+	11800 7000 11800 7100
+Wire Wire Line
+	11800 7100 12200 7100
+Wire Wire Line
+	12200 6800 12200 7100
+Wire Wire Line
+	12200 7100 12400 7100
+Wire Wire Line
+	12400 7100 12800 7100
+Wire Wire Line
+	12800 7000 12800 7100
+Wire Wire Line
+	12800 7100 13100 7100
+Wire Wire Line
+	13100 6800 13100 7100
+Wire Wire Line
+	13100 7100 13600 7100
+Wire Wire Line
+	13600 7000 13600 7100
+Wire Wire Line
+	13600 7100 13900 7100
+Wire Wire Line
+	14700 6800 14700 7100
+Wire Wire Line
+	14700 7100 14400 7100
+Wire Wire Line
+	14400 7000 14400 7100
+Wire Wire Line
+	14400 7100 13900 7100
+Wire Wire Line
+	13900 7100 13900 7200
+Wire Wire Line
+	13900 7200 14900 7200
+Wire Wire Line
+	13900 7200 13900 7300
+Wire Wire Line
+	13900 7300 15200 7300
+Wire Wire Line
+	13900 7300 13900 7400
+Wire Wire Line
+	20000 4500 20000 7200
+Wire Wire Line
+	19100 7200 20000 7200
+Wire Wire Line
+	19900 6800 19900 7100
+Wire Wire Line
+	19500 7100 19900 7100
+Wire Wire Line
+	19500 7000 19500 7100
+Wire Wire Line
+	19500 7100 19100 7100
+Wire Wire Line
+	17300 5500 17300 5600
+Wire Wire Line
+	17600 5600 17300 5600
+Wire Wire Line
+	17600 6100 17600 5600
+Wire Wire Line
+	17300 6100 17600 6100
+Wire Wire Line
+	17300 7100 17300 6100
+Wire Wire Line
+	17100 6900 17100 7100
+Wire Wire Line
+	17100 7100 17300 7100
+Wire Wire Line
+	17300 7100 17600 7100
+Wire Wire Line
+	17600 7000 17600 7100
+Wire Wire Line
+	17600 7100 17900 7100
+Wire Wire Line
+	17900 6800 17900 7100
+Wire Wire Line
+	17900 7100 18100 7100
+Wire Wire Line
+	18100 7000 18100 7100
+Wire Wire Line
+	18100 7100 18400 7100
+Wire Wire Line
+	18400 6800 18400 7100
+Wire Wire Line
+	18400 7100 18700 7100
+Wire Wire Line
+	18700 7000 18700 7100
+Wire Wire Line
+	18700 7100 19100 7100
+Wire Wire Line
+	19100 6800 19100 7100
+Wire Wire Line
+	19100 7100 19100 7200
+Wire Wire Line
+	19100 7200 19100 7300
+Wire Wire Line
+	20600 7300 20200 7300
+Wire Wire Line
+	20200 7300 20200 7200
+Wire Wire Line
+	20200 7300 19100 7300
+Wire Wire Line
+	19100 7300 19100 7400
+Wire Wire Line
+	19100 7400 16500 7400
+Wire Wire Line
+	16500 7500 16500 7400
+Wire Wire Line
+	16500 7400 13900 7400
+Wire Wire Line
+	13900 7400 8700 7400
+Wire Wire Line
+	8700 3400 8700 7400
+Wire Wire Line
+	8700 3400 8700 3200
+Wire Wire Line
+	8700 3400 8400 3400
+Wire Wire Line
+	8400 3400 8400 3200
+Wire Wire Line
+	8400 3400 8100 3400
+Wire Wire Line
+	8100 3400 8100 3200
+Wire Wire Line
+	7800 3400 8100 3400
+Wire Wire Line
+	7800 3400 7800 3200
+Wire Wire Line
+	7800 3400 7500 3400
+Wire Wire Line
+	7500 3200 7500 3400
+Wire Wire Line
+	7500 3400 7200 3400
+Wire Wire Line
+	7200 3400 6200 3400
+Wire Wire Line
+	7200 3200 7200 3400
+Connection ~ 4900 4000
+Connection ~ 4200 3400
+Connection ~ 4400 3400
+Connection ~ 4600 3400
+Connection ~ 4750 3400
+Connection ~ 5000 3400
+Connection ~ 5250 3400
+Connection ~ 5650 3400
+Connection ~ 5900 3400
+Connection ~ 6200 3400
+Connection ~ 15200 7300
+Connection ~ 12400 5600
+Connection ~ 11800 7100
+Connection ~ 12200 7100
+Connection ~ 12400 7100
+Connection ~ 12800 7100
+Connection ~ 13100 7100
+Connection ~ 13600 7100
+Connection ~ 14400 7100
+Connection ~ 13900 7100
+Connection ~ 13900 7200
+Connection ~ 13900 7300
+Connection ~ 19500 7100
+Connection ~ 17600 5600
+Connection ~ 17300 7100
+Connection ~ 17600 7100
+Connection ~ 17900 7100
+Connection ~ 18100 7100
+Connection ~ 18400 7100
+Connection ~ 18700 7100
+Connection ~ 19100 7100
+Connection ~ 19100 7200
+Connection ~ 20200 7300
+Connection ~ 19100 7300
+Connection ~ 16500 7400
+Connection ~ 13900 7400
+Connection ~ 8700 7400
+Connection ~ 8700 3400
+Connection ~ 8400 3400
+Connection ~ 8100 3400
+Connection ~ 7800 3400
+Connection ~ 7500 3400
+Connection ~ 7200 3400
+Text Label 4800 4000 0    10   ~ 0
+GND
+Wire Wire Line
+	31750 1350 31750 1500
+Text Label 31750 1350 0    10   ~ 0
+GND
+Wire Wire Line
+	29900 2550 30050 2550
+Wire Wire Line
+	30050 2550 30150 2550
+Wire Wire Line
+	30050 2400 30050 2550
+Connection ~ 30050 2550
+Text Label 29900 2550 0    10   ~ 0
+GND
+Wire Wire Line
+	11100 5200 11100 5300
+Wire Wire Line
+	11100 5200 12400 5200
+Wire Wire Line
+	12400 5200 13100 5200
+Wire Wire Line
+	13300 5200 13100 5200
+Wire Wire Line
+	13300 5200 13300 4600
+Connection ~ 12400 5200
+Connection ~ 13100 5200
+Text Label 11100 5200 0    10   ~ 0
++15V
+Wire Wire Line
+	31900 6200 31900 5800
+Wire Wire Line
+	31900 5700 31900 5800
+Wire Wire Line
+	31800 5800 31900 5800
+Connection ~ 31900 5800
+Text Label 31900 6200 0    10   ~ 0
++15V
+Wire Wire Line
+	13400 9000 13000 9000
+Wire Wire Line
+	13000 9000 12700 9000
+Wire Wire Line
+	12700 9000 12500 9000
+Wire Wire Line
+	12700 9100 12700 9000
+Wire Wire Line
+	13000 9000 13000 9100
+Wire Wire Line
+	13800 9000 13400 9000
+Connection ~ 13400 9000
+Connection ~ 12700 9000
+Connection ~ 13000 9000
+Text Label 13400 9000 0    10   ~ 0
++15V
+Wire Wire Line
+	30200 6300 30200 5900
+Wire Wire Line
+	30200 5800 30200 5900
+Wire Wire Line
+	30100 5900 30200 5900
+Connection ~ 30200 5900
+Text Label 30200 6300 0    10   ~ 0
++15V
+Wire Wire Line
+	31200 7700 31500 7700
+Wire Wire Line
+	31200 7700 31200 8000
+Wire Wire Line
+	32200 8000 32200 7800
+Wire Wire Line
+	32200 7800 33050 7800
+Wire Wire Line
+	31200 8000 32200 8000
+Connection ~ 31200 7700
+Text Label 31200 7700 0    10   ~ 0
++15V
+Wire Wire Line
+	18300 5200 18500 5200
+Wire Wire Line
+	18500 5200 18500 4500
+Wire Wire Line
+	17600 5200 18300 5200
+Wire Wire Line
+	17300 5200 17600 5200
+Wire Wire Line
+	17300 5300 17300 5200
+Wire Wire Line
+	18300 5000 18300 5200
+Connection ~ 17600 5200
+Connection ~ 18300 5200
+Text Label 18300 5200 0    10   ~ 0
++15V
+Wire Wire Line
+	7600 9400 7600 10200
+Wire Wire Line
+	7600 10200 7700 10200
+Wire Wire Line
+	8100 11400 8100 10600
+Wire Wire Line
+	8100 10100 8100 10600
+Wire Wire Line
+	7400 10700 7400 10600
+Wire Wire Line
+	7400 10600 7700 10600
+Wire Wire Line
+	7700 10600 8100 10600
+Wire Wire Line
+	8100 10100 7900 10100
+Wire Wire Line
+	7700 10200 7700 10600
+Connection ~ 8100 10600
+Connection ~ 7400 10600
+Connection ~ 7700 10600
+Connection ~ 8100 10100
+Text Label 7600 9400 0    10   ~ 0
++15V
+Wire Wire Line
+	31200 9800 31200 9400
+Wire Wire Line
+	31200 9300 31200 9400
+Wire Wire Line
+	31100 9400 31200 9400
+Connection ~ 31200 9400
+Text Label 31200 9800 0    10   ~ 0
++15V
+Wire Wire Line
+	10300 4900 10000 4900
+Wire Wire Line
+	16500 12000 16500 8100
+Wire Wire Line
+	16500 8100 10000 8100
+Wire Wire Line
+	10000 4900 10000 8100
+Text Label 10000 6500 1    100  ~ 0
+T301-ANS
+Wire Wire Line
+	10100 5300 10300 5300
+Wire Wire Line
+	10100 8000 10100 5300
+Wire Wire Line
+	10100 8000 16700 8000
+Wire Wire Line
+	16700 12000 16700 8000
+Text Label 10100 6650 1    100  ~ 0
+T302-ANS
+Wire Wire Line
+	19100 4000 19100 3700
+Wire Wire Line
+	17300 4900 17600 4900
+Wire Wire Line
+	17600 4900 18000 4900
+Wire Wire Line
+	18000 5300 18000 4900
+Wire Wire Line
+	18700 5300 18000 5300
+Wire Wire Line
+	18700 5300 18700 4000
+Wire Wire Line
+	18100 3900 18100 4000
+Wire Wire Line
+	18100 4000 18400 4000
+Wire Wire Line
+	18400 3700 18400 4000
+Wire Wire Line
+	18400 4000 18700 4000
+Wire Wire Line
+	18700 4000 18800 4000
+Wire Wire Line
+	18800 3900 18800 4000
+Wire Wire Line
+	18800 4000 19100 4000
+Wire Wire Line
+	19900 3700 19900 4000
+Wire Wire Line
+	19600 4000 19900 4000
+Wire Wire Line
+	19600 3900 19600 4000
+Wire Wire Line
+	19600 4000 19100 4000
+Wire Wire Line
+	21200 5400 21200 7900
+Wire Wire Line
+	21200 7900 21400 7900
+Wire Wire Line
+	21400 7900 21400 8400
+Wire Wire Line
+	21400 8400 21200 8400
+Wire Wire Line
+	20700 5300 20700 5400
+Wire Wire Line
+	20700 5400 21200 5400
+Wire Wire Line
+	20400 5400 20700 5400
+Wire Wire Line
+	20400 5400 19100 5400
+Wire Wire Line
+	19100 5400 19100 4000
+Wire Wire Line
+	19900 6200 19900 6400
+Wire Wire Line
+	19100 6400 19100 6200
+Wire Wire Line
+	19100 6200 19900 6200
+Wire Wire Line
+	18400 6400 18400 6200
+Wire Wire Line
+	18400 6200 19100 6200
+Wire Wire Line
+	19100 6200 19100 5700
+Wire Wire Line
+	19100 5700 19100 5400
+Wire Wire Line
+	21000 6100 21000 5700
+Wire Wire Line
+	21000 5700 20600 5700
+Wire Wire Line
+	20600 5700 20600 5800
+Wire Wire Line
+	20600 5700 20200 5700
+Wire Wire Line
+	20200 5700 20200 6100
+Wire Wire Line
+	20200 5700 19100 5700
+Wire Wire Line
+	18100 4000 17800 4000
+Wire Wire Line
+	17800 4000 17800 3700
+Wire Wire Line
+	17500 3900 17500 4000
+Wire Wire Line
+	17500 4000 17800 4000
+Wire Wire Line
+	17900 6400 17900 6200
+Wire Wire Line
+	17900 6200 18400 6200
+Connection ~ 17600 4900
+Connection ~ 18000 4900
+Connection ~ 18400 4000
+Connection ~ 18700 4000
+Connection ~ 18800 4000
+Connection ~ 19600 4000
+Connection ~ 19100 4000
+Connection ~ 20700 5400
+Connection ~ 20400 5400
+Connection ~ 19100 5400
+Connection ~ 19100 6200
+Connection ~ 20600 5700
+Connection ~ 20200 5700
+Connection ~ 19100 5700
+Connection ~ 17800 4000
+Connection ~ 18100 4000
+Connection ~ 18400 6200
+Text Label 18400 6400 1    70   ~ 0
+DBRÜCKE2
+Wire Wire Line
+	17300 4500 17300 3200
+Wire Wire Line
+	18800 3200 18100 3200
+Wire Wire Line
+	18100 3200 17500 3200
+Wire Wire Line
+	17500 3200 17300 3200
+Wire Wire Line
+	19600 3200 18800 3200
+Connection ~ 18800 3200
+Connection ~ 18100 3200
+Connection ~ 17500 3200
+Wire Wire Line
+	17300 5700 17300 6000
+Wire Wire Line
+	17300 6000 17100 6000
+Wire Wire Line
+	17100 6000 17100 6300
+Wire Wire Line
+	17100 6500 17100 6300
+Wire Wire Line
+	17100 6300 17600 6300
+Wire Wire Line
+	17600 6300 18100 6300
+Wire Wire Line
+	18100 6300 18700 6300
+Wire Wire Line
+	19500 6300 18700 6300
+Connection ~ 17100 6300
+Connection ~ 18700 6300
+Connection ~ 18100 6300
+Connection ~ 17600 6300
+Wire Wire Line
+	17300 4700 17400 4700
+Wire Wire Line
+	17400 4500 17400 4700
+Wire Wire Line
+	17400 4500 17600 4500
+Wire Wire Line
+	17600 4500 18000 4500
+Wire Wire Line
+	18000 4600 18000 4500
+Wire Wire Line
+	18000 4500 18300 4500
+Wire Wire Line
+	18300 4500 18300 4600
+Connection ~ 17600 4500
+Connection ~ 18000 4500
+Wire Wire Line
+	11100 4500 11100 3200
+Wire Wire Line
+	13600 3200 12800 3200
+Wire Wire Line
+	12800 3200 12200 3200
+Wire Wire Line
+	12200 3200 11100 3200
+Wire Wire Line
+	14400 3200 13600 3200
+Connection ~ 13600 3200
+Connection ~ 12800 3200
+Connection ~ 12200 3200
+Wire Wire Line
+	11100 5700 11100 6300
+Wire Wire Line
+	11100 6300 11100 6500
+Wire Wire Line
+	11100 6300 11800 6300
+Wire Wire Line
+	11800 6300 12800 6300
+Wire Wire Line
+	12800 6300 13600 6300
+Wire Wire Line
+	14400 6300 13600 6300
+Connection ~ 11100 6300
+Connection ~ 13600 6300
+Connection ~ 12800 6300
+Connection ~ 11800 6300
+Wire Wire Line
+	11100 4700 11200 4700
+Wire Wire Line
+	11200 4500 11200 4700
+Wire Wire Line
+	11200 4500 12400 4500
+Wire Wire Line
+	12400 4500 12800 4500
+Wire Wire Line
+	12800 4600 12800 4500
+Wire Wire Line
+	12800 4500 13100 4500
+Wire Wire Line
+	13100 4500 13100 4800
+Connection ~ 12400 4500
+Connection ~ 12800 4500
+Wire Wire Line
+	16400 5100 16500 5100
+Wire Wire Line
+	16400 5100 16400 2900
+Wire Wire Line
+	16400 2900 10200 2900
+Wire Wire Line
+	10200 5100 10300 5100
+Wire Wire Line
+	10200 5100 10200 3900
+Wire Wire Line
+	10200 3900 10200 2900
+Wire Wire Line
+	9100 2900 10200 2900
+Wire Wire Line
+	9100 2900 9100 8300
+Wire Wire Line
+	9100 8300 16300 8300
+Wire Wire Line
+	16300 12000 16300 8300
+Wire Wire Line
+	9900 3900 10200 3900
+Connection ~ 10200 2900
+Connection ~ 10200 3900
+Text Label 10200 2900 0    100  ~ 0
+SD
+Text Label 16300 9000 1    100  ~ 0
+SD
+Wire Wire Line
+	18800 3700 18800 3600
+Wire Wire Line
+	18900 3600 18800 3600
+Connection ~ 18800 3600
+Wire Wire Line
+	18700 6800 18700 6700
+Wire Wire Line
+	18700 6700 18900 6700
+Connection ~ 18700 6700
+Wire Wire Line
+	16500 5300 16300 5300
+Wire Wire Line
+	16300 5300 16300 7200
+Wire Wire Line
+	16300 7200 17100 7200
+Wire Wire Line
+	17100 7200 17100 12000
+Text Label 16300 6250 1    100  ~ 0
+T304-ANS
+Wire Wire Line
+	16500 4900 16200 4900
+Wire Wire Line
+	16200 4900 16200 7300
+Wire Wire Line
+	16200 7300 16900 7300
+Wire Wire Line
+	16900 7300 16900 12000
+Text Label 16200 6100 1    100  ~ 0
+T303-ANS
+Wire Wire Line
+	26400 4800 26400 4000
+Wire Wire Line
+	26400 4800 26300 4800
+Wire Wire Line
+	26300 4700 26300 4800
+Wire Wire Line
+	26200 4800 26300 4800
+Wire Wire Line
+	27900 4600 27800 4600
+Wire Wire Line
+	27800 4000 27800 4600
+Wire Wire Line
+	27400 4000 27600 4000
+Wire Wire Line
+	27600 4000 27800 4000
+Wire Wire Line
+	27400 4700 27400 4000
+Wire Wire Line
+	26900 4000 27400 4000
+Wire Wire Line
+	26900 4200 26900 4000
+Wire Wire Line
+	26400 4000 26900 4000
+Wire Wire Line
+	27600 4700 27600 4000
+Wire Wire Line
+	26300 4700 26300 4000
+Wire Wire Line
+	26300 4000 26300 3900
+Connection ~ 26300 4700
+Connection ~ 26300 4800
+Connection ~ 27400 4000
+Connection ~ 26900 4000
+Connection ~ 27600 4000
+Connection ~ 26300 4000
+Text Label 26300 4700 0    80   ~ 0
+TRA_L
+Wire Wire Line
+	32750 4600 33500 4800
+Wire Wire Line
+	32750 4300 32750 4400
+Wire Wire Line
+	32750 4400 32750 4600
+Wire Wire Line
+	32600 4600 32750 4600
+Connection ~ 32750 4400
+Connection ~ 32750 4600
+Text Label 33125 4700 0    150  ~ 0
+L1
+Wire Wire Line
+	16500 4700 16000 4700
+Wire Wire Line
+	16000 4700 15700 4700
+Wire Wire Line
+	15700 5100 15700 4700
+Connection ~ 16000 4700
+Connection ~ 15700 4700
+Text Label 16500 4700 0    10   ~ 0
++5V
+Wire Wire Line
+	10300 4700 10000 4700
+Wire Wire Line
+	10000 4700 9800 4700
+Wire Wire Line
+	9800 4700 9500 4700
+Wire Wire Line
+	9500 5000 9500 4700
+Wire Wire Line
+	10000 4300 10000 4700
+Wire Wire Line
+	9900 4300 10000 4300
+Connection ~ 9800 4700
+Connection ~ 9500 4700
+Connection ~ 10000 4700
+Text Label 10300 4700 0    10   ~ 0
++5V
+Wire Wire Line
+	32100 6500 31900 6500
+Text Label 32100 6500 0    10   ~ 0
++5V
+Wire Wire Line
+	15100 9800 15500 9800
+Wire Wire Line
+	15900 12000 15900 10500
+Wire Wire Line
+	15900 10500 15500 10500
+Wire Wire Line
+	15500 10500 15500 9800
+Wire Wire Line
+	15100 9800 14800 9800
+Wire Wire Line
+	14800 9800 14300 9800
+Connection ~ 15100 9800
+Connection ~ 14800 9800
+Text Label 15100 9800 0    10   ~ 0
++5V
+Wire Wire Line
+	30400 6600 30200 6600
+Text Label 30400 6600 0    10   ~ 0
++5V
+Wire Wire Line
+	26000 6600 26000 6800
+Text Label 26000 6600 0    70   ~ 0
++5V
+Wire Wire Line
+	26300 9000 26300 9300
+Wire Wire Line
+	26300 9300 26000 9300
+Wire Wire Line
+	26000 9300 26000 9400
+Connection ~ 26300 9300
+Text Label 26300 9000 0    10   ~ 0
++5V
+Wire Wire Line
+	26200 5200 26300 5200
+Wire Wire Line
+	26300 5200 26300 5100
+Wire Wire Line
+	26400 5100 26300 5100
+Wire Wire Line
+	27800 5400 27800 5700
+Wire Wire Line
+	27800 5700 27600 5700
+Wire Wire Line
+	27600 5700 27400 5700
+Wire Wire Line
+	27400 5000 27400 5700
+Wire Wire Line
+	27400 5700 26900 5700
+Wire Wire Line
+	26900 5500 26900 5700
+Wire Wire Line
+	26900 5700 26400 5700
+Wire Wire Line
+	26400 5700 26400 5100
+Wire Wire Line
+	27900 5400 27800 5400
+Wire Wire Line
+	27600 5000 27600 5700
+Wire Wire Line
+	26300 6200 26300 5200
+Wire Wire Line
+	26300 6200 26300 6300
+Connection ~ 26300 5200
+Connection ~ 26300 5100
+Connection ~ 27400 5700
+Connection ~ 26900 5700
+Connection ~ 27600 5700
+Connection ~ 26300 6200
+Text Label 26300 5700 0    80   ~ 0
+TRA_N
+Wire Wire Line
+	30800 5800 30900 5800
+Wire Wire Line
+	30800 6300 30800 5800
+Wire Wire Line
+	30900 6300 30800 6300
+Wire Wire Line
+	30900 6800 30800 6800
+Wire Wire Line
+	30800 6800 30800 6600
+Wire Wire Line
+	30600 6600 30800 6600
+Wire Wire Line
+	30800 7200 30800 6800
+Wire Wire Line
+	9200 1800 26400 1800
+Wire Wire Line
+	26400 1800 26400 2950
+Wire Wire Line
+	26400 2950 30600 2950
+Wire Wire Line
+	30600 2950 30600 6600
+Connection ~ 30800 6300
+Connection ~ 30800 6800
+Connection ~ 30800 6600
+Wire Wire Line
+	29600 7400 30400 7400
+Wire Wire Line
+	30400 7400 30600 7400
+Wire Wire Line
+	29600 8000 29600 7400
+Wire Wire Line
+	27700 8000 29600 8000
+Wire Wire Line
+	25200 7100 25200 8000
+Wire Wire Line
+	25200 8000 27700 8000
+Wire Wire Line
+	27700 8000 27700 11300
+Wire Wire Line
+	14900 11300 14900 12000
+Wire Wire Line
+	14900 11300 27700 11300
+Connection ~ 27700 8000
+Connection ~ 30400 7400
+Text Label 30500 7400 2    100  ~ 0
+REL
+Wire Wire Line
+	24800 6700 24800 10100
+Wire Wire Line
+	24600 10100 24700 10100
+Wire Wire Line
+	24700 10100 24800 10100
+Wire Wire Line
+	24600 9800 24700 9800
+Wire Wire Line
+	24700 9800 24700 10100
+Connection ~ 24700 10100
+Wire Wire Line
+	5900 8800 5600 8800
+Text Label 5900 8800 0    10   ~ 0
++7,5V
+Wire Wire Line
+	15700 12000 15700 10700
+Wire Wire Line
+	12950 10700 15700 10700
+Wire Wire Line
+	12500 9800 12700 9800
+Wire Wire Line
+	12700 9800 12950 9800
+Wire Wire Line
+	12950 9800 12950 10700
+Wire Wire Line
+	12950 9800 13200 9800
+Wire Wire Line
+	13200 9800 13500 9800
+Wire Wire Line
+	13500 9800 13600 9800
+Wire Wire Line
+	13800 9600 13500 9600
+Wire Wire Line
+	13500 9600 13500 9800
+Connection ~ 12700 9800
+Connection ~ 12950 9800
+Connection ~ 13200 9800
+Connection ~ 13500 9800
+Text Label 15700 12000 0    10   ~ 0
++7,5V
+Wire Wire Line
+	12200 10900 12400 10900
+Wire Wire Line
+	12400 10900 12800 10900
+Wire Wire Line
+	12800 10900 15500 10900
+Wire Wire Line
+	15500 12000 15500 10900
+Wire Wire Line
+	12400 10700 12400 10900
+Wire Wire Line
+	12800 10800 12800 10900
+Connection ~ 12400 10900
+Connection ~ 12800 10900
+Wire Wire Line
+	10800 9000 10800 9400
+Wire Wire Line
+	11000 9800 10800 9800
+Wire Wire Line
+	7500 10400 7400 10400
+Wire Wire Line
+	7100 11600 7500 11600
+Wire Wire Line
+	7500 11600 7500 10400
+Wire Wire Line
+	6825 11600 7100 11600
+Connection ~ 7100 11600
+Wire Wire Line
+	6000 10600 5600 10600
+Wire Wire Line
+	5900 9500 5900 9400
+Wire Wire Line
+	5600 9400 5600 10600
+Wire Wire Line
+	5900 9400 5900 9200
+Wire Wire Line
+	5900 9400 5600 9400
+Wire Wire Line
+	5600 10800 5600 10600
+Connection ~ 5600 10600
+Connection ~ 5900 9400
+Wire Wire Line
+	5900 10800 6000 10800
+Wire Wire Line
+	5900 11300 5900 10800
+Wire Wire Line
+	8700 11500 8700 11300
+Wire Wire Line
+	8700 11300 5900 11300
+Connection ~ 8700 11300
+Wire Wire Line
+	7400 10800 8400 10800
+Wire Wire Line
+	8400 10800 9000 10800
+Connection ~ 8400 10800
+Wire Wire Line
+	9100 11300 9200 11300
+Wire Wire Line
+	9200 11300 9200 11500
+Wire Wire Line
+	9200 11300 9500 11300
+Wire Wire Line
+	9500 12400 9500 11300
+Wire Wire Line
+	9500 12400 8725 12400
+Wire Wire Line
+	9200 11300 9200 10900
+Connection ~ 9200 11300
+Wire Wire Line
+	10100 10500 9200 10500
+Wire Wire Line
+	31300 6800 31400 6800
+Wire Wire Line
+	31400 6800 31400 6500
+Wire Wire Line
+	31400 6500 31400 6300
+Wire Wire Line
+	31400 6300 31400 6200
+Wire Wire Line
+	31400 6200 31400 5800
+Wire Wire Line
+	31400 5800 31300 5800
+Wire Wire Line
+	31400 5800 31500 5800
+Wire Wire Line
+	31500 6200 31400 6200
+Wire Wire Line
+	31500 6500 31400 6500
+Wire Wire Line
+	31300 6300 31400 6300
+Connection ~ 31400 5800
+Connection ~ 31400 6300
+Connection ~ 31400 6200
+Connection ~ 31400 6500
+Wire Wire Line
+	24200 11100 21200 11100
+Wire Wire Line
+	15100 11100 15100 12000
+Wire Wire Line
+	21200 11100 20800 11100
+Wire Wire Line
+	20800 11100 20200 11100
+Wire Wire Line
+	15100 11100 20200 11100
+Wire Wire Line
+	24200 11100 24500 11100
+Connection ~ 21200 11100
+Connection ~ 20800 11100
+Connection ~ 20200 11100
+Connection ~ 24200 11100
+Text Label 20500 11100 0    100  ~ 0
+UN
+Wire Wire Line
+	11700 10900 11800 10900
+Wire Wire Line
+	11700 10800 11700 10900
+Wire Wire Line
+	11700 10900 11300 10900
+Wire Wire Line
+	11300 10900 11200 10900
+Wire Wire Line
+	11300 10700 11300 10900
+Connection ~ 11300 10900
+Connection ~ 11700 10900
+Wire Wire Line
+	12000 9800 12100 9800
+Wire Wire Line
+	11600 9800 12000 9800
+Wire Wire Line
+	11400 9800 11600 9800
+Connection ~ 12000 9800
+Connection ~ 11600 9800
+Wire Wire Line
+	11900 9000 12100 9000
+Wire Wire Line
+	11600 9000 11900 9000
+Wire Wire Line
+	11600 9100 11600 9000
+Wire Wire Line
+	11200 9000 11600 9000
+Wire Wire Line
+	11200 9100 11200 9000
+Connection ~ 11900 9000
+Connection ~ 11600 9000
+Connection ~ 11200 9000
+Wire Wire Line
+	5900 9950 5900 9900
+Wire Wire Line
+	14400 6800 14400 6700
+Wire Wire Line
+	14500 6700 14400 6700
+Connection ~ 14400 6700
+Wire Wire Line
+	19600 3700 19600 3600
+Wire Wire Line
+	19700 3600 19600 3600
+Connection ~ 19600 3600
+Wire Wire Line
+	19500 6800 19500 6700
+Wire Wire Line
+	19500 6700 19700 6700
+Connection ~ 19500 6700
+Wire Wire Line
+	8800 1800 8500 1800
+Wire Wire Line
+	8500 1800 8000 1800
+Connection ~ 8500 1800
+Wire Wire Line
+	20700 4900 20900 4900
+Wire Wire Line
+	20900 4900 20900 5600
+Wire Wire Line
+	20700 4800 20700 4900
+Wire Wire Line
+	20900 5600 21800 5600
+Connection ~ 20700 4900
+Wire Wire Line
+	21800 6700 21800 6900
+Wire Wire Line
+	21800 6900 21800 7200
+Wire Wire Line
+	25200 6900 21800 6900
+Wire Wire Line
+	22200 7300 22200 7200
+Wire Wire Line
+	22200 7200 21800 7200
+Wire Wire Line
+	21800 7200 21500 7200
+Wire Wire Line
+	21500 7200 21500 7300
+Connection ~ 21800 6900
+Connection ~ 21800 7200
+Wire Wire Line
+	25800 7000 26000 7000
+Wire Wire Line
+	7600 1200 7700 1200
+Wire Wire Line
+	7800 1500 7700 1500
+Wire Wire Line
+	7700 1500 7600 1500
+Wire Wire Line
+	7700 1200 7700 1500
+Wire Wire Line
+	7800 1500 7800 1600
+Wire Wire Line
+	7600 900  7700 900 
+Wire Wire Line
+	7700 900  7700 1200
+Connection ~ 7700 1500
+Connection ~ 7700 1200
+Wire Wire Line
+	28900 5640 28900 5600
+Wire Wire Line
+	28900 5600 28900 5400
+Wire Wire Line
+	29200 4400 29000 4400
+Wire Wire Line
+	29000 4400 29000 4600
+Wire Wire Line
+	29000 4600 29000 5100
+Wire Wire Line
+	29000 5100 29000 5400
+Wire Wire Line
+	28600 4600 29000 4600
+Wire Wire Line
+	28600 4800 28600 4600
+Wire Wire Line
+	28900 5400 29000 5400
+Wire Wire Line
+	29200 4600 29000 4600
+Wire Wire Line
+	29200 5100 29000 5100
+Wire Wire Line
+	28500 4600 28600 4600
+Connection ~ 29000 4600
+Connection ~ 29000 5100
+Connection ~ 28900 5600
+Connection ~ 28600 4600
+Wire Wire Line
+	6000 10400 5900 10400
+Wire Wire Line
+	5900 10350 5900 10400
+Wire Wire Line
+	6000 11600 6000 11000
+Wire Wire Line
+	5800 11600 5800 12400
+Wire Wire Line
+	5800 11600 6000 11600
+Wire Wire Line
+	6000 11600 6425 11600
+Wire Wire Line
+	8325 12400 5800 12400
+Connection ~ 6000 11600
+Text Label 5800 12400 0    70   ~ 0
+RT/CT
+Wire Wire Line
+	10800 10900 10800 10500
+Wire Wire Line
+	15900 6600 15900 7000
+Wire Wire Line
+	15900 7000 15900 7800
+Wire Wire Line
+	17300 7800 15900 7800
+Wire Wire Line
+	17300 7800 17300 12000
+Wire Wire Line
+	15500 7000 15500 6900
+Wire Wire Line
+	15500 7000 15200 7000
+Wire Wire Line
+	15200 7000 15200 6800
+Wire Wire Line
+	15200 7100 15200 7000
+Wire Wire Line
+	15500 7000 15900 7000
+Connection ~ 15200 7000
+Connection ~ 15500 7000
+Connection ~ 15900 7000
+Text Label 15500 6950 0    100  ~ 0
+RDSON_M1
+Wire Wire Line
+	17500 7500 17500 12000
+Wire Wire Line
+	21000 7500 17500 7500
+Wire Wire Line
+	21000 6800 21000 7500
+Wire Wire Line
+	21000 6800 20600 6800
+Wire Wire Line
+	20600 6800 20200 6800
+Wire Wire Line
+	20200 7000 20200 6800
+Wire Wire Line
+	21000 6800 21000 6500
+Wire Wire Line
+	20200 6800 20200 6500
+Wire Wire Line
+	20600 7000 20600 6800
+Wire Wire Line
+	20600 6800 20600 6700
+Connection ~ 20200 6800
+Connection ~ 20600 6800
+Connection ~ 21000 6800
+Text Label 20400 6800 0    100  ~ 0
+RDSON_M2
+Wire Wire Line
+	15300 6200 15500 6400
+Wire Wire Line
+	15500 6400 15500 6500
+Connection ~ 15500 6400
+Wire Wire Line
+	20400 6000 20600 6200
+Wire Wire Line
+	20600 6300 20600 6200
+Connection ~ 20600 6200
+Wire Wire Line
+	28600 6000 28600 5850
+Wire Wire Line
+	28900 5900 28900 6000
+Wire Wire Line
+	28900 6000 28700 6000
+Wire Wire Line
+	28700 6000 28600 6000
+Wire Wire Line
+	28700 6400 28700 6000
+Connection ~ 28700 6000
+Text Label 28600 6000 0    10   ~ 0
+PE1
+Text Label 26900 5200 0    10   ~ 0
+PE1
+Wire Wire Line
+	1900 5400 1900 3200
+Wire Wire Line
+	1700 3300 1700 3200
+Wire Wire Line
+	1900 3200 1700 3200
+Wire Wire Line
+	1300 3300 1300 3200
+Wire Wire Line
+	1300 3200 1300 3100
+Wire Wire Line
+	1700 3200 1500 3200
+Wire Wire Line
+	1500 3200 1300 3200
+Wire Wire Line
+	1700 3100 1700 3200
+Wire Wire Line
+	1100 3100 1100 3200
+Wire Wire Line
+	1100 3200 1100 3300
+Wire Wire Line
+	1300 3200 1100 3200
+Wire Wire Line
+	1500 3100 1500 3200
+Wire Wire Line
+	1500 3200 1500 3300
+Connection ~ 1700 3200
+Connection ~ 1300 3200
+Connection ~ 1100 3200
+Connection ~ 1500 3200
+Wire Wire Line
+	31300 4600 31300 4500
+Wire Wire Line
+	32200 4600 31950 4600
+Wire Wire Line
+	31950 4300 31950 4400
+Wire Wire Line
+	31950 4400 31950 4600
+Wire Wire Line
+	31950 4600 31900 4600
+Wire Wire Line
+	31900 4700 31900 4600
+Wire Wire Line
+	31900 4600 31600 4600
+Wire Wire Line
+	31600 4700 31600 4600
+Wire Wire Line
+	31600 4600 31300 4600
+Wire Wire Line
+	31600 4550 31600 4600
+Connection ~ 31950 4400
+Connection ~ 31900 4600
+Connection ~ 31600 4600
+Connection ~ 31300 4600
+Connection ~ 31950 4600
+Wire Wire Line
+	29800 6300 29800 5900
+Wire Wire Line
+	29800 6600 29800 6300
+Wire Wire Line
+	29600 5900 29700 5900
+Wire Wire Line
+	29700 5900 29800 5900
+Wire Wire Line
+	29700 6600 29700 5900
+Connection ~ 29800 6300
+Connection ~ 29700 5900
+Connection ~ 29800 5900
+Wire Wire Line
+	25700 5900 25700 6000
+Wire Wire Line
+	25700 5800 25700 5900
+Wire Wire Line
+	25700 5700 25700 5800
+Wire Wire Line
+	25700 5600 25700 5700
+Wire Wire Line
+	25700 5500 25700 5600
+Wire Wire Line
+	25700 5400 25700 5500
+Wire Wire Line
+	25700 5300 25700 5400
+Wire Wire Line
+	25700 5200 25700 5300
+Wire Wire Line
+	25700 5100 25900 5100
+Wire Wire Line
+	25700 4900 25700 5000
+Wire Wire Line
+	25700 5000 25700 5100
+Wire Wire Line
+	25700 5100 25700 5200
+Wire Wire Line
+	25600 5100 25700 5100
+Wire Wire Line
+	25600 5100 25600 5400
+Wire Wire Line
+	25600 5400 25700 5400
+Wire Wire Line
+	25600 5400 25500 5400
+Wire Wire Line
+	25500 5400 25500 5100
+Wire Wire Line
+	25500 5400 25200 5400
+Wire Wire Line
+	25200 5100 25200 5400
+Wire Wire Line
+	25200 5400 24900 5400
+Wire Wire Line
+	24900 5100 24900 5400
+Wire Wire Line
+	24900 5400 24700 5400
+Wire Wire Line
+	24700 5400 24200 5400
+Wire Wire Line
+	24200 4800 24200 5400
+Wire Wire Line
+	24200 5400 24100 5400
+Wire Wire Line
+	24100 5200 24100 5400
+Wire Wire Line
+	24100 5400 23900 5400
+Wire Wire Line
+	23900 4800 23900 5400
+Wire Wire Line
+	23900 5400 23800 5400
+Wire Wire Line
+	23800 5200 23800 5400
+Wire Wire Line
+	23800 5400 23600 5400
+Wire Wire Line
+	23600 4800 23600 5400
+Wire Wire Line
+	23600 5400 23500 5400
+Wire Wire Line
+	23500 5200 23500 5400
+Wire Wire Line
+	23500 5400 23300 5400
+Wire Wire Line
+	23300 4800 23300 5400
+Wire Wire Line
+	23300 5400 23200 5400
+Wire Wire Line
+	23200 5200 23200 5400
+Wire Wire Line
+	23200 5400 22600 5400
+Wire Wire Line
+	22600 5000 22600 5100
+Wire Wire Line
+	22600 5100 22600 5400
+Wire Wire Line
+	25300 6000 25300 6100
+Wire Wire Line
+	25300 5900 25300 6000
+Wire Wire Line
+	25300 5800 25300 5900
+Wire Wire Line
+	25300 5700 25300 5800
+Wire Wire Line
+	25300 5600 25300 5700
+Wire Wire Line
+	25300 5500 25300 5600
+Wire Wire Line
+	25500 6000 25500 6100
+Wire Wire Line
+	25500 5900 25500 6000
+Wire Wire Line
+	25500 5800 25500 5900
+Wire Wire Line
+	25500 5700 25500 5800
+Wire Wire Line
+	25500 5600 25500 5700
+Wire Wire Line
+	25500 5500 25500 5600
+Wire Wire Line
+	25300 5500 25500 5500
+Wire Wire Line
+	25700 5500 25500 5500
+Wire Wire Line
+	22300 5100 22600 5100
+Wire Wire Line
+	24700 5100 24700 5400
+Connection ~ 25700 5900
+Connection ~ 25700 5800
+Connection ~ 25700 5700
+Connection ~ 25700 5600
+Connection ~ 25700 5500
+Connection ~ 25700 5400
+Connection ~ 25700 5300
+Connection ~ 25700 5200
+Connection ~ 25700 5000
+Connection ~ 25700 5100
+Connection ~ 25600 5400
+Connection ~ 25500 5400
+Connection ~ 25200 5400
+Connection ~ 24900 5400
+Connection ~ 24200 5400
+Connection ~ 24100 5400
+Connection ~ 23900 5400
+Connection ~ 23800 5400
+Connection ~ 23600 5400
+Connection ~ 23500 5400
+Connection ~ 23300 5400
+Connection ~ 23200 5400
+Connection ~ 25300 6000
+Connection ~ 25300 5900
+Connection ~ 25300 5800
+Connection ~ 25300 5700
+Connection ~ 25300 5600
+Connection ~ 25500 6000
+Connection ~ 25500 5900
+Connection ~ 25500 5800
+Connection ~ 25500 5700
+Connection ~ 25500 5600
+Connection ~ 25500 5500
+Connection ~ 22600 5100
+Connection ~ 24700 5400
+Wire Wire Line
+	31900 7700 33050 7700
+Wire Wire Line
+	18100 3600 18100 3700
+Wire Wire Line
+	18200 3600 18100 3600
+Connection ~ 18100 3600
+Wire Wire Line
+	18200 6700 18100 6700
+Wire Wire Line
+	18100 6700 18100 6800
+Connection ~ 18100 6700
+Wire Wire Line
+	13600 6700 13700 6700
+Wire Wire Line
+	13600 6700 13600 6800
+Connection ~ 13600 6700
+Wire Wire Line
+	1100 2100 1000 2100
+Wire Wire Line
+	1100 2500 1000 2500
+Wire Wire Line
+	1100 2400 1000 2400
+Wire Wire Line
+	1300 2300 1100 2300
+Wire Wire Line
+	1100 2300 1000 2300
+Wire Wire Line
+	1300 1400 1300 1300
+Wire Wire Line
+	1300 1400 1300 1700
+Wire Wire Line
+	1300 1700 1300 2100
+Wire Wire Line
+	1300 2100 1300 2200
+Wire Wire Line
+	1300 2200 1300 2300
+Wire Wire Line
+	1300 2400 1300 2300
+Wire Wire Line
+	1300 2400 1100 2400
+Wire Wire Line
+	1300 2500 1300 2400
+Wire Wire Line
+	1300 2500 1100 2500
+Wire Wire Line
+	1300 2700 1300 2600
+Wire Wire Line
+	1300 2600 1300 2500
+Wire Wire Line
+	1100 2700 1100 2600
+Wire Wire Line
+	1100 2600 1300 2600
+Wire Wire Line
+	1500 2600 1300 2600
+Wire Wire Line
+	1500 2700 1500 2600
+Wire Wire Line
+	1700 2600 1500 2600
+Wire Wire Line
+	1700 2700 1700 2600
+Wire Wire Line
+	3600 2500 3600 2600
+Wire Wire Line
+	3600 2600 3500 2600
+Wire Wire Line
+	3500 2800 3500 2600
+Wire Wire Line
+	3500 2600 3200 2600
+Wire Wire Line
+	3200 2600 2800 2600
+Wire Wire Line
+	2800 2600 2400 2600
+Wire Wire Line
+	2400 2600 2000 2600
+Wire Wire Line
+	2000 2600 1700 2600
+Wire Wire Line
+	2000 2800 2000 2600
+Wire Wire Line
+	1000 1700 1300 1700
+Wire Wire Line
+	1000 1500 1000 1600
+Wire Wire Line
+	1000 1600 1000 1700
+Wire Wire Line
+	1000 1700 1000 1800
+Wire Wire Line
+	1000 1800 1000 1900
+Wire Wire Line
+	1000 1900 1000 2000
+Wire Wire Line
+	1300 2200 1100 2200
+Wire Wire Line
+	1100 2200 1000 2200
+Wire Wire Line
+	3200 2800 3200 2600
+Wire Wire Line
+	2400 2800 2400 2600
+Wire Wire Line
+	1000 900  1000 1000
+Wire Wire Line
+	1000 1000 1000 1100
+Wire Wire Line
+	1000 1100 1000 1200
+Wire Wire Line
+	1000 1200 1000 1300
+Wire Wire Line
+	1000 1300 1000 1400
+Wire Wire Line
+	1000 1400 1000 1500
+Wire Wire Line
+	2800 2800 2800 2600
+Wire Wire Line
+	1100 2100 1300 2100
+Wire Wire Line
+	1300 1700 1500 1700
+Wire Wire Line
+	1500 1700 1500 1800
+Connection ~ 1300 1400
+Connection ~ 1300 2300
+Connection ~ 1300 2400
+Connection ~ 1300 2500
+Connection ~ 1300 2600
+Connection ~ 1500 2600
+Connection ~ 1700 2600
+Connection ~ 3600 2600
+Connection ~ 3500 2600
+Connection ~ 2000 2600
+Connection ~ 1300 1700
+Connection ~ 1000 1600
+Connection ~ 1000 1700
+Connection ~ 1000 1800
+Connection ~ 1000 1900
+Connection ~ 1100 2200
+Connection ~ 1100 2300
+Connection ~ 1100 2400
+Connection ~ 1100 2500
+Connection ~ 1300 2200
+Connection ~ 2400 2600
+Connection ~ 3200 2600
+Connection ~ 1000 1500
+Connection ~ 1000 1400
+Connection ~ 1000 1300
+Connection ~ 1000 1200
+Connection ~ 1000 1100
+Connection ~ 1000 1000
+Connection ~ 2800 2600
+Connection ~ 1300 2100
+Connection ~ 1100 2100
+Wire Wire Line
+	1300 3900 1100 3900
+Wire Wire Line
+	1100 3900 1000 3900
+Wire Wire Line
+	1300 3900 1300 4000
+Wire Wire Line
+	1300 4000 1300 4100
+Wire Wire Line
+	1300 4000 1100 4000
+Wire Wire Line
+	1100 4000 1000 4000
+Wire Wire Line
+	1000 4000 1000 3900
+Wire Wire Line
+	1000 4000 1000 4100
+Wire Wire Line
+	1100 4200 1000 4200
+Wire Wire Line
+	1000 4100 1000 4200
+Wire Wire Line
+	1700 3700 1700 3800
+Wire Wire Line
+	3600 3400 3600 3300
+Wire Wire Line
+	3500 3400 3600 3400
+Wire Wire Line
+	3500 3200 3500 3400
+Wire Wire Line
+	3500 3400 3200 3400
+Wire Wire Line
+	3200 3400 2800 3400
+Wire Wire Line
+	2800 3400 2400 3400
+Wire Wire Line
+	2400 3400 2000 3400
+Wire Wire Line
+	2000 3400 2000 3800
+Wire Wire Line
+	2000 3800 1700 3800
+Wire Wire Line
+	1700 3800 1500 3800
+Wire Wire Line
+	1500 3800 1300 3800
+Wire Wire Line
+	1300 3800 1300 3900
+Wire Wire Line
+	1300 4100 1100 4100
+Wire Wire Line
+	1100 4100 1000 4100
+Wire Wire Line
+	1300 4100 1300 4200
+Wire Wire Line
+	1300 4200 1100 4200
+Wire Wire Line
+	1300 5300 1300 4400
+Wire Wire Line
+	1300 4400 1300 4300
+Wire Wire Line
+	1300 5300 1300 5400
+Wire Wire Line
+	2000 3100 2000 3400
+Wire Wire Line
+	1100 3700 1100 3800
+Wire Wire Line
+	1100 3800 1300 3800
+Wire Wire Line
+	1500 3700 1500 3800
+Wire Wire Line
+	700  4500 700  4400
+Wire Wire Line
+	700  4400 1300 4400
+Wire Wire Line
+	700  4500 700  4600
+Wire Wire Line
+	700  4600 700  4700
+Wire Wire Line
+	700  4700 700  4800
+Wire Wire Line
+	700  4800 700  4900
+Wire Wire Line
+	700  4900 700  5000
+Wire Wire Line
+	1300 3700 1300 3800
+Wire Wire Line
+	3200 3200 3200 3400
+Wire Wire Line
+	2400 3100 2400 3400
+Wire Wire Line
+	700  5600 700  5500
+Wire Wire Line
+	700  5500 700  5400
+Wire Wire Line
+	700  5400 700  5300
+Wire Wire Line
+	700  5300 700  5200
+Wire Wire Line
+	700  5200 700  5100
+Wire Wire Line
+	700  5100 700  5000
+Wire Wire Line
+	2800 3100 2800 3400
+Wire Wire Line
+	1100 4300 1000 4300
+Wire Wire Line
+	1300 4200 1300 4300
+Wire Wire Line
+	1300 4300 1100 4300
+Wire Wire Line
+	1300 4800 1300 4400
+Wire Wire Line
+	1000 4200 1000 4300
+Wire Wire Line
+	1400 4800 1400 4500
+Wire Wire Line
+	1400 4500 1300 4400
+Connection ~ 1000 3900
+Connection ~ 1300 4000
+Connection ~ 1000 4000
+Connection ~ 1100 3900
+Connection ~ 1100 4000
+Connection ~ 1000 4200
+Connection ~ 1000 4100
+Connection ~ 3600 3400
+Connection ~ 3500 3400
+Connection ~ 1700 3800
+Connection ~ 1300 3800
+Connection ~ 1300 4100
+Connection ~ 1300 4200
+Connection ~ 1300 5300
+Connection ~ 2000 3400
+Connection ~ 1500 3800
+Connection ~ 700  4900
+Connection ~ 700  4800
+Connection ~ 700  4700
+Connection ~ 700  4600
+Connection ~ 700  4500
+Connection ~ 1300 4400
+Connection ~ 1100 4100
+Connection ~ 1100 4200
+Connection ~ 1300 3900
+Connection ~ 2400 3400
+Connection ~ 3200 3400
+Connection ~ 700  5000
+Connection ~ 700  5100
+Connection ~ 700  5200
+Connection ~ 700  5300
+Connection ~ 700  5400
+Connection ~ 700  5500
+Connection ~ 2800 3400
+Connection ~ 1300 4300
+Connection ~ 1100 4300
+Connection ~ 1000 4300
+Wire Wire Line
+	14700 6200 14700 6400
+Wire Wire Line
+	13900 6200 13900 6400
+Wire Wire Line
+	13900 6200 14700 6200
+Wire Wire Line
+	13100 6400 13100 6200
+Wire Wire Line
+	15900 5900 15900 6200
+Wire Wire Line
+	15900 5900 15500 5900
+Wire Wire Line
+	15500 6000 15500 5900
+Wire Wire Line
+	15500 5900 15200 5900
+Wire Wire Line
+	15200 5900 15200 6400
+Wire Wire Line
+	15200 5900 13900 5900
+Wire Wire Line
+	13900 5900 13900 6200
+Wire Wire Line
+	13900 3700 13900 4000
+Wire Wire Line
+	11100 4900 12400 4900
+Wire Wire Line
+	12400 4900 12800 4900
+Wire Wire Line
+	12800 5300 12800 4900
+Wire Wire Line
+	13500 5300 12800 5300
+Wire Wire Line
+	13500 5300 13500 4000
+Wire Wire Line
+	13100 3700 13100 4000
+Wire Wire Line
+	13100 4000 13500 4000
+Wire Wire Line
+	13500 4000 13600 4000
+Wire Wire Line
+	13600 3900 13600 4000
+Wire Wire Line
+	13600 4000 13900 4000
+Wire Wire Line
+	14700 3700 14700 4000
+Wire Wire Line
+	14400 4000 14700 4000
+Wire Wire Line
+	14400 3900 14400 4000
+Wire Wire Line
+	14400 4000 13900 4000
+Wire Wire Line
+	13900 4000 13900 5000
+Wire Wire Line
+	13900 5000 13900 5900
+Wire Wire Line
+	13900 5000 15300 5000
+Wire Wire Line
+	15300 2200 15300 5000
+Wire Wire Line
+	15300 2200 20400 2200
+Wire Wire Line
+	20700 4400 20700 4300
+Wire Wire Line
+	20900 4500 20900 4300
+Wire Wire Line
+	20900 4300 20700 4300
+Wire Wire Line
+	20700 4300 20400 4300
+Wire Wire Line
+	20400 4300 20400 2200
+Wire Wire Line
+	12800 3900 12800 4000
+Wire Wire Line
+	12800 4000 13100 4000
+Wire Wire Line
+	12200 6400 12200 6200
+Wire Wire Line
+	12200 6200 13100 6200
+Wire Wire Line
+	13100 6200 13900 6200
+Wire Wire Line
+	12500 3700 12500 4000
+Wire Wire Line
+	12500 4000 12800 4000
+Wire Wire Line
+	12500 4000 12200 4000
+Wire Wire Line
+	12200 4000 12200 3900
+Wire Wire Line
+	21500 4500 20900 4500
+Connection ~ 13900 6200
+Connection ~ 15500 5900
+Connection ~ 15200 5900
+Connection ~ 13900 5900
+Connection ~ 12400 4900
+Connection ~ 12800 4900
+Connection ~ 13500 4000
+Connection ~ 13600 4000
+Connection ~ 14400 4000
+Connection ~ 13900 4000
+Connection ~ 13900 5000
+Connection ~ 20700 4300
+Connection ~ 13100 4000
+Connection ~ 20400 4300
+Connection ~ 13100 6200
+Connection ~ 12800 4000
+Connection ~ 12500 4000
+Text Label 13100 6400 1    70   ~ 0
+DBRÜCKE1
+Wire Wire Line
+	21200 8000 21300 8000
+Wire Wire Line
+	21300 8000 21300 5100
+Wire Wire Line
+	21300 5100 21500 5100
+Wire Wire Line
+	20200 8000 19900 8000
+Wire Wire Line
+	19900 8100 19900 8000
+Wire Wire Line
+	19900 8000 19700 8000
+Wire Wire Line
+	20200 8000 20500 8000
+Wire Wire Line
+	19700 7800 19900 7800
+Wire Wire Line
+	19900 7800 19900 8000
+Connection ~ 19900 8000
+Connection ~ 20200 8000
+Wire Wire Line
+	30900 4600 30900 4500
+Wire Wire Line
+	29600 4400 29900 4400
+Wire Wire Line
+	29900 4600 29900 4400
+Wire Wire Line
+	29600 4600 29900 4600
+Wire Wire Line
+	29900 4600 30700 4600
+Wire Wire Line
+	30700 4600 30900 4600
+Wire Wire Line
+	29900 5100 29900 4600
+Wire Wire Line
+	29600 5100 29900 5100
+Wire Wire Line
+	30700 4500 30700 4600
+Connection ~ 30900 4600
+Connection ~ 29900 4600
+Connection ~ 30700 4600
+Wire Wire Line
+	32400 5000 32400 5200
+Wire Wire Line
+	32400 5000 32750 5000
+Wire Wire Line
+	31300 5200 31300 5100
+Wire Wire Line
+	31300 5200 31600 5200
+Wire Wire Line
+	31600 5200 31900 5200
+Wire Wire Line
+	31900 5200 32400 5200
+Wire Wire Line
+	31900 5100 31900 5200
+Wire Wire Line
+	31600 5100 31600 5200
+Wire Wire Line
+	32300 2350 33300 2350
+Wire Wire Line
+	33300 2350 33300 5000
+Wire Wire Line
+	33300 5000 32750 5000
+Wire Wire Line
+	33500 5600 32750 5000
+Wire Wire Line
+	33500 5200 33500 5600
+Connection ~ 31900 5200
+Connection ~ 31600 5200
+Connection ~ 31300 5200
+Connection ~ 32750 5000
+Text Label 33025 5000 0    150  ~ 0
+N1
+Wire Wire Line
+	12800 6700 12800 6800
+Wire Wire Line
+	12900 6700 12800 6700
+Connection ~ 12800 6700
+Wire Wire Line
+	12800 3600 12800 3700
+Wire Wire Line
+	12900 3600 12800 3600
+Connection ~ 12800 3600
+Wire Wire Line
+	13600 3700 13600 3600
+Wire Wire Line
+	13700 3600 13600 3600
+Connection ~ 13600 3600
+Wire Wire Line
+	14400 3700 14400 3600
+Wire Wire Line
+	14500 3600 14400 3600
+Connection ~ 14400 3600
+Wire Wire Line
+	18100 9000 18100 9200
+Wire Wire Line
+	18100 9200 18400 9200
+Wire Wire Line
+	18400 9200 18400 9300
+Wire Wire Line
+	18100 9200 17900 9200
+Wire Wire Line
+	17900 9200 17900 12000
+Connection ~ 18100 9200
+Text Label 17900 10725 1    70   ~ 0
+OVER
+Wire Wire Line
+	18900 8600 18900 8500
+Text Label 18900 8500 0    70   ~ 0
+ANALOG
+Wire Wire Line
+	32800 10100 32500 10100
+Text Label 32500 10100 0    70   ~ 0
+ANALOG
+Wire Wire Line
+	18900 9000 18900 9200
+Wire Wire Line
+	18900 9200 19200 9200
+Wire Wire Line
+	19200 9200 19200 9300
+Wire Wire Line
+	18900 9200 18700 9200
+Wire Wire Line
+	18700 9200 18700 10200
+Wire Wire Line
+	18700 10200 18100 10200
+Wire Wire Line
+	18100 10200 18100 12000
+Connection ~ 18900 9200
+Text Label 18100 10725 1    70   ~ 0
+ANA
+Wire Wire Line
+	29900 10100 29800 10100
+Wire Wire Line
+	29800 10100 29600 10100
+Wire Wire Line
+	29600 10100 29600 10800
+Wire Wire Line
+	29600 10800 28400 10800
+Wire Wire Line
+	28400 10800 28400 11900
+Wire Wire Line
+	28400 11900 25600 11900
+Wire Wire Line
+	18300 11900 18300 12000
+Wire Wire Line
+	25600 11900 18300 11900
+Wire Wire Line
+	25600 11900 25600 8100
+Wire Wire Line
+	25600 8100 26600 8100
+Wire Wire Line
+	26600 8100 26600 7800
+Connection ~ 29800 10100
+Connection ~ 25600 11900
+Text Label 20400 11900 0    70   ~ 0
+EXT.REL
+Wire Wire Line
+	31600 9100 32600 9100
+Wire Wire Line
+	32600 9100 32600 8900
+Wire Wire Line
+	32600 8900 32800 8900
+Wire Wire Line
+	28800 6900 28900 6900
+Wire Wire Line
+	28300 6900 28800 6900
+Wire Wire Line
+	28300 6100 28300 6900
+Wire Wire Line
+	26600 6100 28300 6100
+Wire Wire Line
+	26600 6900 26600 6100
+Wire Wire Line
+	26600 6900 26600 7300
+Wire Wire Line
+	26600 7300 26800 7300
+Wire Wire Line
+	26600 7400 26600 7300
+Connection ~ 28800 6900
+Connection ~ 26600 6900
+Connection ~ 26600 7300
+Wire Wire Line
+	29100 5900 29200 5900
+Wire Wire Line
+	29300 6600 29100 6600
+Wire Wire Line
+	29100 6600 29100 5900
+Wire Wire Line
+	29100 6700 29100 6600
+Connection ~ 29100 6600
+Wire Wire Line
+	32600 7900 33050 7900
+Wire Wire Line
+	33050 7600 32600 7600
+Wire Wire Line
+	32600 7600 32600 7900
+Wire Wire Line
+	32600 7900 32600 8200
+Wire Wire Line
+	32600 8200 28100 8200
+Wire Wire Line
+	28100 8200 28100 6400
+Wire Wire Line
+	27500 6700 27500 6400
+Wire Wire Line
+	28100 6400 27500 6400
+Connection ~ 32600 7900
+Wire Wire Line
+	18500 12000 18500 10900
+Text Label 18500 10900 0    70   ~ 0
+LED2
+Wire Wire Line
+	27000 7300 27000 7700
+Text Label 27000 7700 0    70   ~ 0
+LED2
+Wire Wire Line
+	26800 6900 27000 6900
+Wire Wire Line
+	27000 6900 27200 6900
+Wire Wire Line
+	27300 6900 27200 6900
+Connection ~ 27000 6900
+Connection ~ 27200 6900
+Wire Wire Line
+	30600 9400 30700 9400
+Wire Wire Line
+	30700 9400 30800 9400
+Wire Wire Line
+	30700 9800 30700 9400
+Wire Wire Line
+	30600 9800 30700 9800
+Wire Wire Line
+	30700 9800 30700 10100
+Wire Wire Line
+	30700 10100 30800 10100
+Wire Wire Line
+	30800 9800 30700 9800
+Connection ~ 30700 9400
+Connection ~ 30700 9800
+Wire Wire Line
+	30100 9400 30200 9400
+Wire Wire Line
+	30200 9800 30100 9800
+Wire Wire Line
+	30100 9800 30100 9400
+Wire Wire Line
+	30100 9900 30100 9800
+Connection ~ 30100 9800
+Wire Wire Line
+	32800 8700 31600 8700
+Wire Wire Line
+	21800 6000 21800 6100
+Wire Wire Line
+	21800 6100 21800 6300
+Wire Wire Line
+	21400 6100 21800 6100
+Connection ~ 21800 6100
+Wire Wire Line
+	31200 10100 31300 10100
+Wire Wire Line
+	14200 9600 14400 9600
+Wire Wire Line
+	14400 9600 14400 10100
+Wire Wire Line
+	14400 10100 14300 10100
+Wire Wire Line
+	15700 9700 15700 9500
+Wire Wire Line
+	16000 9300 16000 9500
+Wire Wire Line
+	16000 9500 15700 9500
+Wire Wire Line
+	15700 9700 15800 9700
+Wire Wire Line
+	15800 9700 15850 9800
+Wire Wire Line
+	15850 9800 15850 9850
+Wire Wire Line
+	15850 9850 15900 9850
+Connection ~ 15700 9500
+Connection ~ 15700 9700
+Wire Wire Line
+	15700 8900 15700 9100
+Wire Wire Line
+	15700 9100 15800 9100
+Wire Wire Line
+	15800 9100 15800 8900
+Wire Wire Line
+	15800 8900 16000 8900
+Connection ~ 15700 9100
+Connection ~ 15800 9100
+Wire Wire Line
+	15800 10100 15700 10100
+Wire Wire Line
+	15700 10100 15300 10100
+Wire Wire Line
+	15300 10100 15300 12000
+Wire Wire Line
+	15800 10100 15800 9950
+Wire Wire Line
+	15800 9950 15900 9950
+Connection ~ 15700 10100
+Wire Wire Line
+	23000 6200 23000 6100
+Wire Wire Line
+	24800 6300 24800 6200
+Wire Wire Line
+	24800 6200 24450 6200
+Wire Wire Line
+	24450 6200 23000 6200
+Wire Wire Line
+	24450 6200 24450 2050
+Wire Wire Line
+	31100 1400 31100 1350
+Wire Wire Line
+	31100 1350 31350 1350
+Wire Wire Line
+	31100 1350 31000 1350
+Wire Wire Line
+	24450 2050 30300 2050
+Wire Wire Line
+	30300 2050 31000 1350
+Connection ~ 24450 6200
+Connection ~ 31100 1350
+Text Label 23000 6100 2    80   ~ 0
+N$31
+Wire Wire Line
+	8400 9600 8400 9400
+Wire Wire Line
+	8800 9400 8800 9500
+Wire Wire Line
+	10100 9400 9700 9400
+Wire Wire Line
+	9700 9500 9700 9400
+Wire Wire Line
+	9700 9400 9500 9400
+Wire Wire Line
+	9500 9400 9200 9400
+Wire Wire Line
+	9200 9400 9200 9500
+Wire Wire Line
+	9200 9400 8800 9400
+Wire Wire Line
+	9500 9400 9500 9100
+Wire Wire Line
+	8100 9400 8400 9400
+Wire Wire Line
+	8100 9400 8100 9700
+Wire Wire Line
+	8100 9700 7900 9700
+Wire Wire Line
+	9100 9100 9500 9100
+Connection ~ 8400 9400
+Connection ~ 9200 9400
+Connection ~ 8800 9400
+Connection ~ 9500 9400
+Connection ~ 8100 9700
+Connection ~ 9500 9100
+Connection ~ 9700 9400
+Wire Wire Line
+	31900 9000 32000 9000
+Wire Wire Line
+	32000 9000 32000 8900
+Wire Wire Line
+	32000 8900 32000 8800
+Wire Wire Line
+	32000 8800 32800 8800
+Wire Wire Line
+	31900 8900 32000 8900
+Connection ~ 32000 8900
+Wire Wire Line
+	19000 8100 18700 8100
+Wire Wire Line
+	18700 8100 18700 7700
+Wire Wire Line
+	18700 7700 18800 7700
+Wire Wire Line
+	19200 7700 19300 7700
+Wire Wire Line
+	19300 7700 19300 7800
+Wire Wire Line
+	24500 10700 24800 10700
+Wire Wire Line
+	24500 10700 24200 10700
+Wire Wire Line
+	24800 10700 24800 10500
+Wire Wire Line
+	24800 10500 24100 10500
+Wire Wire Line
+	24000 10100 24100 10100
+Wire Wire Line
+	24100 10100 24200 10100
+Wire Wire Line
+	24400 10300 24100 10300
+Wire Wire Line
+	24100 10300 24100 10100
+Wire Wire Line
+	24100 10500 24100 10300
+Wire Wire Line
+	24200 9800 24100 9800
+Wire Wire Line
+	24100 9800 24100 10100
+Connection ~ 24500 10700
+Connection ~ 24100 10100
+Connection ~ 24100 10300
+Wire Wire Line
+	17600 3600 17500 3600
+Wire Wire Line
+	17500 3700 17500 3600
+Connection ~ 17500 3600
+Wire Wire Line
+	17600 6800 17600 6700
+Wire Wire Line
+	17600 6700 17700 6700
+Connection ~ 17600 6700
+Wire Wire Line
+	11800 6800 11800 6700
+Wire Wire Line
+	11800 6700 12000 6700
+Connection ~ 11800 6700
+Wire Wire Line
+	12200 3600 12300 3600
+Wire Wire Line
+	12200 3700 12200 3600
+Connection ~ 12200 3600
+Wire Wire Line
+	25700 3200 25700 3100
+Wire Wire Line
+	25700 3300 25700 3200
+Wire Wire Line
+	25700 3400 25700 3300
+Wire Wire Line
+	25700 3500 25700 3400
+Wire Wire Line
+	25700 3600 25700 3500
+Wire Wire Line
+	25700 3700 25700 3600
+Wire Wire Line
+	25500 4700 25500 4300
+Wire Wire Line
+	25700 4800 25800 4800
+Wire Wire Line
+	25700 3800 25700 3700
+Wire Wire Line
+	25700 3900 25700 3800
+Wire Wire Line
+	25700 4000 25700 3900
+Wire Wire Line
+	25700 4100 25700 4000
+Wire Wire Line
+	25700 4200 25700 4100
+Wire Wire Line
+	25700 4300 25700 4200
+Wire Wire Line
+	25700 4300 25700 4400
+Wire Wire Line
+	25700 4400 25700 4500
+Wire Wire Line
+	25700 4500 25700 4600
+Wire Wire Line
+	25700 4600 25700 4700
+Wire Wire Line
+	25700 4700 25700 4800
+Wire Wire Line
+	25600 4800 25700 4800
+Wire Wire Line
+	25600 4800 25600 4300
+Wire Wire Line
+	25600 4300 25700 4300
+Wire Wire Line
+	25600 4300 25500 4300
+Wire Wire Line
+	25200 4300 25500 4300
+Wire Wire Line
+	25200 4700 25200 4300
+Wire Wire Line
+	24900 4300 25200 4300
+Wire Wire Line
+	24900 4700 24900 4300
+Wire Wire Line
+	24200 4300 24700 4300
+Wire Wire Line
+	24700 4300 24900 4300
+Wire Wire Line
+	24200 4500 24200 4300
+Wire Wire Line
+	24100 4300 24200 4300
+Wire Wire Line
+	24100 4900 24100 4300
+Wire Wire Line
+	23900 4300 24100 4300
+Wire Wire Line
+	23900 4500 23900 4300
+Wire Wire Line
+	23800 4300 23900 4300
+Wire Wire Line
+	23800 4900 23800 4300
+Wire Wire Line
+	23600 4300 23800 4300
+Wire Wire Line
+	23600 4500 23600 4300
+Wire Wire Line
+	23500 4300 23600 4300
+Wire Wire Line
+	23500 4900 23500 4300
+Wire Wire Line
+	23300 4300 23500 4300
+Wire Wire Line
+	23300 4500 23300 4300
+Wire Wire Line
+	23200 4300 23300 4300
+Wire Wire Line
+	23200 4900 23200 4300
+Wire Wire Line
+	22600 4300 23200 4300
+Wire Wire Line
+	22600 4600 22600 4500
+Wire Wire Line
+	22600 4500 22600 4300
+Wire Wire Line
+	25700 2600 25700 2500
+Wire Wire Line
+	25700 2700 25700 2600
+Wire Wire Line
+	25700 2800 25700 2700
+Wire Wire Line
+	25700 2900 25700 2800
+Wire Wire Line
+	25700 3000 25700 2900
+Wire Wire Line
+	25700 3100 25700 3000
+Wire Wire Line
+	22300 4500 22600 4500
+Wire Wire Line
+	24700 4700 24700 4300
+Connection ~ 25700 3200
+Connection ~ 25700 3300
+Connection ~ 25700 3400
+Connection ~ 25700 3500
+Connection ~ 25700 3600
+Connection ~ 25700 3800
+Connection ~ 25700 3900
+Connection ~ 25700 4000
+Connection ~ 25700 4100
+Connection ~ 25700 4200
+Connection ~ 25700 4300
+Connection ~ 25700 4400
+Connection ~ 25700 4500
+Connection ~ 25700 4600
+Connection ~ 25700 4700
+Connection ~ 25700 4800
+Connection ~ 25600 4300
+Connection ~ 25500 4300
+Connection ~ 25200 4300
+Connection ~ 24900 4300
+Connection ~ 24200 4300
+Connection ~ 24100 4300
+Connection ~ 23900 4300
+Connection ~ 23800 4300
+Connection ~ 23600 4300
+Connection ~ 23500 4300
+Connection ~ 23300 4300
+Connection ~ 23200 4300
+Connection ~ 25700 3700
+Connection ~ 25700 2600
+Connection ~ 25700 2700
+Connection ~ 25700 2800
+Connection ~ 25700 2900
+Connection ~ 25700 3000
+Connection ~ 25700 3100
+Connection ~ 22600 4500
+Connection ~ 24700 4300
+Wire Wire Line
+	19300 8000 19200 8000
+Wire Wire Line
+	19000 7900 19200 7900
+Wire Wire Line
+	19200 7900 19200 8000
+Wire Wire Line
+	19200 8000 17700 8000
+Wire Wire Line
+	17700 8000 17700 12000
+Connection ~ 19200 8000
+Wire Wire Line
+	32300 2050 32400 2050
+Wire Wire Line
+	32400 2050 32400 2150
+Wire Wire Line
+	32400 2150 32300 2150
+Wire Wire Line
+	6850 1200 7200 1200
+Wire Wire Line
+	26800 1500 26850 1500
+Wire Wire Line
+	26800 1150 26800 1500
+Wire Wire Line
+	22150 1150 26800 1150
+Wire Wire Line
+	22150 700  22150 1150
+Wire Wire Line
+	6850 700  22150 700 
+Wire Wire Line
+	7200 900  6850 900 
+Wire Wire Line
+	6850 900  6850 700 
+Wire Wire Line
+	6850 900  6850 1200
+Wire Wire Line
+	7200 1500 6850 1500
+Wire Wire Line
+	6850 1500 6850 1200
+Wire Wire Line
+	8100 2600 8100 2900
+Wire Wire Line
+	14700 3100 14700 3300
+Wire Wire Line
+	13900 3100 13900 3300
+Wire Wire Line
+	13900 3100 14700 3100
+Wire Wire Line
+	13100 3300 13100 3100
+Wire Wire Line
+	12500 3300 12500 3100
+Wire Wire Line
+	12500 3100 13100 3100
+Wire Wire Line
+	13100 3100 13900 3100
+Wire Wire Line
+	14900 4400 14900 3000
+Wire Wire Line
+	14900 3000 13900 3000
+Wire Wire Line
+	13900 3000 13900 3100
+Wire Wire Line
+	13900 2600 13900 3000
+Wire Wire Line
+	20000 4100 20000 3000
+Wire Wire Line
+	19900 3100 19900 3300
+Wire Wire Line
+	19100 3300 19100 3100
+Wire Wire Line
+	19100 3100 19900 3100
+Wire Wire Line
+	17800 3100 17800 3300
+Wire Wire Line
+	18400 3300 18400 3100
+Wire Wire Line
+	18400 3100 17800 3100
+Wire Wire Line
+	18400 3100 19100 3100
+Wire Wire Line
+	19100 3100 19100 3000
+Wire Wire Line
+	19100 3000 20000 3000
+Wire Wire Line
+	19100 3000 19100 2600
+Wire Wire Line
+	19100 2600 16900 2600
+Wire Wire Line
+	16900 2800 16900 2600
+Wire Wire Line
+	16900 2600 13900 2600
+Wire Wire Line
+	13900 2600 8700 2600
+Wire Wire Line
+	8700 2600 8700 2900
+Wire Wire Line
+	8700 2600 8400 2600
+Wire Wire Line
+	8400 2900 8400 2600
+Wire Wire Line
+	8400 2600 8100 2600
+Wire Wire Line
+	7800 2900 7800 2600
+Wire Wire Line
+	7800 2600 8100 2600
+Wire Wire Line
+	7500 2600 7800 2600
+Wire Wire Line
+	7500 2900 7500 2600
+Wire Wire Line
+	7200 2600 7500 2600
+Wire Wire Line
+	7200 2900 7200 2600
+Wire Wire Line
+	6850 2600 7200 2600
+Wire Wire Line
+	6850 2600 6850 1500
+Wire Wire Line
+	6200 2900 6200 2600
+Wire Wire Line
+	6200 2600 6850 2600
+Wire Wire Line
+	9100 8700 9500 8700
+Wire Wire Line
+	9500 8700 9500 8500
+Wire Wire Line
+	18100 8500 18100 8600
+Wire Wire Line
+	15700 8500 18100 8500
+Wire Wire Line
+	15700 8500 9500 8500
+Wire Wire Line
+	9500 8500 6050 8500
+Wire Wire Line
+	6050 8500 6050 2600
+Wire Wire Line
+	5900 2900 5900 2600
+Wire Wire Line
+	5650 2900 5650 2600
+Wire Wire Line
+	5250 2850 5250 2600
+Wire Wire Line
+	4750 2850 4750 2600
+Wire Wire Line
+	4600 2700 4600 2600
+Wire Wire Line
+	4200 2500 4200 2600
+Wire Wire Line
+	4200 2600 4400 2600
+Wire Wire Line
+	4400 2750 4400 2600
+Wire Wire Line
+	4400 2600 4600 2600
+Wire Wire Line
+	4600 2600 4750 2600
+Wire Wire Line
+	4750 2600 4900 2600
+Wire Wire Line
+	4800 3700 4900 3700
+Wire Wire Line
+	4900 3700 5100 3700
+Wire Wire Line
+	4900 3700 4900 2600
+Wire Wire Line
+	4900 2600 5250 2600
+Wire Wire Line
+	5250 2600 5650 2600
+Wire Wire Line
+	5650 2600 5900 2600
+Wire Wire Line
+	5900 2600 6050 2600
+Wire Wire Line
+	6050 2600 6200 2600
+Connection ~ 6850 900 
+Connection ~ 6850 1200
+Connection ~ 6850 1500
+Connection ~ 13100 3100
+Connection ~ 13900 3100
+Connection ~ 13900 3000
+Connection ~ 18400 3100
+Connection ~ 19100 3100
+Connection ~ 19100 3000
+Connection ~ 16900 2600
+Connection ~ 13900 2600
+Connection ~ 8700 2600
+Connection ~ 8400 2600
+Connection ~ 8100 2600
+Connection ~ 7800 2600
+Connection ~ 7500 2600
+Connection ~ 7200 2600
+Connection ~ 6850 2600
+Connection ~ 6200 2600
+Connection ~ 9500 8700
+Connection ~ 15700 8500
+Connection ~ 9500 8500
+Connection ~ 4200 2600
+Connection ~ 4400 2600
+Connection ~ 4600 2600
+Connection ~ 4750 2600
+Connection ~ 4900 3700
+Connection ~ 4900 2600
+Connection ~ 5250 2600
+Connection ~ 5650 2600
+Connection ~ 5900 2600
+Connection ~ 6050 2600
+Wire Wire Line
+	32950 3900 32950 2300
+Wire Wire Line
+	31600 3900 32950 3900
+Wire Wire Line
+	31600 4150 31600 3900
+Wire Wire Line
+	30700 3900 31600 3900
+Wire Wire Line
+	30700 4100 30700 3900
+Connection ~ 31600 3900
+Wire Wire Line
+	31600 2350 31500 2350
+Wire Wire Line
+	31450 2550 31600 2550
+Wire Wire Line
+	31600 2550 31600 2350
+Connection ~ 31600 2350
+Wire Wire Line
+	31600 2150 31500 2150
+Wire Wire Line
+	31500 2150 31500 2050
+Wire Wire Line
+	31500 2050 31600 2050
+Wire Wire Line
+	30850 2300 30850 2550
+Wire Wire Line
+	31050 2550 30850 2550
+Wire Wire Line
+	31600 1850 31100 1850
+Wire Wire Line
+	31100 1850 30850 1850
+Wire Wire Line
+	30850 1850 30850 1900
+Wire Wire Line
+	31100 1800 31100 1850
+Connection ~ 31100 1850
+Wire Wire Line
+	30650 2100 30650 2550
+Wire Wire Line
+	30650 2550 30550 2550
+Wire Wire Line
+	28200 1500 28200 2100
+Wire Wire Line
+	28200 2100 30050 2100
+Wire Wire Line
+	30050 2100 30450 2100
+Wire Wire Line
+	30450 2100 30800 1750
+Wire Wire Line
+	30800 1750 30850 1750
+Wire Wire Line
+	30850 1750 31050 1950
+Wire Wire Line
+	31050 1950 31050 2100
+Wire Wire Line
+	27900 1500 28200 1500
+Connection ~ 30050 2100
+Wire Wire Line
+	27250 1500 27700 1500
+Wire Wire Line
+	32950 1900 32950 1850
+Wire Wire Line
+	32950 1850 32300 1850
+Wire Wire Line
+	14500 11500 14500 12000
+Wire Wire Line
+	14600 11500 14700 11600
+Wire Wire Line
+	14700 11600 14700 12000
+Wire Wire Line
+	30900 5100 30700 5100
+Wire Wire Line
+	30700 5100 30700 5200
+Wire Wire Line
+	30700 5200 30900 5200
+Wire Wire Line
+	30350 3850 30350 5200
+Wire Wire Line
+	30350 5200 30700 5200
+Wire Wire Line
+	30350 3850 30500 3850
+Wire Wire Line
+	30500 3850 30500 3200
+Wire Wire Line
+	30500 3200 29700 3200
+Wire Wire Line
+	29700 3200 29700 3500
+Wire Wire Line
+	29700 3500 29900 3500
+Wire Wire Line
+	29900 3500 29900 3450
+Wire Wire Line
+	28600 5400 28600 5100
+Wire Wire Line
+	28500 5400 28600 5400
+Wire Wire Line
+	28600 5400 28600 5550
+Wire Wire Line
+	30150 5200 28750 5200
+Wire Wire Line
+	28750 5200 28750 5400
+Wire Wire Line
+	28750 5400 28600 5400
+Wire Wire Line
+	30150 3450 30150 5200
+Wire Wire Line
+	29900 3450 30150 3450
+Connection ~ 30700 5200
+Connection ~ 28600 5400
+$Comp
+L SI3002V4.1-rescue:GND-SI3002V4.1-eagle-import #U$0136
+U 1 1 6DF59C4C
+P 15700 5600
+F 0 "#U$0136" H 15700 5600 50  0001 C CNN
+F 1 "GND" H 15700 5600 50  0001 C CNN
+F 2 "" H 15700 5600 50  0001 C CNN
+F 3 "" H 15700 5600 50  0001 C CNN
+	1    15700 5600
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:GND-SI3002V4.1-eagle-import #U$0137
+U 1 1 814EB1EA
+P 9500 5600
+F 0 "#U$0137" H 9500 5600 50  0001 C CNN
+F 1 "GND" H 9500 5600 50  0001 C CNN
+F 2 "" H 9500 5600 50  0001 C CNN
+F 3 "" H 9500 5600 50  0001 C CNN
+	1    9500 5600
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:GND-SI3002V4.1-eagle-import #U$0147
+U 1 1 197E97CB
+P 8700 7500
+F 0 "#U$0147" H 8700 7500 50  0001 C CNN
+F 1 "GND" H 8700 7500 50  0001 C CNN
+F 2 "" H 8700 7500 50  0001 C CNN
+F 3 "" H 8700 7500 50  0001 C CNN
+	1    8700 7500
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:CAP11-SI3002V4.1-eagle-import C316
+U 1 1 90038B33
+P 22600 4800
+F 0 "C316" H 22500 4900 85  0000 L BNN
+F 1 "22µF/63V" H 22500 4650 68  0000 L BNN
+F 2 "SI3002V4.1:C-27,5" H 22600 4800 50  0001 C CNN
+F 3 "" H 22600 4800 50  0001 C CNN
+	1    22600 4800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:+5V-SI3002V4.1-eagle-import #U$0207
+U 1 1 3DC6C23D
+P 32100 6300
+F 0 "#U$0207" H 32100 6300 50  0001 C CNN
+F 1 "+5V" H 32000 6500 85  0000 L BNN
+F 2 "" H 32100 6300 50  0001 C CNN
+F 3 "" H 32100 6300 50  0001 C CNN
+	1    32100 6300
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:GND-SI3002V4.1-eagle-import #U$0208
+U 1 1 AE3E49C2
+P 30800 7900
+F 0 "#U$0208" H 30800 7900 50  0001 C CNN
+F 1 "GND" H 30800 7900 50  0001 C CNN
+F 2 "" H 30800 7900 50  0001 C CNN
+F 3 "" H 30800 7900 50  0001 C CNN
+	1    30800 7900
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:+15V-SI3002V4.1-eagle-import #U$0215
+U 1 1 E9C7DD0F
+P 18500 4300
+F 0 "#U$0215" H 18500 4300 50  0001 C CNN
+F 1 "+15V" H 18100 4300 85  0000 L BNN
+F 2 "" H 18500 4300 50  0001 C CNN
+F 3 "" H 18500 4300 50  0001 C CNN
+	1    18500 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:+15V-SI3002V4.1-eagle-import #U$0216
+U 1 1 B370812A
+P 13300 4400
+F 0 "#U$0216" H 13300 4400 50  0001 C CNN
+F 1 "+15V" H 12900 4400 85  0000 L BNN
+F 2 "" H 13300 4400 50  0001 C CNN
+F 3 "" H 13300 4400 50  0001 C CNN
+	1    13300 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:+5V-SI3002V4.1-eagle-import #U$0217
+U 1 1 82B40965
+P 15700 4500
+F 0 "#U$0217" H 15700 4500 50  0001 C CNN
+F 1 "+5V" H 15800 4600 85  0000 L BNN
+F 2 "" H 15700 4500 50  0001 C CNN
+F 3 "" H 15700 4500 50  0001 C CNN
+	1    15700 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:+5V-SI3002V4.1-eagle-import #U$0218
+U 1 1 DA379590
+P 9500 4500
+F 0 "#U$0218" H 9500 4500 50  0001 C CNN
+F 1 "+5V" H 9300 4600 85  0000 L BNN
+F 2 "" H 9500 4500 50  0001 C CNN
+F 3 "" H 9500 4500 50  0001 C CNN
+	1    9500 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:GND-SI3002V4.1-eagle-import #U$06
+U 1 1 CE08125E
+P 13600 10400
+F 0 "#U$06" H 13600 10400 50  0001 C CNN
+F 1 "GND" H 13600 10400 50  0001 C CNN
+F 2 "" H 13600 10400 50  0001 C CNN
+F 3 "" H 13600 10400 50  0001 C CNN
+	1    13600 10400
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:GND-SI3002V4.1-eagle-import #U$010
+U 1 1 2B263A79
+P 7400 12100
+F 0 "#U$010" H 7400 12100 50  0001 C CNN
+F 1 "GND" H 7400 12100 50  0001 C CNN
+F 2 "" H 7400 12100 50  0001 C CNN
+F 3 "" H 7400 12100 50  0001 C CNN
+	1    7400 12100
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:GND-SI3002V4.1-eagle-import #U$049
+U 1 1 F6E78796
+P 8400 10000
+F 0 "#U$049" H 8400 10000 50  0001 C CNN
+F 1 "GND" H 8400 10000 50  0001 C CNN
+F 2 "" H 8400 10000 50  0001 C CNN
+F 3 "" H 8400 10000 50  0001 C CNN
+	1    8400 10000
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:+5V-SI3002V4.1-eagle-import #U$0241
+U 1 1 C918912A
+P 15100 9600
+F 0 "#U$0241" H 15100 9600 50  0001 C CNN
+F 1 "+5V" H 15000 9800 85  0000 L BNN
+F 2 "" H 15100 9600 50  0001 C CNN
+F 3 "" H 15100 9600 50  0001 C CNN
+	1    15100 9600
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:+15V-SI3002V4.1-eagle-import #U$0242
+U 1 1 81DADCDF
+P 7600 9200
+F 0 "#U$0242" H 7600 9200 50  0001 C CNN
+F 1 "+15V" H 7700 9300 85  0000 L BNN
+F 2 "" H 7600 9200 50  0001 C CNN
+F 3 "" H 7600 9200 50  0001 C CNN
+	1    7600 9200
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:GND-SI3002V4.1-eagle-import #U$0244
+U 1 1 5E91CB51
+P 8800 10000
+F 0 "#U$0244" H 8800 10000 50  0001 C CNN
+F 1 "GND" H 8800 10000 50  0001 C CNN
+F 2 "" H 8800 10000 50  0001 C CNN
+F 3 "" H 8800 10000 50  0001 C CNN
+	1    8800 10000
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:GND-SI3002V4.1-eagle-import #U$0245
+U 1 1 F2C6DEAE
+P 9200 10000
+F 0 "#U$0245" H 9200 10000 50  0001 C CNN
+F 1 "GND" H 9200 10000 50  0001 C CNN
+F 2 "" H 9200 10000 50  0001 C CNN
+F 3 "" H 9200 10000 50  0001 C CNN
+	1    9200 10000
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:+15V-SI3002V4.1-eagle-import #U$0246
+U 1 1 7FB4A0FD
+P 31900 5500
+F 0 "#U$0246" H 31900 5500 50  0001 C CNN
+F 1 "+15V" H 31500 5600 85  0000 L BNN
+F 2 "" H 31900 5500 50  0001 C CNN
+F 3 "" H 31900 5500 50  0001 C CNN
+	1    31900 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:HFTR_RM5-SI3002V4.1-eagle-import TRA302
+U 1 1 D9F87FB9
+P 10300 9900
+F 0 "TRA302" H 10150 10500 85  0000 L BNN
+F 1 "HFTRRM5" H 10150 9200 85  0000 L BNN
+F 2 "SI3002V4.1:TRA-RM5" H 10300 9900 50  0001 C CNN
+F 3 "" H 10300 9900 50  0001 C CNN
+	1    10300 9900
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:+15V-SI3002V4.1-eagle-import #U$0249
+U 1 1 1FAA8997
+P 13800 8800
+F 0 "#U$0249" H 13800 8800 50  0001 C CNN
+F 1 "+15V" H 13900 8900 85  0000 L BNN
+F 2 "" H 13800 8800 50  0001 C CNN
+F 3 "" H 13800 8800 50  0001 C CNN
+	1    13800 8800
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:+7,5V-SI3002V4.1-eagle-import #U$0250
+U 1 1 F8BE309A
+P 13200 9500
+F 0 "#U$0250" H 13200 9500 50  0001 C CNN
+F 1 "+7,5V" H 13300 9500 85  0000 L BNN
+F 2 "" H 13200 9500 50  0001 C CNN
+F 3 "" H 13200 9500 50  0001 C CNN
+	1    13200 9500
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:-7,5V-SI3002V4.1-eagle-import #U$0251
+U 1 1 E87EA68E
+P 12800 11200
+F 0 "#U$0251" H 12800 11200 50  0001 C CNN
+F 1 "-7,5V" H 12900 11100 85  0000 L BNN
+F 2 "" H 12800 11200 50  0001 C CNN
+F 3 "" H 12800 11200 50  0001 C CNN
+	1    12800 11200
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:+7,5V-SI3002V4.1-eagle-import #U$0252
+U 1 1 9A2BCF0A
+P 5600 8500
+F 0 "#U$0252" H 5600 8500 50  0001 C CNN
+F 1 "+7,5V" H 5700 8500 85  0000 L BNN
+F 2 "" H 5600 8500 50  0001 C CNN
+F 3 "" H 5600 8500 50  0001 C CNN
+	1    5600 8500
+	-1   0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:MSTB03-SI3002V4.1-eagle-import CON303
+U 1 1 92F28213
+P 33600 5200
+F 0 "CON303" H 33400 5800 76  0000 L BNN
+F 1 "MSTB03" H 33600 5200 50  0001 C CNN
+F 2 "SI3002V4.1:MSTB-03" H 33600 5200 50  0001 C CNN
+F 3 "" H 33600 5200 50  0001 C CNN
+	1    33600 5200
+	-1   0    0    1   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:+5V-SI3002V4.1-eagle-import #U$07
+U 1 1 63C62AE7
+P 30400 6400
+F 0 "#U$07" H 30400 6400 50  0001 C CNN
+F 1 "+5V" H 30500 6500 85  0000 L BNN
+F 2 "" H 30400 6400 50  0001 C CNN
+F 3 "" H 30400 6400 50  0001 C CNN
+	1    30400 6400
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:GND-SI3002V4.1-eagle-import #U$08
+U 1 1 59F585D1
+P 29100 7400
+F 0 "#U$08" H 29100 7400 50  0001 C CNN
+F 1 "GND" H 29100 7400 50  0001 C CNN
+F 2 "" H 29100 7400 50  0001 C CNN
+F 3 "" H 29100 7400 50  0001 C CNN
+	1    29100 7400
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:+15V-SI3002V4.1-eagle-import #U$011
+U 1 1 ABBF7E6D
+P 30200 5600
+F 0 "#U$011" H 30200 5600 50  0001 C CNN
+F 1 "+15V" H 29800 5700 85  0000 L BNN
+F 2 "" H 30200 5600 50  0001 C CNN
+F 3 "" H 30200 5600 50  0001 C CNN
+	1    30200 5600
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:GND-SI3002V4.1-eagle-import #U$013
+U 1 1 33430DC8
+P 26300 10100
+F 0 "#U$013" H 26300 10100 50  0001 C CNN
+F 1 "GND" H 26300 10100 50  0001 C CNN
+F 2 "" H 26300 10100 50  0001 C CNN
+F 3 "" H 26300 10100 50  0001 C CNN
+	1    26300 10100
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:GND@2-SI3002V4.1-eagle-import #U$015
+U 1 1 E21F42B3
+P 7800 2000
+F 0 "#U$015" H 7800 2000 50  0001 C CNN
+F 1 "GND" V 7700 1800 59  0000 L BNN
+F 2 "" H 7800 2000 50  0001 C CNN
+F 3 "" H 7800 2000 50  0001 C CNN
+	1    7800 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:GND@2-SI3002V4.1-eagle-import #U$016
+U 1 1 AA91967F
+P 8500 2300
+F 0 "#U$016" H 8500 2300 50  0001 C CNN
+F 1 "GND" V 8400 2100 59  0000 L BNN
+F 2 "" H 8500 2300 50  0001 C CNN
+F 3 "" H 8500 2300 50  0001 C CNN
+	1    8500 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:DOCFIELD-SI3002V4.1-eagle-import #U$17
+U 1 1 29AF302F
+P 29200 12300
+F 0 "#U$17" H 29200 12300 50  0001 C CNN
+F 1 "DOCFIELD" H 29200 12300 50  0001 C CNN
+F 2 "" H 29200 12300 50  0001 C CNN
+F 3 "" H 29200 12300 50  0001 C CNN
+	1    29200 12300
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:SPANREG-SI3002V4.1-eagle-import U301
+U 1 1 EF2D60A2
+P 13900 9800
+F 0 "U301" H 13600 9875 59  0000 L BNN
+F 1 "MIC5201-5,0BM" H 13600 9900 51  0000 L BNN
+F 2 "SI3002V4.1:SO-8" H 13900 9800 50  0001 C CNN
+F 3 "" H 13900 9800 50  0001 C CNN
+	1    13900 9800
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:UC2843D-SI3002V4.1-eagle-import IC305
+U 1 1 EB314EDD
+P 6700 10700
+F 0 "IC305" H 6300 11150 85  0000 L BNN
+F 1 "UC2843D" H 6300 10150 85  0000 L BNN
+F 2 "SI3002V4.1:SO-14" H 6700 10700 50  0001 C CNN
+F 3 "" H 6700 10700 50  0001 C CNN
+	1    6700 10700
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:IR2110-SI3002V4.1-eagle-import IC302
+U 1 1 2F1F78B7
+P 16900 5100
+F 0 "IC302" H 16600 5950 85  0000 L BNN
+F 1 "IR2110S" H 16600 4250 85  0000 L BNN
+F 2 "SI3002V4.1:SO-16L" H 16900 5100 50  0001 C CNN
+F 3 "" H 16900 5100 50  0001 C CNN
+	1    16900 5100
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:IR2110-SI3002V4.1-eagle-import IC301
+U 1 1 B4DA5D0E
+P 10700 5100
+F 0 "IC301" H 10400 5950 85  0000 L BNN
+F 1 "IR2110S" H 10400 4250 85  0000 L BNN
+F 2 "SI3002V4.1:SO-16L" H 10700 5100 50  0001 C CNN
+F 3 "" H 10700 5100 50  0001 C CNN
+	1    10700 5100
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:CAP11-SI3002V4.1-eagle-import C350
+U 1 1 9D9E9DA3
+P 25500 4900
+F 0 "C350" H 25400 5000 85  0000 L BNN
+F 1 "22µ/63V" H 25400 4750 68  0000 L BNN
+F 2 "SI3002V4.1:C-27,5" H 25500 4900 50  0001 C CNN
+F 3 "" H 25500 4900 50  0001 C CNN
+	1    25500 4900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:4093D-SI3002V4.1-eagle-import IC307
+U 1 1 ACF2730D
+P 25500 7000
+F 0 "IC307" H 25450 6975 59  0000 L BNN
+F 1 "4093" H 25600 6800 59  0001 L BNN
+F 2 "SI3002V4.1:SO14" H 25500 7000 50  0001 C CNN
+F 3 "" H 25500 7000 50  0001 C CNN
+	1    25500 7000
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:4093D-SI3002V4.1-eagle-import IC307
+U 2 1 ACF27301
+P 26300 6900
+F 0 "IC307" H 26250 6875 59  0000 L BNN
+F 1 "4093" H 26400 6700 59  0001 L BNN
+F 2 "SI3002V4.1:SO14" H 26300 6900 50  0001 C CNN
+F 3 "" H 26300 6900 50  0001 C CNN
+	2    26300 6900
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:4093D-SI3002V4.1-eagle-import IC307
+U 3 1 ACF27305
+P 27000 9200
+F 0 "IC307" H 26950 9175 59  0000 L BNN
+F 1 "4093" H 27100 9000 59  0001 L BNN
+F 2 "SI3002V4.1:SO14" H 27000 9200 50  0001 C CNN
+F 3 "" H 27000 9200 50  0001 C CNN
+	3    27000 9200
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:4093D-SI3002V4.1-eagle-import IC307
+U 4 1 ACF27319
+P 27000 9900
+F 0 "IC307" H 26950 9875 59  0000 L BNN
+F 1 "4093" H 27100 9700 59  0001 L BNN
+F 2 "SI3002V4.1:SO14" H 27000 9900 50  0001 C CNN
+F 3 "" H 27000 9900 50  0001 C CNN
+	4    27000 9900
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:4093D-SI3002V4.1-eagle-import IC307
+U 5 1 ACF2731D
+P 26300 9600
+F 0 "IC307" H 26250 9575 59  0000 L BNN
+F 1 "4093" H 26400 9400 59  0001 L BNN
+F 2 "SI3002V4.1:SO14" H 26300 9600 50  0001 C CNN
+F 3 "" H 26300 9600 50  0001 C CNN
+	5    26300 9600
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:GND@2-SI3002V4.1-eagle-import #U$014
+U 1 1 E57CA898
+P 20300 4850
+F 0 "#U$014" H 20300 4850 50  0001 C CNN
+F 1 "GND" V 20200 4650 59  0000 L BNN
+F 2 "" H 20300 4850 50  0001 C CNN
+F 3 "" H 20300 4850 50  0001 C CNN
+	1    20300 4850
+	0    1    1    0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:GND@2-SI3002V4.1-eagle-import #U$018
+U 1 1 BC31453E
+P 21400 6600
+F 0 "#U$018" H 21400 6600 50  0001 C CNN
+F 1 "GND" V 21300 6400 59  0000 L BNN
+F 2 "" H 21400 6600 50  0001 C CNN
+F 3 "" H 21400 6600 50  0001 C CNN
+	1    21400 6600
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:GND@2-SI3002V4.1-eagle-import #U$019
+U 1 1 F3CBD250
+P 21800 7700
+F 0 "#U$019" H 21800 7700 50  0001 C CNN
+F 1 "GND" V 21700 7500 59  0000 L BNN
+F 2 "" H 21800 7700 50  0001 C CNN
+F 3 "" H 21800 7700 50  0001 C CNN
+	1    21800 7700
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:+5V@2-SI3002V4.1-eagle-import #U$020
+U 1 1 CEA12E7C
+P 26000 6500
+F 0 "#U$020" H 26000 6500 50  0001 C CNN
+F 1 "+5V" V 25900 6300 59  0000 L BNN
+F 2 "" H 26000 6500 50  0001 C CNN
+F 3 "" H 26000 6500 50  0001 C CNN
+	1    26000 6500
+	-1   0    0    1   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:+5V@2-SI3002V4.1-eagle-import #U$012
+U 1 1 9BF3348E
+P 26300 8900
+F 0 "#U$012" H 26300 8900 50  0001 C CNN
+F 1 "+5V" V 26200 8700 59  0000 L BNN
+F 2 "" H 26300 8900 50  0001 C CNN
+F 3 "" H 26300 8900 50  0001 C CNN
+	1    26300 8900
+	-1   0    0    1   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:GND@2-SI3002V4.1-eagle-import #U$021
+U 1 1 2409AE5E
+P 26700 9400
+F 0 "#U$021" H 26700 9400 50  0001 C CNN
+F 1 "GND" V 26600 9200 59  0000 L BNN
+F 2 "" H 26700 9400 50  0001 C CNN
+F 3 "" H 26700 9400 50  0001 C CNN
+	1    26700 9400
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:GND@2-SI3002V4.1-eagle-import #U$022
+U 1 1 B67D6506
+P 26700 10100
+F 0 "#U$022" H 26700 10100 50  0001 C CNN
+F 1 "GND" V 26600 9900 59  0000 L BNN
+F 2 "" H 26700 10100 50  0001 C CNN
+F 3 "" H 26700 10100 50  0001 C CNN
+	1    26700 10100
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:GND-SI3002V4.1-eagle-import #U$02
+U 1 1 87B7DF34
+P 16500 7500
+F 0 "#U$02" H 16500 7500 50  0001 C CNN
+F 1 "GND" H 16500 7500 50  0001 C CNN
+F 2 "" H 16500 7500 50  0001 C CNN
+F 3 "" H 16500 7500 50  0001 C CNN
+	1    16500 7500
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:SMD-R_STANDARDR0805-SI3002V4.1-eagle-import R312
+U 1 1 6FD26A55
+P 5900 9100
+F 0 "R312" H 5800 9200 59  0000 L BNN
+F 1 "100k" H 5800 8900 59  0000 L BNN
+F 2 "SI3002V4.1:R0805" H 5900 9100 50  0001 C CNN
+F 3 "" H 5900 9100 50  0001 C CNN
+	1    5900 9100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:SMD-R_STANDARDR0805-SI3002V4.1-eagle-import R314
+U 1 1 4DF2C108
+P 5900 10250
+F 0 "R314" H 5800 10350 59  0000 L BNN
+F 1 "330k" H 5800 10050 59  0000 L BNN
+F 2 "SI3002V4.1:R0805" H 5900 10250 50  0001 C CNN
+F 3 "" H 5900 10250 50  0001 C CNN
+	1    5900 10250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:SMD-R_STANDARDR0805-SI3002V4.1-eagle-import R313
+U 1 1 4601ECF3
+P 5600 11100
+F 0 "R313" H 5500 11200 59  0000 L BNN
+F 1 "51k" H 5500 10900 59  0000 L BNN
+F 2 "SI3002V4.1:R0805" H 5600 11100 50  0001 C CNN
+F 3 "" H 5600 11100 50  0001 C CNN
+	1    5600 11100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:SMD-R_STANDARDR0805-SI3002V4.1-eagle-import R315
+U 1 1 62C6AD59
+P 6525 11600
+F 0 "R315" H 6425 11700 59  0000 L BNN
+F 1 "27k" H 6425 11400 59  0000 L BNN
+F 2 "SI3002V4.1:R0805" H 6525 11600 50  0001 C CNN
+F 3 "" H 6525 11600 50  0001 C CNN
+	1    6525 11600
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:SMD-R_STANDARDR0805-SI3002V4.1-eagle-import R320
+U 1 1 8FA2F32B
+P 8425 12400
+F 0 "R320" H 8325 12500 59  0000 L BNN
+F 1 "100k" H 8325 12200 59  0000 L BNN
+F 2 "SI3002V4.1:R0805" H 8425 12400 50  0001 C CNN
+F 3 "" H 8425 12400 50  0001 C CNN
+	1    8425 12400
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:SMD-R_STANDARDMM-SI3002V4.1-eagle-import R319
+U 1 1 CE1B3F1F
+P 9200 11800
+F 0 "R319" H 9100 11900 59  0000 L BNN
+F 1 "5R6" H 9100 11600 59  0000 L BNN
+F 2 "SI3002V4.1:MINI_MELF-0204W" H 9200 11800 50  0001 C CNN
+F 3 "" H 9200 11800 50  0001 C CNN
+	1    9200 11800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:SMD-R_STANDARDR0805-SI3002V4.1-eagle-import R363
+U 1 1 FADA4B9A
+P 8400 11100
+F 0 "R363" H 8300 11200 59  0000 L BNN
+F 1 "100k" H 8300 10900 59  0000 L BNN
+F 2 "SI3002V4.1:R0805" H 8400 11100 50  0001 C CNN
+F 3 "" H 8400 11100 50  0001 C CNN
+	1    8400 11100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:SMD-R_STANDARDR0805-SI3002V4.1-eagle-import R317
+U 1 1 1CBE42CE
+P 8800 11300
+F 0 "R317" H 8700 11400 59  0000 L BNN
+F 1 "2,7k" H 8700 11100 59  0000 L BNN
+F 2 "SI3002V4.1:R0805" H 8800 11300 50  0001 C CNN
+F 3 "" H 8800 11300 50  0001 C CNN
+	1    8800 11300
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:ELKOSABST5.09_D1.0-SI3002V4.1-eagle-import C325
+U 1 1 7E9C1B35
+P 8400 9700
+F 0 "C325" H 8200 9830 42  0000 L BNN
+F 1 "100µF/160V" H 8200 9530 42  0000 L BNN
+F 2 "SI3002V4.1:ELKO_RM5" H 8400 9700 50  0001 C CNN
+F 3 "" H 8400 9700 50  0001 C CNN
+	1    8400 9700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:SMD-Z-DIODEA-SI3002V4.1-eagle-import D335
+U 1 1 C6CB14C1
+P 7700 11700
+F 0 "D335" H 7630 11775 59  0000 L BNN
+F 1 "BZV55C18" H 7630 11565 59  0000 L BNN
+F 2 "SI3002V4.1:SMD-DIODE_STANDARD@1" H 7700 11700 50  0001 C CNN
+F 3 "" H 7700 11700 50  0001 C CNN
+	1    7700 11700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:SPULEL1210-SI3002V4.1-eagle-import L302
+U 1 1 C30469BE
+P 12000 10900
+F 0 "L302" H 11810 11040 42  0000 L BNN
+F 1 "22µH/145mA" H 11800 10720 42  0000 L BNN
+F 2 "SI3002V4.1:C1210" H 12000 10900 50  0001 C CNN
+F 3 "" H 12000 10900 50  0001 C CNN
+	1    12000 10900
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:SPULEL1210-SI3002V4.1-eagle-import L300
+U 1 1 D8DB8623
+P 12300 9000
+F 0 "L300" H 12110 9140 42  0000 L BNN
+F 1 "22µH/145mA" H 12100 8820 42  0000 L BNN
+F 2 "SI3002V4.1:C1210" H 12300 9000 50  0001 C CNN
+F 3 "" H 12300 9000 50  0001 C CNN
+	1    12300 9000
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:SPULEL1812-SI3002V4.1-eagle-import L301
+U 1 1 DA2C41FF
+P 12300 9800
+F 0 "L301" H 12110 9940 42  0000 L BNN
+F 1 "22µH, 260mA" H 12100 9620 42  0000 L BNN
+F 2 "SI3002V4.1:C1812" H 12300 9800 50  0001 C CNN
+F 3 "" H 12300 9800 50  0001 C CNN
+	1    12300 9800
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:ELKOS1-SI3002V4.1-eagle-import C326
+U 1 1 BE0227AE
+P 11200 9200
+F 0 "C326" H 11000 9330 42  0000 L BNN
+F 1 "22µ/20V" H 11000 9030 42  0000 L BNN
+F 2 "SI3002V4.1:SMD-C-TANTAL" H 11200 9200 50  0001 C CNN
+F 3 "" H 11200 9200 50  0001 C CNN
+	1    11200 9200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:ELKOS1-SI3002V4.1-eagle-import C340
+U 1 1 E6EF0D83
+P 11600 9200
+F 0 "C340" H 11400 9330 42  0000 L BNN
+F 1 "22µ/20V" H 11400 9030 42  0000 L BNN
+F 2 "SI3002V4.1:SMD-C-TANTAL" H 11600 9200 50  0001 C CNN
+F 3 "" H 11600 9200 50  0001 C CNN
+	1    11600 9200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:ELKOS1-SI3002V4.1-eagle-import C328
+U 1 1 CC16D6F5
+P 12700 9200
+F 0 "C328" H 12500 9330 42  0000 L BNN
+F 1 "22µ/20V" H 12500 9030 42  0000 L BNN
+F 2 "SI3002V4.1:SMD-C-TANTAL" H 12700 9200 50  0001 C CNN
+F 3 "" H 12700 9200 50  0001 C CNN
+	1    12700 9200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:ELKOS1-SI3002V4.1-eagle-import C341
+U 1 1 ECE204A8
+P 13000 9200
+F 0 "C341" H 12800 9330 42  0000 L BNN
+F 1 "22µ/20V" H 12800 9030 42  0000 L BNN
+F 2 "SI3002V4.1:SMD-C-TANTAL" H 13000 9200 50  0001 C CNN
+F 3 "" H 13000 9200 50  0001 C CNN
+	1    13000 9200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:ELKOS1-SI3002V4.1-eagle-import C336
+U 1 1 E03BC061
+P 11300 10500
+F 0 "C336" H 11100 10630 42  0000 L BNN
+F 1 "22µ/20V" H 11100 10330 42  0000 L BNN
+F 2 "SI3002V4.1:SMD-C-TANTAL" H 11300 10500 50  0001 C CNN
+F 3 "" H 11300 10500 50  0001 C CNN
+	1    11300 10500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:ELKOS1-SI3002V4.1-eagle-import C338
+U 1 1 FDC9ACE7
+P 12400 10500
+F 0 "C338" H 12200 10630 42  0000 L BNN
+F 1 "22µ/20V" H 12200 10330 42  0000 L BNN
+F 2 "SI3002V4.1:SMD-C-TANTAL" H 12400 10500 50  0001 C CNN
+F 3 "" H 12400 10500 50  0001 C CNN
+	1    12400 10500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:ELKOSABST2.54_D0.8-SI3002V4.1-eagle-import C330
+U 1 1 897DFE28
+P 11600 9900
+F 0 "C330" H 11400 10030 42  0000 L BNN
+F 1 "100µ/20V" H 11400 9730 42  0000 L BNN
+F 2 "SI3002V4.1:ELKO_RM2.5" H 11600 9900 50  0001 C CNN
+F 3 "" H 11600 9900 50  0001 C CNN
+	1    11600 9900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:ELKOSABST2.54_D0.8-SI3002V4.1-eagle-import C332
+U 1 1 55BE195B
+P 12700 9900
+F 0 "C332" H 12500 10030 42  0000 L BNN
+F 1 "100µ/20V" H 12500 9730 42  0000 L BNN
+F 2 "SI3002V4.1:ELKO_RM2.5" H 12700 9900 50  0001 C CNN
+F 3 "" H 12700 9900 50  0001 C CNN
+	1    12700 9900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:ELKOSABST2.54_D0.8-SI3002V4.1-eagle-import C335
+U 1 1 06989DCA
+P 15100 9900
+F 0 "C335" H 14900 10030 42  0000 L BNN
+F 1 "100µ/20V" H 14900 9730 42  0000 L BNN
+F 2 "SI3002V4.1:ELKO_RM2.5" H 15100 9900 50  0001 C CNN
+F 3 "" H 15100 9900 50  0001 C CNN
+	1    15100 9900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:DIODEBAS70-SI3002V4.1-eagle-import D315
+U 1 1 78DE070E
+P 11000 10900
+F 0 "D315" H 10800 11000 59  0000 L BNN
+F 1 "BAT64" H 11000 10900 50  0001 C CNN
+F 2 "SI3002V4.1:SOT23" H 11000 10900 50  0001 C CNN
+F 3 "" H 11000 10900 50  0001 C CNN
+	1    11000 10900
+	-1   0    0    1   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:DIODEBAS70-SI3002V4.1-eagle-import D314
+U 1 1 3AAD2124
+P 11200 9800
+F 0 "D314" H 11000 9900 59  0000 L BNN
+F 1 "BAT64" H 11200 9800 50  0001 C CNN
+F 2 "SI3002V4.1:SOT23" H 11200 9800 50  0001 C CNN
+F 3 "" H 11200 9800 50  0001 C CNN
+	1    11200 9800
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:DIODEBAS70-SI3002V4.1-eagle-import D313
+U 1 1 7F14B93F
+P 11000 9000
+F 0 "D313" H 10800 9100 59  0000 L BNN
+F 1 "BAS70" H 11000 9000 50  0001 C CNN
+F 2 "SI3002V4.1:SOT23" H 11000 9000 50  0001 C CNN
+F 3 "" H 11000 9000 50  0001 C CNN
+	1    11000 9000
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:KONDENSATORC1206-SI3002V4.1-eagle-import C337
+U 1 1 42DF3AF7
+P 11700 10600
+F 0 "C337" H 11500 10780 73  0000 L BNN
+F 1 "100n/63V" H 11500 10400 73  0000 L BNN
+F 2 "SI3002V4.1:C1206" H 11700 10600 50  0001 C CNN
+F 3 "" H 11700 10600 50  0001 C CNN
+	1    11700 10600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:KONDENSATORC1206-SI3002V4.1-eagle-import C339
+U 1 1 6DFB0978
+P 12800 10600
+F 0 "C339" H 12600 10780 73  0000 L BNN
+F 1 "100n/63V" H 12600 10400 73  0000 L BNN
+F 2 "SI3002V4.1:C1206" H 12800 10600 50  0001 C CNN
+F 3 "" H 12800 10600 50  0001 C CNN
+	1    12800 10600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:KONDENSATORC1206-SI3002V4.1-eagle-import C331
+U 1 1 FBA4C42D
+P 12000 10000
+F 0 "C331" H 11800 10180 73  0000 L BNN
+F 1 "100n/250V" H 11800 9800 73  0000 L BNN
+F 2 "SI3002V4.1:C1206" H 12000 10000 50  0001 C CNN
+F 3 "" H 12000 10000 50  0001 C CNN
+	1    12000 10000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:KONDENSATORC1206-SI3002V4.1-eagle-import C333
+U 1 1 BBBA251E
+P 13200 10000
+F 0 "C333" H 13000 10180 73  0000 L BNN
+F 1 "100n/63V" H 13000 9800 73  0000 L BNN
+F 2 "SI3002V4.1:C1206" H 13200 10000 50  0001 C CNN
+F 3 "" H 13200 10000 50  0001 C CNN
+	1    13200 10000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:KONDENSATORC1206-SI3002V4.1-eagle-import C327
+U 1 1 0A814969
+P 11900 9200
+F 0 "C327" H 11700 9380 73  0000 L BNN
+F 1 "100n/63V" H 11700 9000 73  0000 L BNN
+F 2 "SI3002V4.1:C1206" H 11900 9200 50  0001 C CNN
+F 3 "" H 11900 9200 50  0001 C CNN
+	1    11900 9200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:KONDENSATORC1206-SI3002V4.1-eagle-import C329
+U 1 1 086956CC
+P 13400 9200
+F 0 "C329" H 13200 9380 73  0000 L BNN
+F 1 "100n/63V" H 13200 9000 73  0000 L BNN
+F 2 "SI3002V4.1:C1206" H 13400 9200 50  0001 C CNN
+F 3 "" H 13400 9200 50  0001 C CNN
+	1    13400 9200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:KONDENSATORC1206-SI3002V4.1-eagle-import C334
+U 1 1 7D1CBEBD
+P 14800 10000
+F 0 "C334" H 14600 10180 73  0000 L BNN
+F 1 "100n/63V" H 14600 9800 73  0000 L BNN
+F 2 "SI3002V4.1:C1206" H 14800 10000 50  0001 C CNN
+F 3 "" H 14800 10000 50  0001 C CNN
+	1    14800 10000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:KONDENSATORABST7.62_D0.8-SI3002V4.1-eagle-import C324
+U 1 1 426ADAF6
+P 8800 9700
+F 0 "C324" H 8600 9880 73  0000 L BNN
+F 1 "100n/250V" H 8600 9500 73  0000 L BNN
+F 2 "SI3002V4.1:KOND_RM7.5" H 8800 9700 50  0001 C CNN
+F 3 "" H 8800 9700 50  0001 C CNN
+	1    8800 9700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:KONDENSATORC1206-SI3002V4.1-eagle-import C318
+U 1 1 E2A94AFF
+P 5900 9700
+F 0 "C318" H 5700 9880 73  0000 L BNN
+F 1 "330n/50V" H 5700 9500 73  0000 L BNN
+F 2 "SI3002V4.1:C1206" H 5900 9700 50  0001 C CNN
+F 3 "" H 5900 9700 50  0001 C CNN
+	1    5900 9700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:KONDENSATORC308-SI3002V4.1-eagle-import C319
+U 1 1 37367D98
+P 6000 11800
+F 0 "C319" H 5800 11980 73  0000 L BNN
+F 1 "330p/50V" H 5800 11600 73  0000 L BNN
+F 2 "SI3002V4.1:C0805" H 6000 11800 50  0001 C CNN
+F 3 "" H 6000 11800 50  0001 C CNN
+	1    6000 11800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:KONDENSATORC308-SI3002V4.1-eagle-import C320
+U 1 1 E2A450BD
+P 7100 11800
+F 0 "C320" H 6900 11980 73  0000 L BNN
+F 1 "10n/50V" H 6900 11600 73  0000 L BNN
+F 2 "SI3002V4.1:C0805" H 7100 11800 50  0001 C CNN
+F 3 "" H 7100 11800 50  0001 C CNN
+	1    7100 11800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:KONDENSATORC1206-SI3002V4.1-eagle-import C321
+U 1 1 C5FEE032
+P 8100 11600
+F 0 "C321" H 7900 11780 73  0000 L BNN
+F 1 "100n/63V" H 7900 11400 73  0000 L BNN
+F 2 "SI3002V4.1:C1206" H 8100 11600 50  0001 C CNN
+F 3 "" H 8100 11600 50  0001 C CNN
+	1    8100 11600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:KONDENSATORC308-SI3002V4.1-eagle-import C322
+U 1 1 5339FC18
+P 8700 11700
+F 0 "C322" H 8500 11880 73  0000 L BNN
+F 1 "1n/50V" H 8500 11500 73  0000 L BNN
+F 2 "SI3002V4.1:C0805" H 8700 11700 50  0001 C CNN
+F 3 "" H 8700 11700 50  0001 C CNN
+	1    8700 11700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:SMD-R_STANDARDR0805-SI3002V4.1-eagle-import R300
+U 1 1 E1BFEDD8
+P 13600 3500
+F 0 "R300" H 13500 3600 59  0000 L BNN
+F 1 "22" H 13500 3300 59  0000 L BNN
+F 2 "SI3002V4.1:R0805" H 13600 3500 50  0001 C CNN
+F 3 "" H 13600 3500 50  0001 C CNN
+	1    13600 3500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:SMD-R_STANDARDR0805-SI3002V4.1-eagle-import R327
+U 1 1 4A7EF806
+P 14400 3500
+F 0 "R327" H 14300 3600 59  0000 L BNN
+F 1 "22" H 14300 3300 59  0000 L BNN
+F 2 "SI3002V4.1:R0805" H 14400 3500 50  0001 C CNN
+F 3 "" H 14400 3500 50  0001 C CNN
+	1    14400 3500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:SMD-R_STANDARDR0805-SI3002V4.1-eagle-import R301
+U 1 1 F1237A84
+P 13600 6600
+F 0 "R301" H 13500 6700 59  0000 L BNN
+F 1 "22R" H 13500 6400 59  0000 L BNN
+F 2 "SI3002V4.1:R0805" H 13600 6600 50  0001 C CNN
+F 3 "" H 13600 6600 50  0001 C CNN
+	1    13600 6600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:SMD-R_STANDARDR0805-SI3002V4.1-eagle-import R302
+U 1 1 22F130BF
+P 11100 6800
+F 0 "R302" H 11000 6900 59  0000 L BNN
+F 1 "100k" H 11000 6600 59  0000 L BNN
+F 2 "SI3002V4.1:R0805" H 11100 6800 50  0001 C CNN
+F 3 "" H 11100 6800 50  0001 C CNN
+	1    11100 6800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:SMD-R_STANDARDR0805-SI3002V4.1-eagle-import R328
+U 1 1 6F0EBDAF
+P 14400 6600
+F 0 "R328" H 14300 6700 59  0000 L BNN
+F 1 "22" H 14300 6400 59  0000 L BNN
+F 2 "SI3002V4.1:R0805" H 14400 6600 50  0001 C CNN
+F 3 "" H 14400 6600 50  0001 C CNN
+	1    14400 6600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:SMD-R_STANDARDR0805-SI3002V4.1-eagle-import R305
+U 1 1 6ED05BCB
+P 18700 6600
+F 0 "R305" H 18600 6700 59  0000 L BNN
+F 1 "22" H 18600 6400 59  0000 L BNN
+F 2 "SI3002V4.1:R0805" H 18700 6600 50  0001 C CNN
+F 3 "" H 18700 6600 50  0001 C CNN
+	1    18700 6600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:SMD-R_STANDARDR0805-SI3002V4.1-eagle-import R330
+U 1 1 9EAD9A8C
+P 19500 6600
+F 0 "R330" H 19400 6700 59  0000 L BNN
+F 1 "22" H 19400 6400 59  0000 L BNN
+F 2 "SI3002V4.1:R0805" H 19500 6600 50  0001 C CNN
+F 3 "" H 19500 6600 50  0001 C CNN
+	1    19500 6600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:SMD-R_STANDARDR0805-SI3002V4.1-eagle-import R304
+U 1 1 18D53E0E
+P 18800 3500
+F 0 "R304" H 18700 3600 59  0000 L BNN
+F 1 "22" H 18700 3300 59  0000 L BNN
+F 2 "SI3002V4.1:R0805" H 18800 3500 50  0001 C CNN
+F 3 "" H 18800 3500 50  0001 C CNN
+	1    18800 3500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:SMD-R_STANDARDR0805-SI3002V4.1-eagle-import R329
+U 1 1 87B5FE53
+P 19600 3500
+F 0 "R329" H 19500 3600 59  0000 L BNN
+F 1 "22" H 19500 3300 59  0000 L BNN
+F 2 "SI3002V4.1:R0805" H 19600 3500 50  0001 C CNN
+F 3 "" H 19600 3500 50  0001 C CNN
+	1    19600 3500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:Z-DIODEA-SI3002V4.1-eagle-import D302
+U 1 1 581F86B8
+P 13600 6900
+F 0 "D302" H 13530 6975 59  0000 L BNN
+F 1 "BZV55C18V" H 13530 6765 59  0000 L BNN
+F 2 "SI3002V4.1:SMD-DIODE_STANDARD" H 13600 6900 50  0001 C CNN
+F 3 "" H 13600 6900 50  0001 C CNN
+	1    13600 6900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:Z-DIODEA-SI3002V4.1-eagle-import D322
+U 1 1 8EDD2407
+P 14400 6900
+F 0 "D322" H 14330 6975 59  0000 L BNN
+F 1 "BZV55C18" H 14330 6765 59  0000 L BNN
+F 2 "SI3002V4.1:SMD-DIODE_STANDARD" H 14400 6900 50  0001 C CNN
+F 3 "" H 14400 6900 50  0001 C CNN
+	1    14400 6900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:Z-DIODEA-SI3002V4.1-eagle-import D328
+U 1 1 44A438BB
+P 15200 7200
+F 0 "D328" H 15130 7275 59  0000 L BNN
+F 1 "BZV55C4V7" H 15130 7065 59  0000 L BNN
+F 2 "SI3002V4.1:SMD-DIODE_STANDARD" H 15200 7200 50  0001 C CNN
+F 3 "" H 15200 7200 50  0001 C CNN
+	1    15200 7200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:Z-DIODEA-SI3002V4.1-eagle-import D307
+U 1 1 225766E0
+P 18700 6900
+F 0 "D307" H 18630 6975 59  0000 L BNN
+F 1 "BZV55C18V" H 18630 6765 59  0000 L BNN
+F 2 "SI3002V4.1:SMD-DIODE_STANDARD" H 18700 6900 50  0001 C CNN
+F 3 "" H 18700 6900 50  0001 C CNN
+	1    18700 6900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:Z-DIODEA-SI3002V4.1-eagle-import D324
+U 1 1 EA23EE8D
+P 19500 6900
+F 0 "D324" H 19430 6975 59  0000 L BNN
+F 1 "BZV55C18" H 19430 6765 59  0000 L BNN
+F 2 "SI3002V4.1:SMD-DIODE_STANDARD" H 19500 6900 50  0001 C CNN
+F 3 "" H 19500 6900 50  0001 C CNN
+	1    19500 6900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:Z-DIODEA-SI3002V4.1-eagle-import D329
+U 1 1 8886A5CB
+P 20200 7100
+F 0 "D329" H 20130 7175 59  0000 L BNN
+F 1 "BZV55C4V7" H 20130 6965 59  0000 L BNN
+F 2 "SI3002V4.1:SMD-DIODE_STANDARD" H 20200 7100 50  0001 C CNN
+F 3 "" H 20200 7100 50  0001 C CNN
+	1    20200 7100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:Z-DIODEA-SI3002V4.1-eagle-import D323
+U 1 1 52AD9742
+P 19600 3800
+F 0 "D323" H 19530 3875 59  0000 L BNN
+F 1 "BZV55C18" H 19530 3665 59  0000 L BNN
+F 2 "SI3002V4.1:SMD-DIODE_STANDARD" H 19600 3800 50  0001 C CNN
+F 3 "" H 19600 3800 50  0001 C CNN
+	1    19600 3800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:Z-DIODEA-SI3002V4.1-eagle-import D305
+U 1 1 E42C1FF7
+P 18800 3800
+F 0 "D305" H 18730 3875 59  0000 L BNN
+F 1 "BZV55C18V" H 18730 3665 59  0000 L BNN
+F 2 "SI3002V4.1:SMD-DIODE_STANDARD" H 18800 3800 50  0001 C CNN
+F 3 "" H 18800 3800 50  0001 C CNN
+	1    18800 3800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:Z-DIODEA-SI3002V4.1-eagle-import D300
+U 1 1 CA1E82EB
+P 13600 3800
+F 0 "D300" H 13530 3875 59  0000 L BNN
+F 1 "BZV55C18V" H 13530 3665 59  0000 L BNN
+F 2 "SI3002V4.1:SMD-DIODE_STANDARD" H 13600 3800 50  0001 C CNN
+F 3 "" H 13600 3800 50  0001 C CNN
+	1    13600 3800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:Z-DIODEA-SI3002V4.1-eagle-import D321
+U 1 1 5F2DAD73
+P 14400 3800
+F 0 "D321" H 14330 3875 59  0000 L BNN
+F 1 "BZV55C18V" H 14330 3665 59  0000 L BNN
+F 2 "SI3002V4.1:SMD-DIODE_STANDARD" H 14400 3800 50  0001 C CNN
+F 3 "" H 14400 3800 50  0001 C CNN
+	1    14400 3800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:DIODE1-SI3002V4.1-eagle-import D301
+U 1 1 B4035158
+P 13100 5000
+F 0 "D301" H 12900 5100 59  0000 L BNN
+F 1 "BAV103" H 13100 5000 50  0001 C CNN
+F 2 "SI3002V4.1:SMD-DIODE_STANDARD" H 13100 5000 50  0001 C CNN
+F 3 "" H 13100 5000 50  0001 C CNN
+	1    13100 5000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:DIODE1-SI3002V4.1-eagle-import D303
+U 1 1 4942CF2D
+P 15900 6400
+F 0 "D303" H 15700 6500 59  0000 L BNN
+F 1 "BAV103" H 15900 6400 50  0001 C CNN
+F 2 "SI3002V4.1:SMD-DIODE_STANDARD" H 15900 6400 50  0001 C CNN
+F 3 "" H 15900 6400 50  0001 C CNN
+	1    15900 6400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:DIODE1-SI3002V4.1-eagle-import D308
+U 1 1 50114C3B
+P 21000 6300
+F 0 "D308" H 20800 6400 59  0000 L BNN
+F 1 "BAV103" H 21000 6300 50  0001 C CNN
+F 2 "SI3002V4.1:SMD-DIODE_STANDARD" H 21000 6300 50  0001 C CNN
+F 3 "" H 21000 6300 50  0001 C CNN
+	1    21000 6300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:DIODE1-SI3002V4.1-eagle-import D306
+U 1 1 46E384D1
+P 18300 4800
+F 0 "D306" H 18100 4900 59  0000 L BNN
+F 1 "BAV103" H 18300 4800 50  0001 C CNN
+F 2 "SI3002V4.1:SMD-DIODE_STANDARD" H 18300 4800 50  0001 C CNN
+F 3 "" H 18300 4800 50  0001 C CNN
+	1    18300 4800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:KONDENSATORC1206-SI3002V4.1-eagle-import C305
+U 1 1 8980F9D3
+P 9800 4900
+F 0 "C305" H 9600 5080 73  0000 L BNN
+F 1 "100nF/63V" H 9600 4700 73  0000 L BNN
+F 2 "SI3002V4.1:C1206" H 9800 4900 50  0001 C CNN
+F 3 "" H 9800 4900 50  0001 C CNN
+	1    9800 4900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:KONDENSATORC1206-SI3002V4.1-eagle-import C306
+U 1 1 0249316E
+P 12400 4700
+F 0 "C306" H 12200 4880 73  0000 L BNN
+F 1 "100nF/63V" H 12200 4500 73  0000 L BNN
+F 2 "SI3002V4.1:C1206" H 12400 4700 50  0001 C CNN
+F 3 "" H 12400 4700 50  0001 C CNN
+	1    12400 4700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:KONDENSATORC1206-SI3002V4.1-eagle-import C308
+U 1 1 5DB9C7A8
+P 12400 5400
+F 0 "C308" H 12200 5580 73  0000 L BNN
+F 1 "100nF/63V" H 12200 5200 73  0000 L BNN
+F 2 "SI3002V4.1:C1206" H 12400 5400 50  0001 C CNN
+F 3 "" H 12400 5400 50  0001 C CNN
+	1    12400 5400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:KONDENSATORC1206-SI3002V4.1-eagle-import C311
+U 1 1 B1265E44
+P 16000 4900
+F 0 "C311" H 15800 5080 73  0000 L BNN
+F 1 "100nF/63V" H 15800 4700 73  0000 L BNN
+F 2 "SI3002V4.1:C1206" H 16000 4900 50  0001 C CNN
+F 3 "" H 16000 4900 50  0001 C CNN
+	1    16000 4900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:KONDENSATORC1206-SI3002V4.1-eagle-import C312
+U 1 1 B31C0D27
+P 17600 4700
+F 0 "C312" H 17400 4880 73  0000 L BNN
+F 1 "100nF/63V" H 17400 4500 73  0000 L BNN
+F 2 "SI3002V4.1:C1206" H 17600 4700 50  0001 C CNN
+F 3 "" H 17600 4700 50  0001 C CNN
+	1    17600 4700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:KONDENSATORC1206-SI3002V4.1-eagle-import C315
+U 1 1 84FB5786
+P 17600 5400
+F 0 "C315" H 17400 5580 73  0000 L BNN
+F 1 "100nF/63V" H 17400 5200 73  0000 L BNN
+F 2 "SI3002V4.1:C1206" H 17600 5400 50  0001 C CNN
+F 3 "" H 17600 5400 50  0001 C CNN
+	1    17600 5400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:ELKOS3-SI3002V4.1-eagle-import C304
+U 1 1 BC72C2A0
+P 9500 5100
+F 0 "C304" H 9300 5230 42  0000 L BNN
+F 1 "10µ/10V" H 9300 4930 42  0000 L BNN
+F 2 "SI3002V4.1:SMD-C-TANTAL-MITTEL" H 9500 5100 50  0001 C CNN
+F 3 "" H 9500 5100 50  0001 C CNN
+	1    9500 5100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:ELKOS3-SI3002V4.1-eagle-import C310
+U 1 1 BF1D0878
+P 15700 5200
+F 0 "C310" H 15500 5330 42  0000 L BNN
+F 1 "10µF/10V" H 15500 5030 42  0000 L BNN
+F 2 "SI3002V4.1:SMD-C-TANTAL-MITTEL" H 15700 5200 50  0001 C CNN
+F 3 "" H 15700 5200 50  0001 C CNN
+	1    15700 5200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:DIODE1-SI3002V4.1-eagle-import D325
+U 1 1 A2B5B509
+P 20700 4600
+F 0 "D325" H 20500 4700 59  0000 L BNN
+F 1 "BAV103" H 20700 4600 50  0001 C CNN
+F 2 "SI3002V4.1:SMD-DIODE_STANDARD" H 20700 4600 50  0001 C CNN
+F 3 "" H 20700 4600 50  0001 C CNN
+	1    20700 4600
+	0    1    1    0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:DIODE1-SI3002V4.1-eagle-import D326
+U 1 1 F018178F
+P 20700 5100
+F 0 "D326" H 20500 5200 59  0000 L BNN
+F 1 "BAV103" H 20700 5100 50  0001 C CNN
+F 2 "SI3002V4.1:SMD-DIODE_STANDARD" H 20700 5100 50  0001 C CNN
+F 3 "" H 20700 5100 50  0001 C CNN
+	1    20700 5100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:SMD-R_STANDARDR0805-SI3002V4.1-eagle-import R340
+U 1 1 9D19CDA3
+P 21800 5900
+F 0 "R340" H 21700 6000 59  0000 L BNN
+F 1 "1k" H 21700 5700 59  0000 L BNN
+F 2 "SI3002V4.1:R0805" H 21800 5900 50  0001 C CNN
+F 3 "" H 21800 5900 50  0001 C CNN
+	1    21800 5900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:SMD-R_STANDARDR0805-SI3002V4.1-eagle-import R341
+U 1 1 8C91421F
+P 21800 6600
+F 0 "R341" H 21700 6700 59  0000 L BNN
+F 1 "1M" H 21700 6400 59  0000 L BNN
+F 2 "SI3002V4.1:R0805" H 21800 6600 50  0001 C CNN
+F 3 "" H 21800 6600 50  0001 C CNN
+	1    21800 6600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:SMD-R_STANDARDR0805-SI3002V4.1-eagle-import R342
+U 1 1 EF4E9C2B
+P 21800 7500
+F 0 "R342" H 21800 7600 59  0000 L BNN
+F 1 "120k" H 21850 7350 59  0000 L BNN
+F 2 "SI3002V4.1:R0805" H 21800 7500 50  0001 C CNN
+F 3 "" H 21800 7500 50  0001 C CNN
+	1    21800 7500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:Z-DIODEA-SI3002V4.1-eagle-import D330
+U 1 1 737BB08A
+P 22200 7400
+F 0 "D330" H 22130 7475 59  0000 L BNN
+F 1 "BZV55C5V6" H 22000 7200 59  0000 L BNN
+F 2 "SI3002V4.1:SMD-DIODE_STANDARD" H 22200 7400 50  0001 C CNN
+F 3 "" H 22200 7400 50  0001 C CNN
+	1    22200 7400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:KONDENSATORABST7.62_D0.8-SI3002V4.1-eagle-import C351
+U 1 1 6699B216
+P 21400 6300
+F 0 "C351" H 21200 6480 73  0000 L BNN
+F 1 "100nF/100V" H 21200 6100 73  0000 L BNN
+F 2 "SI3002V4.1:KOND_RM7.5" H 21400 6300 50  0001 C CNN
+F 3 "" H 21400 6300 50  0001 C CNN
+	1    21400 6300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:SMD-R_STANDARDR0805-SI3002V4.1-eagle-import R338
+U 1 1 A617B142
+P 20400 4600
+F 0 "R338" H 20300 4700 59  0000 L BNN
+F 1 "120k" H 20300 4400 59  0000 L BNN
+F 2 "SI3002V4.1:R0805" H 20400 4600 50  0001 C CNN
+F 3 "" H 20400 4600 50  0001 C CNN
+	1    20400 4600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:SMD-R_STANDARDR0805-SI3002V4.1-eagle-import R339
+U 1 1 1F8D283A
+P 20400 5100
+F 0 "R339" H 20300 4900 59  0000 L BNN
+F 1 "120k" H 20300 4900 59  0000 L BNN
+F 2 "SI3002V4.1:R0805" H 20400 5100 50  0001 C CNN
+F 3 "" H 20400 5100 50  0001 C CNN
+	1    20400 5100
+	0    1    1    0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:TRANSISTORTRANS-WIEDIODE-SI3002V4.1-eagle-import T305
+U 1 1 57F00A4C
+P 30800 7300
+F 0 "T305" H 30600 7470 42  0000 L BNN
+F 1 "BSS123" H 30600 7100 42  0000 L BNN
+F 2 "SI3002V4.1:SOT23" H 30800 7300 50  0001 C CNN
+F 3 "" H 30800 7300 50  0001 C CNN
+	1    30800 7300
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:TRANSISTORTRANS-WIEDIODE-SI3002V4.1-eagle-import T311
+U 1 1 D4FC5111
+P 29100 6800
+F 0 "T311" H 28900 6970 42  0000 L BNN
+F 1 "BSS123" H 28900 6600 42  0000 L BNN
+F 2 "SI3002V4.1:SOT23" H 29100 6800 50  0001 C CNN
+F 3 "" H 29100 6800 50  0001 C CNN
+	1    29100 6800
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:SMD-R_STANDARDR0805-SI3002V4.1-eagle-import R333
+U 1 1 B10C3C12
+P 29900 6300
+F 0 "R333" H 29800 6400 59  0000 L BNN
+F 1 "10k" H 29800 6100 59  0000 L BNN
+F 2 "SI3002V4.1:R0805" H 29900 6300 50  0001 C CNN
+F 3 "" H 29900 6300 50  0001 C CNN
+	1    29900 6300
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:SMD-R_STANDARDR0805-SI3002V4.1-eagle-import R310
+U 1 1 2410BCCC
+P 31600 6200
+F 0 "R310" H 31500 6300 59  0000 L BNN
+F 1 "5K1 Typ 503 1% 0,125W" H 31500 6000 59  0000 L BNN
+F 2 "SI3002V4.1:R0805" H 31600 6200 50  0001 C CNN
+F 3 "" H 31600 6200 50  0001 C CNN
+	1    31600 6200
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:DIODE1-SI3002V4.1-eagle-import D309
+U 1 1 47DB29D7
+P 29500 6600
+F 0 "D309" H 29300 6700 59  0000 L BNN
+F 1 "LL4148" H 29500 6600 50  0001 C CNN
+F 2 "SI3002V4.1:SMD-DIODE_STANDARD" H 29500 6600 50  0001 C CNN
+F 3 "" H 29500 6600 50  0001 C CNN
+	1    29500 6600
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:DIODE1-SI3002V4.1-eagle-import D320
+U 1 1 CDB6A3AE
+P 30000 6600
+F 0 "D320" H 29800 6700 59  0000 L BNN
+F 1 "BAT46 TMMBAT46" H 30000 6600 50  0001 C CNN
+F 2 "SI3002V4.1:SMD-DIODE_STANDARD" H 30000 6600 50  0001 C CNN
+F 3 "" H 30000 6600 50  0001 C CNN
+	1    30000 6600
+	-1   0    0    1   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:DIODE1-SI3002V4.1-eagle-import D310
+U 1 1 BEA0410C
+P 31100 6800
+F 0 "D310" H 30900 6900 59  0000 L BNN
+F 1 "LL4148" H 31100 6800 50  0001 C CNN
+F 2 "SI3002V4.1:SMD-DIODE_STANDARD" H 31100 6800 50  0001 C CNN
+F 3 "" H 31100 6800 50  0001 C CNN
+	1    31100 6800
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:DIODE1-SI3002V4.1-eagle-import D311
+U 1 1 5DD4C648
+P 31700 6500
+F 0 "D311" H 31500 6600 59  0000 L BNN
+F 1 "BAT46 TMMBAT46" H 31700 6500 50  0001 C CNN
+F 2 "SI3002V4.1:SMD-DIODE_STANDARD" H 31700 6500 50  0001 C CNN
+F 3 "" H 31700 6500 50  0001 C CNN
+	1    31700 6500
+	-1   0    0    1   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:KONDENSATORC1206-SI3002V4.1-eagle-import C349
+U 1 1 F909D3FB
+P 26000 9600
+F 0 "C349" H 25800 9780 73  0000 L BNN
+F 1 "100nF/63V" H 25800 9400 73  0000 L BNN
+F 2 "SI3002V4.1:C1206" H 26000 9600 50  0001 C CNN
+F 3 "" H 26000 9600 50  0001 C CNN
+	1    26000 9600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:TRANSISTORT306-SI3002V4.1-eagle-import T312
+U 1 1 46C71EC6
+P 7800 1700
+F 0 "T312" H 7600 1870 42  0000 L BNN
+F 1 "IRFL214" H 7600 1500 42  0000 L BNN
+F 2 "SI3002V4.1:TRANS_5.5X9" H 7800 1700 50  0001 C CNN
+F 3 "" H 7800 1700 50  0001 C CNN
+	1    7800 1700
+	-1   0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:KONTAKTKLEIN-SI3002V4.1-eagle-import CON306
+U 1 1 5175621B
+P 22700 6100
+F 0 "CON306" H 22600 6200 42  0000 L BNN
+F 1 "Steckzunge klein" H 22700 6100 50  0001 C CNN
+F 2 "SI3002V4.1:KONTAKT_KLEIN" H 22700 6100 50  0001 C CNN
+F 3 "" H 22700 6100 50  0001 C CNN
+	1    22700 6100
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:KONTAKTKLEIN-SI3002V4.1-eagle-import CON307
+U 1 1 267DF625
+P 23000 6100
+F 0 "CON307" H 22900 6200 42  0000 L BNN
+F 1 "Steckzunge klein" H 23000 6100 50  0001 C CNN
+F 2 "SI3002V4.1:KONTAKT_KLEIN" H 23000 6100 50  0001 C CNN
+F 3 "" H 23000 6100 50  0001 C CNN
+	1    23000 6100
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:WIDERSTANDR343-SI3002V4.1-eagle-import R346
+U 1 1 B652192A
+P 7400 1200
+F 0 "R346" H 7230 1340 64  0000 L BNN
+F 1 "1k5/5W" H 7200 1000 64  0000 L BNN
+F 2 "SI3002V4.1:R_LEISTUNG_RM5" H 7400 1200 50  0001 C CNN
+F 3 "" H 7400 1200 50  0001 C CNN
+	1    7400 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:WIDERSTANDR343-SI3002V4.1-eagle-import R335
+U 1 1 A8A7D58F
+P 7400 1500
+F 0 "R335" H 7230 1640 64  0000 L BNN
+F 1 "2k2 / 5W" H 7200 1300 64  0000 L BNN
+F 2 "SI3002V4.1:R_LEISTUNG_RM5" H 7400 1500 50  0001 C CNN
+F 3 "" H 7400 1500 50  0001 C CNN
+	1    7400 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:SMD-R_STANDARDR0805-SI3002V4.1-eagle-import R337
+U 1 1 22313687
+P 8900 1800
+F 0 "R337" H 8800 1900 59  0000 L BNN
+F 1 "10k" H 8800 1600 59  0000 L BNN
+F 2 "SI3002V4.1:R0805" H 8900 1800 50  0001 C CNN
+F 3 "" H 8900 1800 50  0001 C CNN
+	1    8900 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:SMD-R_STANDARDR0805-SI3002V4.1-eagle-import R336
+U 1 1 5E3F4319
+P 8500 2100
+F 0 "R336" H 8400 2200 59  0000 L BNN
+F 1 "1M" H 8400 1900 59  0000 L BNN
+F 2 "SI3002V4.1:R0805" H 8500 2100 50  0001 C CNN
+F 3 "" H 8500 2100 50  0001 C CNN
+	1    8500 2100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:WIDERSTANDR343-SI3002V4.1-eagle-import R343
+U 1 1 0275236A
+P 29400 4400
+F 0 "R343" H 29230 4540 64  0000 L BNN
+F 1 "330R/5W" H 29200 4200 64  0000 L BNN
+F 2 "SI3002V4.1:R_LEISTUNG_RM5" H 29400 4400 50  0001 C CNN
+F 3 "" H 29400 4400 50  0001 C CNN
+	1    29400 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:SMD-R_STANDARDR0805-SI3002V4.1-eagle-import R334
+U 1 1 96C080E3
+P 15700 8800
+F 0 "R334" H 15600 8900 59  0000 L BNN
+F 1 "110k" H 15600 8600 59  0000 L BNN
+F 2 "SI3002V4.1:R0805" H 15700 8800 50  0001 C CNN
+F 3 "" H 15700 8800 50  0001 C CNN
+	1    15700 8800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:SMD-R_STANDARDR0805-SI3002V4.1-eagle-import R308
+U 1 1 BB1B43DF
+P 24200 11000
+F 0 "R308" H 24100 11100 59  0000 L BNN
+F 1 "1.5k" H 24100 10800 59  0000 L BNN
+F 2 "SI3002V4.1:R0805" H 24200 11000 50  0001 C CNN
+F 3 "" H 24200 11000 50  0001 C CNN
+	1    24200 11000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:KONDENSATORC1206-SI3002V4.1-eagle-import C342
+U 1 1 FE7CCE99
+P 21200 10900
+F 0 "C342" H 20600 10850 73  0000 L BNN
+F 1 "100nF/63V" H 21000 10700 73  0000 L BNN
+F 2 "SI3002V4.1:C1206" H 21200 10900 50  0001 C CNN
+F 3 "" H 21200 10900 50  0001 C CNN
+	1    21200 10900
+	0    1    1    0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:KONDENSATORABST5.04-SI3002V4.1-eagle-import C343
+U 1 1 7A60370A
+P 1700 2900
+F 0 "C343" H 1700 2780 73  0000 L BNN
+F 1 "100n/200V" H 1500 2700 73  0000 L BNN
+F 2 "SI3002V4.1:KOND_RM5" H 1700 2900 50  0001 C CNN
+F 3 "" H 1700 2900 50  0001 C CNN
+	1    1700 2900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:KONDENSATORABST5.04-SI3002V4.1-eagle-import C344
+U 1 1 57727F47
+P 1700 3500
+F 0 "C344" H 1700 3380 73  0000 L BNN
+F 1 "100n/200V" H 1500 3300 73  0000 L BNN
+F 2 "SI3002V4.1:KOND_RM5" H 1700 3500 50  0001 C CNN
+F 3 "" H 1700 3500 50  0001 C CNN
+	1    1700 3500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:KONDENSATORABST7.62_D0.8-SI3002V4.1-eagle-import C300
+U 1 1 AA1F8085
+P 3500 3000
+F 0 "C300" H 3400 2780 73  0000 L BNN
+F 1 "100nF/250V" H 3300 2800 73  0000 L BNN
+F 2 "SI3002V4.1:KOND_RM7.5" H 3500 3000 50  0001 C CNN
+F 3 "" H 3500 3000 50  0001 C CNN
+	1    3500 3000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:KONDENSATORABST7.62_D0.8-SI3002V4.1-eagle-import C355
+U 1 1 CE5344AC
+P 4400 2950
+F 0 "C355" H 4200 3130 73  0000 L BNN
+F 1 "100nF/250V" H 4200 2750 73  0000 L BNN
+F 2 "SI3002V4.1:KOND_RM7.5" H 4400 2950 50  0001 C CNN
+F 3 "" H 4400 2950 50  0001 C CNN
+	1    4400 2950
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:KONDENSATORRM15-SI3002V4.1-eagle-import C354
+U 1 1 5CCA79E6
+P 4750 3050
+F 0 "C354" H 4550 3230 73  0000 L BNN
+F 1 "1µF/100V" H 4550 2850 73  0000 L BNN
+F 2 "SI3002V4.1:KOND_RM15" H 4750 3050 50  0001 C CNN
+F 3 "" H 4750 3050 50  0001 C CNN
+	1    4750 3050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:ELKOSABST5.09_D1.0-SI3002V4.1-eagle-import C353
+U 1 1 702715A0
+P 5900 3000
+F 0 "C353" H 5700 3130 42  0000 L BNN
+F 1 "100µF/100V" H 5700 2830 42  0000 L BNN
+F 2 "SI3002V4.1:ELKO_RM5" H 5900 3000 50  0001 C CNN
+F 3 "" H 5900 3000 50  0001 C CNN
+	1    5900 3000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:KONDENSATORABST7.62_D0.8-SI3002V4.1-eagle-import C309
+U 1 1 02C6E645
+P 14900 4600
+F 0 "C309" H 14700 4780 73  0000 L BNN
+F 1 "10nF/250V" H 14700 4400 73  0000 L BNN
+F 2 "SI3002V4.1:KOND_RM7.5" H 14900 4600 50  0001 C CNN
+F 3 "" H 14900 4600 50  0001 C CNN
+	1    14900 4600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:KONDENSATORABST7.62_D0.8-SI3002V4.1-eagle-import C314
+U 1 1 AACCE5B7
+P 20000 4300
+F 0 "C314" H 19800 4480 73  0000 L BNN
+F 1 "10nF/250V" H 19800 4100 73  0000 L BNN
+F 2 "SI3002V4.1:KOND_RM7.5" H 20000 4300 50  0001 C CNN
+F 3 "" H 20000 4300 50  0001 C CNN
+	1    20000 4300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:SMD-R_STANDARDR0805-SI3002V4.1-eagle-import R306
+U 1 1 52D95301
+P 17100 6800
+F 0 "R306" H 17000 6900 59  0000 L BNN
+F 1 "100k" H 17000 6600 59  0000 L BNN
+F 2 "SI3002V4.1:R0805" H 17100 6800 50  0001 C CNN
+F 3 "" H 17100 6800 50  0001 C CNN
+	1    17100 6800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:ELKOS-SI3002V4.1-eagle-import C303
+U 1 1 A8E6A8FB
+P 7800 3000
+F 0 "C303" H 7600 3130 42  0000 L BNN
+F 1 "5600µF/100V" H 7600 2830 42  0000 L BNN
+F 2 "SI3002V4.1:KOND_D35" H 7800 3000 50  0001 C CNN
+F 3 "" H 7800 3000 50  0001 C CNN
+	1    7800 3000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:ELKOS-SI3002V4.1-eagle-import C345
+U 1 1 42A99AAF
+P 8100 3000
+F 0 "C345" H 7900 3130 42  0000 L BNN
+F 1 "5600µF/100V" H 7900 2830 42  0000 L BNN
+F 2 "SI3002V4.1:KOND_D35" H 8100 3000 50  0001 C CNN
+F 3 "" H 8100 3000 50  0001 C CNN
+	1    8100 3000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:ELKOS-SI3002V4.1-eagle-import C346
+U 1 1 5768717F
+P 8400 3000
+F 0 "C346" H 8200 3130 42  0000 L BNN
+F 1 "5600µF/100V" H 8200 2830 42  0000 L BNN
+F 2 "SI3002V4.1:KOND_D35" H 8400 3000 50  0001 C CNN
+F 3 "" H 8400 3000 50  0001 C CNN
+	1    8400 3000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:ELKOS-SI3002V4.1-eagle-import C366
+U 1 1 8CA1019F
+P 8700 3000
+F 0 "C366" H 8500 3130 42  0000 L BNN
+F 1 "5600µF/100V" H 8500 2830 42  0000 L BNN
+F 2 "SI3002V4.1:KOND_D35" H 8700 3000 50  0001 C CNN
+F 3 "" H 8700 3000 50  0001 C CNN
+	1    8700 3000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:POTI2-SI3002V4.1-eagle-import P301
+U 1 1 1CACC9D5
+P 15500 6200
+F 0 "P301" H 15300 6010 42  0000 L BNN
+F 1 "22k" H 15590 6010 42  0000 L BNN
+F 2 "SI3002V4.1:POTI2" H 15500 6200 50  0001 C CNN
+F 3 "" H 15500 6200 50  0001 C CNN
+	1    15500 6200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:POTI2-SI3002V4.1-eagle-import P302
+U 1 1 8A228317
+P 20600 6000
+F 0 "P302" H 20400 5810 42  0000 L BNN
+F 1 "22k" H 20690 5810 42  0000 L BNN
+F 2 "SI3002V4.1:POTI2" H 20600 6000 50  0001 C CNN
+F 3 "" H 20600 6000 50  0001 C CNN
+	1    20600 6000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:DOPPELKONTAKTKLEIN-SI3002V4.1-eagle-import CON309
+U 1 1 0CD1BB84
+P 26300 5100
+F 0 "CON309" H 26150 5200 42  0000 L BNN
+F 1 "Steckzunge breit" H 26150 4980 42  0000 L BNN
+F 2 "SI3002V4.1:KONTAKT_KLEIN" H 26300 5100 50  0001 C CNN
+F 3 "" H 26300 5100 50  0001 C CNN
+	1    26300 5100
+	0    1    1    0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:DOPPELKONTAKTKLEIN-SI3002V4.1-eagle-import CON308
+U 1 1 AFF70E31
+P 26300 4800
+F 0 "CON308" H 26150 4900 42  0000 L BNN
+F 1 "Steckzunge breit" H 26150 4680 42  0000 L BNN
+F 2 "SI3002V4.1:KONTAKT_KLEIN" H 26300 4800 50  0001 C CNN
+F 3 "" H 26300 4800 50  0001 C CNN
+	1    26300 4800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:DROSSEL_DOPPELPADS-SI3002V4.1-eagle-import DR301
+U 1 1 CA6FF6B9
+P 3900 2900
+F 0 "DR301" H 3700 2900 42  0000 L BNN
+F 1 "???" H 3900 2900 50  0001 C CNN
+F 2 "SI3002V4.1:DC_COIL3" H 3900 2900 50  0001 C CNN
+F 3 "" H 3900 2900 50  0001 C CNN
+	1    3900 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:KONDENSATORC1206-SI3002V4.1-eagle-import C360
+U 1 1 EE809A08
+P 9900 4100
+F 0 "C360" H 9700 4280 73  0000 L BNN
+F 1 "47n/63V" H 9700 3900 73  0000 L BNN
+F 2 "SI3002V4.1:C1206" H 9900 4100 50  0001 C CNN
+F 3 "" H 9900 4100 50  0001 C CNN
+	1    9900 4100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:KONTAKTPE-SI3002V4.1-eagle-import CON330
+U 1 1 E0C9654A
+P 28700 6400
+F 0 "CON330" H 28600 6500 42  0000 L BNN
+F 1 "PE-BOHRUNG" H 28700 6400 50  0001 C CNN
+F 2 "SI3002V4.1:PE-KONTAKT-BOHRUNG" H 28700 6400 50  0001 C CNN
+F 3 "" H 28700 6400 50  0001 C CNN
+	1    28700 6400
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:KONTAKTPE-SI3002V4.1-eagle-import CON310
+U 1 1 5EF7F63F
+P 1900 5400
+F 0 "CON310" H 1800 5500 42  0000 L BNN
+F 1 "PE-BOHRUNG" H 1900 5400 50  0001 C CNN
+F 2 "SI3002V4.1:PE-KONTAKT-BOHRUNG" H 1900 5400 50  0001 C CNN
+F 3 "" H 1900 5400 50  0001 C CNN
+	1    1900 5400
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:SMD-R_STANDARDR0805-SI3002V4.1-eagle-import R348
+U 1 1 4FA60A06
+P 20800 10800
+F 0 "R348" H 20300 10750 59  0000 L BNN
+F 1 "je nach Trafo" H 20700 10600 59  0000 L BNN
+F 2 "SI3002V4.1:R0805" H 20800 10800 50  0001 C CNN
+F 3 "" H 20800 10800 50  0001 C CNN
+	1    20800 10800
+	0    1    1    0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:RT44?4-SI3002V4.1-eagle-import K302
+U 1 1 2483FEE8
+P 31100 5800
+F 0 "K302" H 31100 5800 50  0001 C CNN
+F 1 "RT444012 " H 31150 5915 59  0001 L BNN
+F 2 "SI3002V4.1:RT2N_O" H 31100 5800 50  0001 C CNN
+F 3 "" H 31100 5800 50  0001 C CNN
+	1    31100 5800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:RT44?4-SI3002V4.1-eagle-import K302
+U 2 1 2483FEE4
+P 31100 4600
+F 0 "K302" H 31100 4600 50  0001 C CNN
+F 1 "RT444012 " H 31150 4715 59  0001 L BNN
+F 2 "SI3002V4.1:RT2N_O" H 31100 4600 50  0001 C CNN
+F 3 "" H 31100 4600 50  0001 C CNN
+	2    31100 4600
+	0    1    -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:RT44?4-SI3002V4.1-eagle-import K302
+U 3 1 2483FEE0
+P 31100 5100
+F 0 "K302" H 31100 5100 50  0001 C CNN
+F 1 "RT444012 " H 31150 5215 59  0001 L BNN
+F 2 "SI3002V4.1:RT2N_O" H 31100 5100 50  0001 C CNN
+F 3 "" H 31100 5100 50  0001 C CNN
+	3    31100 5100
+	0    1    -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:RT44?4-SI3002V4.1-eagle-import K303
+U 1 1 0BDEAE4B
+P 29400 5900
+F 0 "K303" H 29400 5900 50  0001 C CNN
+F 1 "RT444012 " H 29450 6015 59  0001 L BNN
+F 2 "SI3002V4.1:RT2N_O" H 29400 5900 50  0001 C CNN
+F 3 "" H 29400 5900 50  0001 C CNN
+	1    29400 5900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:RT44?4-SI3002V4.1-eagle-import K303
+U 2 1 0BDEAE47
+P 29400 5100
+F 0 "K303" H 29400 5100 50  0001 C CNN
+F 1 "RT444012 " H 29450 5215 59  0001 L BNN
+F 2 "SI3002V4.1:RT2N_O" H 29400 5100 50  0001 C CNN
+F 3 "" H 29400 5100 50  0001 C CNN
+	2    29400 5100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:RT44?4-SI3002V4.1-eagle-import K303
+U 3 1 0BDEAE43
+P 29400 4600
+F 0 "K303" H 29400 4600 50  0001 C CNN
+F 1 "RT444012 " H 29450 4715 59  0001 L BNN
+F 2 "SI3002V4.1:RT2N_O" H 29400 4600 50  0001 C CNN
+F 3 "" H 29400 4600 50  0001 C CNN
+	3    29400 4600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:DOPPELKONTAKTGROß-SI3002V4.1-eagle-import #CON311
+U 1 1 3B719EF8
+P 1000 4100
+F 0 "#CON311" H 850 4200 42  0000 L BNN
+F 1 "Steckzunge breit" H 850 3980 42  0000 L BNN
+F 2 "" H 1000 4100 50  0001 C CNN
+F 3 "" H 1000 4100 50  0001 C CNN
+	1    1000 4100
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:DOPPELKONTAKTGROß-SI3002V4.1-eagle-import #CON318
+U 1 1 7AA1C679
+P 1000 4200
+F 0 "#CON318" H 850 4300 42  0000 L BNN
+F 1 "Steckzunge breit" H 850 4080 42  0000 L BNN
+F 2 "" H 1000 4200 50  0001 C CNN
+F 3 "" H 1000 4200 50  0001 C CNN
+	1    1000 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:DOPPELKONTAKTGROß-SI3002V4.1-eagle-import #CON302
+U 1 1 EFC5E9A8
+P 1000 2300
+F 0 "#CON302" H 850 2400 42  0000 L BNN
+F 1 "Steckzunge breit" H 850 2180 42  0000 L BNN
+F 2 "" H 1000 2300 50  0001 C CNN
+F 3 "" H 1000 2300 50  0001 C CNN
+	1    1000 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:DOPPELKONTAKTGROß-SI3002V4.1-eagle-import #CON315
+U 1 1 1830E213
+P 1000 2500
+F 0 "#CON315" H 850 2600 42  0000 L BNN
+F 1 "Steckzunge breit" H 850 2380 42  0000 L BNN
+F 2 "" H 1000 2500 50  0001 C CNN
+F 3 "" H 1000 2500 50  0001 C CNN
+	1    1000 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:DOPPELKONTAKTGROß-SI3002V4.1-eagle-import #CON323
+U 1 1 CA423C91
+P 1000 2400
+F 0 "#CON323" H 850 2500 42  0000 L BNN
+F 1 "Steckzunge breit" H 850 2280 42  0000 L BNN
+F 2 "" H 1000 2400 50  0001 C CNN
+F 3 "" H 1000 2400 50  0001 C CNN
+	1    1000 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:S25K40-SI3002V4.1-eagle-import VARI302
+U 1 1 53A7813A
+P 1300 2900
+F 0 "VARI302" H 1350 2754 59  0000 L BNN
+F 1 "S25K130E4R12" H 1350 2675 59  0000 L BNN
+F 2 "SI3002V4.1:S25K40" H 1300 2900 50  0001 C CNN
+F 3 "" H 1300 2900 50  0001 C CNN
+	1    1300 2900
+	0    1    1    0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:S25K40-SI3002V4.1-eagle-import VARI303
+U 1 1 83230518
+P 1300 3500
+F 0 "VARI303" H 1350 3354 59  0000 L BNN
+F 1 "S25K130E4R12" H 1350 3275 59  0000 L BNN
+F 2 "SI3002V4.1:S25K40" H 1300 3500 50  0001 C CNN
+F 3 "" H 1300 3500 50  0001 C CNN
+	1    1300 3500
+	0    1    1    0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:C15_5-SI3002V4.1-eagle-import C383
+U 1 1 8AFB0FD4
+P 26900 4300
+F 0 "C383" V 27085 3860 59  0000 L BNN
+F 1 "4,7nF X1" H 26960 4115 59  0000 L BNN
+F 2 "SI3002V4.1:C15B5" H 26900 4300 50  0001 C CNN
+F 3 "" H 26900 4300 50  0001 C CNN
+	1    26900 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:C15_5-SI3002V4.1-eagle-import C384
+U 1 1 CF3A2E7D
+P 26900 5300
+F 0 "C384" V 27085 5060 59  0000 L BNN
+F 1 "4,7nF X1" H 26960 5115 59  0000 L BNN
+F 2 "SI3002V4.1:C15B5" H 26900 5300 50  0001 C CNN
+F 3 "" H 26900 5300 50  0001 C CNN
+	1    26900 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:C22_10-SI3002V4.1-eagle-import C385
+U 1 1 FF2855ED
+P 27400 4800
+F 0 "C385" V 27285 4460 59  0000 L BNN
+F 1 "330nF X1" H 27460 4615 59  0000 L BNN
+F 2 "SI3002V4.1:C22.5B10" H 27400 4800 50  0001 C CNN
+F 3 "" H 27400 4800 50  0001 C CNN
+	1    27400 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:C22_10-SI3002V4.1-eagle-import C358
+U 1 1 C1771191
+P 28600 4900
+F 0 "C358" V 28685 4460 59  0000 L BNN
+F 1 "330nF X1" H 28660 4715 59  0000 L BNN
+F 2 "SI3002V4.1:C22.5B10" H 28600 4900 50  0001 C CNN
+F 3 "" H 28600 4900 50  0001 C CNN
+	1    28600 4900
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:C15_5-SI3002V4.1-eagle-import C357
+U 1 1 3F675E20
+P 28600 5650
+F 0 "C357" V 28585 5310 59  0000 L BNN
+F 1 "4,7nF Y1" V 28485 5310 59  0000 L BNN
+F 2 "SI3002V4.1:C15B5" H 28600 5650 50  0001 C CNN
+F 3 "" H 28600 5650 50  0001 C CNN
+	1    28600 5650
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:C15_5-SI3002V4.1-eagle-import C356
+U 1 1 535F4B10
+P 28900 5700
+F 0 "C356" V 28985 5360 59  0000 L BNN
+F 1 "4,7nF Y1" V 28835 5410 59  0000 L BNN
+F 2 "SI3002V4.1:C15B5" H 28900 5700 50  0001 C CNN
+F 3 "" H 28900 5700 50  0001 C CNN
+	1    28900 5700
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:FUSESH22,5A-SI3002V4.1-eagle-import F301
+U 1 1 D1469A18
+P 32400 4600
+F 0 "F301" H 32250 4655 59  0000 L BNN
+F 1 "???" H 32250 4485 59  0000 L BNN
+F 2 "SI3002V4.1:SH22,5A" H 32400 4600 50  0001 C CNN
+F 3 "" H 32400 4600 50  0001 C CNN
+	1    32400 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:+15V-SI3002V4.1-eagle-import #U$024
+U 1 1 5D73C6FF
+P 31200 7500
+F 0 "#U$024" H 31200 7500 50  0001 C CNN
+F 1 "+15V" H 31100 7700 85  0000 L BNN
+F 2 "" H 31200 7500 50  0001 C CNN
+F 3 "" H 31200 7500 50  0001 C CNN
+	1    31200 7500
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:R-EU_0207_2V-SI3002V4.1-eagle-import R361
+U 1 1 0B497590
+P 20600 6500
+F 0 "R361" H 20450 6559 59  0000 L BNN
+F 1 "33K / 0,6W" H 20450 6370 59  0000 L BNN
+F 2 "SI3002V4.1:0207_2V" H 20600 6500 50  0001 C CNN
+F 3 "" H 20600 6500 50  0001 C CNN
+	1    20600 6500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:R-EU_0207_2V-SI3002V4.1-eagle-import R359
+U 1 1 37ACBE34
+P 20200 6300
+F 0 "R359" H 20050 6359 59  0000 L BNN
+F 1 "33K / 0,6W" H 20050 6170 59  0000 L BNN
+F 2 "SI3002V4.1:0207_2V" H 20200 6300 50  0001 C CNN
+F 3 "" H 20200 6300 50  0001 C CNN
+	1    20200 6300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:R-EU_0207_2V-SI3002V4.1-eagle-import R358
+U 1 1 DA369442
+P 15200 6600
+F 0 "R358" H 15050 6659 59  0000 L BNN
+F 1 "33K / 0,6W" H 15050 6470 59  0000 L BNN
+F 2 "SI3002V4.1:0207_2V" H 15200 6600 50  0001 C CNN
+F 3 "" H 15200 6600 50  0001 C CNN
+	1    15200 6600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:R-EU_0207_2V-SI3002V4.1-eagle-import R360
+U 1 1 EA4B6B8B
+P 15500 6700
+F 0 "R360" H 15350 6759 59  0000 L BNN
+F 1 "33K / 0,6W" H 15350 6570 59  0000 L BNN
+F 2 "SI3002V4.1:0207_2V" H 15500 6700 50  0001 C CNN
+F 3 "" H 15500 6700 50  0001 C CNN
+	1    15500 6700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:R-EU_R1206-SI3002V4.1-eagle-import R353
+U 1 1 F56CF705
+P 31700 7700
+F 0 "R353" H 31550 7759 59  0000 L BNN
+F 1 "1k2 / 0,25W" H 31550 7570 59  0000 L BNN
+F 2 "SI3002V4.1:R1206" H 31700 7700 50  0001 C CNN
+F 3 "" H 31700 7700 50  0001 C CNN
+	1    31700 7700
+	-1   0    0    1   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:ELKOS-SI3002V4.1-eagle-import C302
+U 1 1 34D7FCC0
+P 5650 3000
+F 0 "C302" H 5450 3130 42  0000 L BNN
+F 1 "5600µF/100V" H 5450 2830 42  0000 L BNN
+F 2 "SI3002V4.1:KOND_D35" H 5650 3000 50  0001 C CNN
+F 3 "" H 5650 3000 50  0001 C CNN
+	1    5650 3000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:C-EUC0805-SI3002V4.1-eagle-import C380
+U 1 1 77D9475B
+P 20600 7100
+F 0 "C380" H 20660 7115 59  0000 L BNN
+F 1 "???" H 20660 6915 59  0000 L BNN
+F 2 "SI3002V4.1:C0805" H 20600 7100 50  0001 C CNN
+F 3 "" H 20600 7100 50  0001 C CNN
+	1    20600 7100
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:C-EUC0805-SI3002V4.1-eagle-import C381
+U 1 1 C42FFE76
+P 15500 7100
+F 0 "C381" H 15660 7015 59  0000 L BNN
+F 1 "???" H 15560 6915 59  0000 L BNN
+F 2 "SI3002V4.1:C0805" H 15500 7100 50  0001 C CNN
+F 3 "" H 15500 7100 50  0001 C CNN
+	1    15500 7100
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:MA04-1-SI3002V4.1-eagle-import CON329
+U 1 1 4B7A7ABE
+P 33350 7800
+F 0 "CON329" H 33200 7330 59  0000 L BNN
+F 1 "4pol.Stiftl." H 33300 7400 59  0000 L BNN
+F 2 "SI3002V4.1:MA04-1" H 33350 7800 50  0001 C CNN
+F 3 "" H 33350 7800 50  0001 C CNN
+	1    33350 7800
+	-1   0    0    1   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:BUZ11K-SI3002V4.1-eagle-import Q304
+U 1 1 EA038A9F
+P 13000 3500
+F 0 "Q304" H 13200 3600 59  0000 L BNN
+F 1 "FDP2532" H 13200 3500 59  0000 L BNN
+F 2 "SI3002V4.1:TO247_220" H 13000 3500 50  0001 C CNN
+F 3 "" H 13000 3500 50  0001 C CNN
+	1    13000 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:Z-DIODEA-SI3002V4.1-eagle-import D334
+U 1 1 83925F4E
+P 12800 3800
+F 0 "D334" H 12730 3875 59  0000 L BNN
+F 1 "BZV55C18" H 12730 3665 59  0000 L BNN
+F 2 "SI3002V4.1:SMD-DIODE_STANDARD" H 12800 3800 50  0001 C CNN
+F 3 "" H 12800 3800 50  0001 C CNN
+	1    12800 3800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:SMD-R_STANDARDR0805-SI3002V4.1-eagle-import R352
+U 1 1 A717D9DA
+P 12800 3500
+F 0 "R352" H 12700 3600 59  0000 L BNN
+F 1 "22" H 12700 3300 59  0000 L BNN
+F 2 "SI3002V4.1:R0805" H 12800 3500 50  0001 C CNN
+F 3 "" H 12800 3500 50  0001 C CNN
+	1    12800 3500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:SMD-R_STANDARDR0805-SI3002V4.1-eagle-import R362
+U 1 1 3A0F819C
+P 12800 6600
+F 0 "R362" H 12700 6700 59  0000 L BNN
+F 1 "22" H 12700 6400 59  0000 L BNN
+F 2 "SI3002V4.1:R0805" H 12800 6600 50  0001 C CNN
+F 3 "" H 12800 6600 50  0001 C CNN
+	1    12800 6600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:Z-DIODEA-SI3002V4.1-eagle-import D331
+U 1 1 AB4E0B8C
+P 12800 6900
+F 0 "D331" H 12730 6975 59  0000 L BNN
+F 1 "BZV55C18" H 12730 6765 59  0000 L BNN
+F 2 "SI3002V4.1:SMD-DIODE_STANDARD" H 12800 6900 50  0001 C CNN
+F 3 "" H 12800 6900 50  0001 C CNN
+	1    12800 6900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:SMD-R_STANDARDR0805-SI3002V4.1-eagle-import R351
+U 1 1 E557A0B1
+P 18100 6600
+F 0 "R351" H 18000 6700 59  0000 L BNN
+F 1 "22" H 18000 6400 59  0000 L BNN
+F 2 "SI3002V4.1:R0805" H 18100 6600 50  0001 C CNN
+F 3 "" H 18100 6600 50  0001 C CNN
+	1    18100 6600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:Z-DIODEA-SI3002V4.1-eagle-import D333
+U 1 1 B5740F34
+P 18100 6900
+F 0 "D333" H 18030 6975 59  0000 L BNN
+F 1 "BZV55C18" H 18030 6765 59  0000 L BNN
+F 2 "SI3002V4.1:SMD-DIODE_STANDARD" H 18100 6900 50  0001 C CNN
+F 3 "" H 18100 6900 50  0001 C CNN
+	1    18100 6900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:BUZ11K-SI3002V4.1-eagle-import Q301
+U 1 1 0C73101B
+P 13000 6600
+F 0 "Q301" H 13200 6700 59  0000 L BNN
+F 1 "FDP2532" H 13200 6600 59  0000 L BNN
+F 2 "SI3002V4.1:TO247_220" H 13000 6600 50  0001 C CNN
+F 3 "" H 13000 6600 50  0001 C CNN
+	1    13000 6600
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:BUZ11K-SI3002V4.1-eagle-import Q302
+U 1 1 ACF97F23
+P 18300 6600
+F 0 "Q302" H 18500 6700 59  0000 L BNN
+F 1 "FDP2532" H 18500 6600 59  0000 L BNN
+F 2 "SI3002V4.1:TO247_220" H 18300 6600 50  0001 C CNN
+F 3 "" H 18300 6600 50  0001 C CNN
+	1    18300 6600
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:BUZ11BV-SI3002V4.1-eagle-import Q303
+U 1 1 1A4771B6
+P 18300 3500
+F 0 "Q303" H 18500 3600 59  0000 L BNN
+F 1 "FDP2532" H 18500 3500 59  0000 L BNN
+F 2 "SI3002V4.1:TO220BV" H 18300 3500 50  0001 C CNN
+F 3 "" H 18300 3500 50  0001 C CNN
+	1    18300 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:SMD-R_STANDARDR0805-SI3002V4.1-eagle-import R350
+U 1 1 7D071EBC
+P 18100 3500
+F 0 "R350" H 18000 3600 59  0000 L BNN
+F 1 "22" H 18000 3300 59  0000 L BNN
+F 2 "SI3002V4.1:R0805" H 18100 3500 50  0001 C CNN
+F 3 "" H 18100 3500 50  0001 C CNN
+	1    18100 3500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:Z-DIODEA-SI3002V4.1-eagle-import D332
+U 1 1 184884D1
+P 18100 3800
+F 0 "D332" H 18030 3875 59  0000 L BNN
+F 1 "BZV55C18" H 18030 3665 59  0000 L BNN
+F 2 "SI3002V4.1:SMD-DIODE_STANDARD" H 18100 3800 50  0001 C CNN
+F 3 "" H 18100 3800 50  0001 C CNN
+	1    18100 3800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:BUZ11BV-SI3002V4.1-eagle-import Q305
+U 1 1 5F7B8175
+P 13800 3500
+F 0 "Q305" H 14000 3600 59  0000 L BNN
+F 1 "FDP2532" H 14000 3500 59  0000 L BNN
+F 2 "SI3002V4.1:TO220BV" H 13800 3500 50  0001 C CNN
+F 3 "" H 13800 3500 50  0001 C CNN
+	1    13800 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:BUZ11K-SI3002V4.1-eagle-import Q306
+U 1 1 FA6F82FA
+P 14600 3500
+F 0 "Q306" H 14800 3600 59  0000 L BNN
+F 1 "FDP2532" H 14800 3500 59  0000 L BNN
+F 2 "SI3002V4.1:TO247_220" H 14600 3500 50  0001 C CNN
+F 3 "" H 14600 3500 50  0001 C CNN
+	1    14600 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:BUZ11K-SI3002V4.1-eagle-import Q307
+U 1 1 41A1D855
+P 19000 3500
+F 0 "Q307" H 19200 3600 59  0000 L BNN
+F 1 "FDP2532" H 19200 3500 59  0000 L BNN
+F 2 "SI3002V4.1:TO247_220" H 19000 3500 50  0001 C CNN
+F 3 "" H 19000 3500 50  0001 C CNN
+	1    19000 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:BUZ11K-SI3002V4.1-eagle-import Q308
+U 1 1 3744F34B
+P 19800 3500
+F 0 "Q308" H 20000 3600 59  0000 L BNN
+F 1 "FDP2532" H 20000 3500 59  0000 L BNN
+F 2 "SI3002V4.1:TO247_220" H 19800 3500 50  0001 C CNN
+F 3 "" H 19800 3500 50  0001 C CNN
+	1    19800 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:BUZ11BV-SI3002V4.1-eagle-import Q309
+U 1 1 FE66DDB6
+P 19000 6600
+F 0 "Q309" H 19200 6700 59  0000 L BNN
+F 1 "FDP2532" H 19200 6600 59  0000 L BNN
+F 2 "SI3002V4.1:TO220BV" H 19000 6600 50  0001 C CNN
+F 3 "" H 19000 6600 50  0001 C CNN
+	1    19000 6600
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:BUZ11K-SI3002V4.1-eagle-import Q310
+U 1 1 0A926037
+P 19800 6600
+F 0 "Q310" H 20000 6700 59  0000 L BNN
+F 1 "FDP2532" H 20000 6600 59  0000 L BNN
+F 2 "SI3002V4.1:TO247_220" H 19800 6600 50  0001 C CNN
+F 3 "" H 19800 6600 50  0001 C CNN
+	1    19800 6600
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:BUZ11K-SI3002V4.1-eagle-import Q311
+U 1 1 237FAE2B
+P 13800 6600
+F 0 "Q311" H 14000 6700 59  0000 L BNN
+F 1 "FDP2532" H 14000 6600 59  0000 L BNN
+F 2 "SI3002V4.1:TO247_220" H 13800 6600 50  0001 C CNN
+F 3 "" H 13800 6600 50  0001 C CNN
+	1    13800 6600
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:BUZ11BV-SI3002V4.1-eagle-import Q312
+U 1 1 A09C61AA
+P 14600 6600
+F 0 "Q312" H 14800 6700 59  0000 L BNN
+F 1 "FDP2532" H 14800 6600 59  0000 L BNN
+F 2 "SI3002V4.1:TO220BV" H 14600 6600 50  0001 C CNN
+F 3 "" H 14600 6600 50  0001 C CNN
+	1    14600 6600
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:DOPPELKONTAKTGROß-SI3002V4.1-eagle-import #CON321
+U 1 1 BE4FAA1E
+P 1300 1300
+F 0 "#CON321" V 1300 1350 42  0000 L BNN
+F 1 "Steckzunge" H 1150 1180 42  0000 L BNN
+F 2 "" H 1300 1300 50  0001 C CNN
+F 3 "" H 1300 1300 50  0001 C CNN
+	1    1300 1300
+	0    1    1    0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:DOPPELKONTAKTGROß-SI3002V4.1-eagle-import #CON320
+U 1 1 8F5DE235
+P 1300 5400
+F 0 "#CON320" V 1200 5450 42  0000 L BNN
+F 1 "Steckzunge" H 1150 5280 42  0000 L BNN
+F 2 "" H 1300 5400 50  0001 C CNN
+F 3 "" H 1300 5400 50  0001 C CNN
+	1    1300 5400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:DROSSEL-SI3002V4.1-eagle-import DR303
+U 1 1 5EA52427
+P 28200 5200
+F 0 "DR303" H 28000 5900 42  0000 L BNN
+F 1 "2,7mH/8A" H 28000 4800 42  0000 L BNN
+F 2 "SI3002V4.1:NETZDROSSEL3" H 28200 5200 50  0001 C CNN
+F 3 "" H 28200 5200 50  0001 C CNN
+	1    28200 5200
+	-1   0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:C27_9-SI3002V4.1-eagle-import C369
+U 1 1 B2711050
+P 19400 12700
+F 0 "C369" H 19260 12815 59  0000 L BNN
+F 1 "330nF X1" H 19460 12515 59  0000 L BNN
+F 2 "SI3002V4.1:C27.5B9" H 19400 12700 50  0001 C CNN
+F 3 "" H 19400 12700 50  0001 C CNN
+	1    19400 12700
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:C10_6-SI3002V4.1-eagle-import C370
+U 1 1 665EE0A2
+P 19700 12700
+F 0 "C370" H 19660 12815 59  0000 L BNN
+F 1 "4n7 X1 500VAC" H 19760 12515 59  0000 L BNN
+F 2 "SI3002V4.1:C10B6" H 19700 12700 50  0001 C CNN
+F 3 "" H 19700 12700 50  0001 C CNN
+	1    19700 12700
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:C10_6-SI3002V4.1-eagle-import C371
+U 1 1 A9D8CBFF
+P 20050 12700
+F 0 "C371" H 20010 12815 59  0000 L BNN
+F 1 "4n7 X1 500VAC" H 20110 12515 59  0000 L BNN
+F 2 "SI3002V4.1:C10B6" H 20050 12700 50  0001 C CNN
+F 3 "" H 20050 12700 50  0001 C CNN
+	1    20050 12700
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:CAP11-SI3002V4.1-eagle-import C361
+U 1 1 3FB17B7B
+P 25200 4900
+F 0 "C361" H 25100 5000 85  0000 L BNN
+F 1 "22µF/63V" H 25100 4750 68  0000 L BNN
+F 2 "SI3002V4.1:C-27,5" H 25200 4900 50  0001 C CNN
+F 3 "" H 25200 4900 50  0001 C CNN
+	1    25200 4900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:WIDERSTANDR343-SI3002V4.1-eagle-import R347
+U 1 1 987361C1
+P 7400 900
+F 0 "R347" H 7230 1040 64  0000 L BNN
+F 1 "1k5/5W" H 7200 700 64  0000 L BNN
+F 2 "SI3002V4.1:R_LEISTUNG_RM5" H 7400 900 50  0001 C CNN
+F 3 "" H 7400 900 50  0001 C CNN
+	1    7400 900 
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:CPOL-USE2.5-7-SI3002V4.1-eagle-import C348
+U 1 1 95B2AC18
+P 30000 5900
+F 0 "C348" V 29875 5740 59  0000 L BNN
+F 1 "100µF/20-25V" H 30040 5735 59  0000 L BNN
+F 2 "SI3002V4.1:E2,5-7" H 30000 5900 50  0001 C CNN
+F 3 "" H 30000 5900 50  0001 C CNN
+	1    30000 5900
+	0    1    1    0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:CPOL-USE5-8.5-SI3002V4.1-eagle-import C372
+U 1 1 4302CB55
+P 31700 5800
+F 0 "C372" H 31640 5925 59  0000 L BNN
+F 1 "220µF/25V" H 31740 5635 59  0000 L BNN
+F 2 "SI3002V4.1:E5-8,5" H 31700 5800 50  0001 C CNN
+F 3 "" H 31700 5800 50  0001 C CNN
+	1    31700 5800
+	0    1    1    0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:FE20-1-SI3002V4.1-eagle-import CON301
+U 1 1 FC4C759A
+P 15500 12300
+F 0 "CON301" H 15450 17330 59  0000 L BNN
+F 1 "µC-Platine" H 15450 11100 59  0000 L BNN
+F 2 "SI3002V4.1:FE20" H 15500 12300 50  0001 C CNN
+F 3 "" H 15500 12300 50  0001 C CNN
+	1    15500 12300
+	0    1    -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:RT44?4-SI3002V4.1-eagle-import K301
+U 1 1 533AD091
+P 31100 6300
+F 0 "K301" H 31100 6300 50  0001 C CNN
+F 1 "RT444012 " H 31150 6415 59  0001 L BNN
+F 2 "SI3002V4.1:RT2N_O" H 31100 6300 50  0001 C CNN
+F 3 "" H 31100 6300 50  0001 C CNN
+	1    31100 6300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:RT44?4-SI3002V4.1-eagle-import K301
+U 2 1 533AD09D
+P 31100 5200
+F 0 "K301" H 31100 5200 50  0001 C CNN
+F 1 "RT444012 " H 31150 5315 59  0001 L BNN
+F 2 "SI3002V4.1:RT2N_O" H 31100 5200 50  0001 C CNN
+F 3 "" H 31100 5200 50  0001 C CNN
+	2    31100 5200
+	0    1    -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:RT44?4-SI3002V4.1-eagle-import K301
+U 3 1 533AD099
+P 31100 4500
+F 0 "K301" H 31100 4500 50  0001 C CNN
+F 1 "RT444012 " H 31150 4615 59  0001 L BNN
+F 2 "SI3002V4.1:RT2N_O" H 31100 4500 50  0001 C CNN
+F 3 "" H 31100 4500 50  0001 C CNN
+	3    31100 4500
+	0    1    -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:C10_6-SI3002V4.1-eagle-import C376
+U 1 1 53D3F7AF
+P 22300 12300
+F 0 "C376" H 22260 12415 59  0000 L BNN
+F 1 "4n7 X1 500VAC" H 22360 12115 59  0000 L BNN
+F 2 "SI3002V4.1:C10B6" H 22300 12300 50  0001 C CNN
+F 3 "" H 22300 12300 50  0001 C CNN
+	1    22300 12300
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:C10_6-SI3002V4.1-eagle-import C377
+U 1 1 82150E60
+P 22600 12300
+F 0 "C377" H 22560 12415 59  0000 L BNN
+F 1 "4n7 X1 500VAC" H 22660 12115 59  0000 L BNN
+F 2 "SI3002V4.1:C10B6" H 22600 12300 50  0001 C CNN
+F 3 "" H 22600 12300 50  0001 C CNN
+	1    22600 12300
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:R-EU_0207_2V-SI3002V4.1-eagle-import R355
+U 1 1 5EE50C06
+P 20200 8200
+F 0 "R355" H 20050 8259 59  0000 L BNN
+F 1 "47R / 0,6W" H 20050 8070 59  0000 L BNN
+F 2 "SI3002V4.1:0207_2V" H 20200 8200 50  0001 C CNN
+F 3 "" H 20200 8200 50  0001 C CNN
+	1    20200 8200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:R-EU_R0805-SI3002V4.1-eagle-import R356
+U 1 1 92132CE4
+P 19500 8000
+F 0 "R356" H 19350 8059 59  0000 L BNN
+F 1 "22K" H 19400 8150 59  0000 L BNN
+F 2 "SI3002V4.1:R0805" H 19500 8000 50  0001 C CNN
+F 3 "" H 19500 8000 50  0001 C CNN
+	1    19500 8000
+	-1   0    0    1   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:R-EU_M0805-SI3002V4.1-eagle-import R357
+U 1 1 3FA84E60
+P 19200 8200
+F 0 "R357" H 19050 8259 59  0000 L BNN
+F 1 "22K" H 19250 8350 59  0000 L BNN
+F 2 "SI3002V4.1:M0805" H 19200 8200 50  0001 C CNN
+F 3 "" H 19200 8200 50  0001 C CNN
+	1    19200 8200
+	0    1    1    0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:C-EUC0805-SI3002V4.1-eagle-import C386
+U 1 1 8897D2AF
+P 19900 8200
+F 0 "C386" H 19660 8215 59  0000 L BNN
+F 1 "unbest." H 19960 8015 59  0000 L BNN
+F 2 "SI3002V4.1:C0805" H 19900 8200 50  0001 C CNN
+F 3 "" H 19900 8200 50  0001 C CNN
+	1    19900 8200
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:GND-SI3002V4.1-eagle-import #U$01
+U 1 1 89E33A62
+P 19200 8500
+F 0 "#U$01" H 19200 8500 50  0001 C CNN
+F 1 "GND" H 19200 8500 50  0001 C CNN
+F 2 "" H 19200 8500 50  0001 C CNN
+F 3 "" H 19200 8500 50  0001 C CNN
+	1    19200 8500
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:C27_11-SI3002V4.1-eagle-import C382
+U 1 1 FF920186
+P 2000 2900
+F 0 "C382" H 2060 2915 59  0000 L BNN
+F 1 "680nF X1" H 2060 2715 59  0000 L BNN
+F 2 "SI3002V4.1:C27.5B11" H 2000 2900 50  0001 C CNN
+F 3 "" H 2000 2900 50  0001 C CNN
+	1    2000 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:C27_11-SI3002V4.1-eagle-import C375
+U 1 1 6FF5DEF2
+P 22000 12300
+F 0 "C375" H 21960 12415 59  0000 L BNN
+F 1 "330nF X1" H 22060 12115 59  0000 L BNN
+F 2 "SI3002V4.1:C27.5B11" H 22000 12300 50  0001 C CNN
+F 3 "" H 22000 12300 50  0001 C CNN
+	1    22000 12300
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:BUZ11M-SI3002V4.1-eagle-import T306
+U 1 1 F5C71840
+P 9100 10700
+F 0 "T306" H 8700 10700 59  0000 L BNN
+F 1 "IRFL214" H 9300 10700 59  0000 L BNN
+F 2 "SI3002V4.1:D2PACK" H 9100 10700 50  0001 C CNN
+F 3 "" H 9100 10700 50  0001 C CNN
+	1    9100 10700
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:TRANSISTORSOT223-SI3002V4.1-eagle-import T307
+U 1 1 217F10FE
+P 9650 10700
+F 0 "T307" H 9450 10870 42  0000 L BNN
+F 1 "IRFL214" H 9450 10500 42  0000 L BNN
+F 2 "SI3002V4.1:SOT223R_INFINEON" H 9650 10700 50  0001 C CNN
+F 3 "" H 9650 10700 50  0001 C CNN
+	1    9650 10700
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:R-EU_R0805W-SI3002V4.1-eagle-import R316
+U 1 1 4B487159
+P 7900 9900
+F 0 "R316" H 7750 9959 59  0000 L BNN
+F 1 "100k" H 7750 9770 59  0000 L BNN
+F 2 "SI3002V4.1:R0805W" H 7900 9900 50  0001 C CNN
+F 3 "" H 7900 9900 50  0001 C CNN
+	1    7900 9900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:R-EU_R0805W-SI3002V4.1-eagle-import R354
+U 1 1 4440FF57
+P 8100 9900
+F 0 "R354" H 7950 9959 59  0000 L BNN
+F 1 "100k" H 7950 9770 59  0000 L BNN
+F 2 "SI3002V4.1:R0805W" H 8100 9900 50  0001 C CNN
+F 3 "" H 8100 9900 50  0001 C CNN
+	1    8100 9900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:CT12-SI3002V4.1-eagle-import CT301
+U 1 1 28DDA856
+P 20900 8200
+F 0 "CT301" H 20700 8450 59  0000 L BNN
+F 1 "AC1050" H 20700 7855 59  0000 L BNN
+F 2 "SI3002V4.1:STROMWANDLER2" H 20900 8200 50  0001 C CNN
+F 3 "" H 20900 8200 50  0001 C CNN
+	1    20900 8200
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:S20K40-SI3002V4.1-eagle-import VARI304
+U 1 1 16A0107C
+P 1100 2900
+F 0 "VARI304" H 1150 2754 59  0000 L BNN
+F 1 "S25K130E4R12" H 1150 2675 59  0000 L BNN
+F 2 "SI3002V4.1:S20K40" H 1100 2900 50  0001 C CNN
+F 3 "" H 1100 2900 50  0001 C CNN
+	1    1100 2900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:S20K40-SI3002V4.1-eagle-import VARI305
+U 1 1 5F31647E
+P 1100 3500
+F 0 "VARI305" H 1150 3354 59  0000 L BNN
+F 1 "S25K130E4R12" H 1150 3275 59  0000 L BNN
+F 2 "SI3002V4.1:S20K40" H 1100 3500 50  0001 C CNN
+F 3 "" H 1100 3500 50  0001 C CNN
+	1    1100 3500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:S10K300-SI3002V4.1-eagle-import VARI309
+U 1 1 0F800A12
+P 31900 4900
+F 0 "VARI309" H 31950 4754 59  0000 L BNN
+F 1 "S20K275" H 31950 4675 59  0000 L BNN
+F 2 "SI3002V4.1:S10K300" H 31900 4900 50  0001 C CNN
+F 3 "" H 31900 4900 50  0001 C CNN
+	1    31900 4900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:S20K275-SI3002V4.1-eagle-import VARI308
+U 1 1 6AF1A6F3
+P 31600 4900
+F 0 "VARI308" H 31650 4754 59  0000 L BNN
+F 1 "S20K275" H 31650 4675 59  0000 L BNN
+F 2 "SI3002V4.1:S20K275" H 31600 4900 50  0001 C CNN
+F 3 "" H 31600 4900 50  0001 C CNN
+	1    31600 4900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:R-EU_R0805W-SI3002V4.1-eagle-import R364
+U 1 1 13F9A73A
+P 18100 8800
+F 0 "R364" H 17950 8859 59  0000 L BNN
+F 1 "1M" H 17950 8670 59  0000 L BNN
+F 2 "SI3002V4.1:R0805W" H 18100 8800 50  0001 C CNN
+F 3 "" H 18100 8800 50  0001 C CNN
+	1    18100 8800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:R-EU_R0805W-SI3002V4.1-eagle-import R365
+U 1 1 E617D5D1
+P 18100 9400
+F 0 "R365" H 17950 9459 59  0000 L BNN
+F 1 "10K" H 17950 9270 59  0000 L BNN
+F 2 "SI3002V4.1:R0805W" H 18100 9400 50  0001 C CNN
+F 3 "" H 18100 9400 50  0001 C CNN
+	1    18100 9400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:GND-SI3002V4.1-eagle-import #U$04
+U 1 1 649D799B
+P 18100 9800
+F 0 "#U$04" H 18100 9800 50  0001 C CNN
+F 1 "GND" H 18100 9800 50  0001 C CNN
+F 2 "" H 18100 9800 50  0001 C CNN
+F 3 "" H 18100 9800 50  0001 C CNN
+	1    18100 9800
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:R-EU_R0805W-SI3002V4.1-eagle-import R366
+U 1 1 A61DBE89
+P 18900 8800
+F 0 "R366" H 18750 8859 59  0000 L BNN
+F 1 "100k" H 18750 8670 59  0000 L BNN
+F 2 "SI3002V4.1:R0805W" H 18900 8800 50  0001 C CNN
+F 3 "" H 18900 8800 50  0001 C CNN
+	1    18900 8800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:R-EU_R0805W-SI3002V4.1-eagle-import R367
+U 1 1 2CE14E8C
+P 18900 9400
+F 0 "R367" H 18750 9459 59  0000 L BNN
+F 1 "10K" H 18750 9270 59  0000 L BNN
+F 2 "SI3002V4.1:R0805W" H 18900 9400 50  0001 C CNN
+F 3 "" H 18900 9400 50  0001 C CNN
+	1    18900 9400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:GND-SI3002V4.1-eagle-import #U$05
+U 1 1 BCE09641
+P 18900 9800
+F 0 "#U$05" H 18900 9800 50  0001 C CNN
+F 1 "GND" H 18900 9800 50  0001 C CNN
+F 2 "" H 18900 9800 50  0001 C CNN
+F 3 "" H 18900 9800 50  0001 C CNN
+	1    18900 9800
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:GND-SI3002V4.1-eagle-import #U$023
+U 1 1 3E99C09D
+P 30100 10600
+F 0 "#U$023" H 30100 10600 50  0001 C CNN
+F 1 "GND" H 30100 10600 50  0001 C CNN
+F 2 "" H 30100 10600 50  0001 C CNN
+F 3 "" H 30100 10600 50  0001 C CNN
+	1    30100 10600
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:TRANSISTORTRANS-WIEDIODE-SI3002V4.1-eagle-import T304
+U 1 1 4B890C72
+P 30100 10000
+F 0 "T304" H 29900 10170 42  0000 L BNN
+F 1 "BSS123" H 29900 9800 42  0000 L BNN
+F 2 "SI3002V4.1:SOT23" H 30100 10000 50  0001 C CNN
+F 3 "" H 30100 10000 50  0001 C CNN
+	1    30100 10000
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:MA03-1-SI3002V4.1-eagle-import CON316
+U 1 1 3218EBE7
+P 33100 8800
+F 0 "CON316" H 32950 8430 59  0000 L BNN
+F 1 "3pol.Stiftl." H 33050 8500 59  0000 L BNN
+F 2 "SI3002V4.1:MA03-1" H 33100 8800 50  0001 C CNN
+F 3 "" H 33100 8800 50  0001 C CNN
+	1    33100 8800
+	-1   0    0    1   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:KONDENSATORABST7.62_D0.8-SI3002V4.1-eagle-import C359
+U 1 1 E77C5352
+P 16900 3000
+F 0 "C359" H 16700 3180 73  0000 L BNN
+F 1 "100nF/250V" H 16700 2800 73  0000 L BNN
+F 2 "SI3002V4.1:KOND_RM7.5" H 16900 3000 50  0001 C CNN
+F 3 "" H 16900 3000 50  0001 C CNN
+	1    16900 3000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:GND@2-SI3002V4.1-eagle-import #U$027
+U 1 1 6695D42B
+P 16900 3400
+F 0 "#U$027" H 16900 3400 50  0001 C CNN
+F 1 "GND" V 16800 3200 59  0000 L BNN
+F 2 "" H 16900 3400 50  0001 C CNN
+F 3 "" H 16900 3400 50  0001 C CNN
+	1    16900 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:R-EU_R0805W-SI3002V4.1-eagle-import R369
+U 1 1 0F12E6D7
+P 29800 10300
+F 0 "R369" H 29650 10359 59  0000 L BNN
+F 1 "100k" H 29650 10170 59  0000 L BNN
+F 2 "SI3002V4.1:R0805W" H 29800 10300 50  0001 C CNN
+F 3 "" H 29800 10300 50  0001 C CNN
+	1    29800 10300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:C-EUC1206-SI3002V4.1-eagle-import C378
+U 1 1 517E5C83
+P 18400 9400
+F 0 "C378" H 18460 9415 59  0000 L BNN
+F 1 "100nF/50V" H 18460 9215 59  0000 L BNN
+F 2 "SI3002V4.1:C1206" H 18400 9400 50  0001 C CNN
+F 3 "" H 18400 9400 50  0001 C CNN
+	1    18400 9400
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:C-EUC1206-SI3002V4.1-eagle-import C379
+U 1 1 D21AE748
+P 19200 9400
+F 0 "C379" H 19260 9415 59  0000 L BNN
+F 1 "100nF/50V" H 19260 9215 59  0000 L BNN
+F 2 "SI3002V4.1:C1206" H 19200 9400 50  0001 C CNN
+F 3 "" H 19200 9400 50  0001 C CNN
+	1    19200 9400
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:GND-SI3002V4.1-eagle-import #U$09
+U 1 1 9E0009A5
+P 27500 7400
+F 0 "#U$09" H 27500 7400 50  0001 C CNN
+F 1 "GND" H 27500 7400 50  0001 C CNN
+F 2 "" H 27500 7400 50  0001 C CNN
+F 3 "" H 27500 7400 50  0001 C CNN
+	1    27500 7400
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:TRANSISTORTRANS-WIEDIODE-SI3002V4.1-eagle-import T301
+U 1 1 2F77017C
+P 27500 6800
+F 0 "T301" H 27300 6970 42  0000 L BNN
+F 1 "BSS123" H 27300 6600 42  0000 L BNN
+F 2 "SI3002V4.1:SOT23" H 27500 6800 50  0001 C CNN
+F 3 "" H 27500 6800 50  0001 C CNN
+	1    27500 6800
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:R-EU_R0805W-SI3002V4.1-eagle-import R309
+U 1 1 ACD89B66
+P 30400 7600
+F 0 "R309" H 30250 7659 59  0000 L BNN
+F 1 "100k" H 30250 7470 59  0000 L BNN
+F 2 "SI3002V4.1:R0805W" H 30400 7600 50  0001 C CNN
+F 3 "" H 30400 7600 50  0001 C CNN
+	1    30400 7600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:R-EU_R0805W-SI3002V4.1-eagle-import R332
+U 1 1 D71DE372
+P 28800 7100
+F 0 "R332" H 28650 7159 59  0000 L BNN
+F 1 "100k" H 28650 6970 59  0000 L BNN
+F 2 "SI3002V4.1:R0805W" H 28800 7100 50  0001 C CNN
+F 3 "" H 28800 7100 50  0001 C CNN
+	1    28800 7100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:R-EU_R0805-SI3002V4.1-eagle-import R372
+U 1 1 4BAA7A43
+P 27200 7100
+F 0 "R372" H 27050 7159 59  0000 L BNN
+F 1 "1M" H 27050 6970 59  0000 L BNN
+F 2 "SI3002V4.1:R0805" H 27200 7100 50  0001 C CNN
+F 3 "" H 27200 7100 50  0001 C CNN
+	1    27200 7100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:R-EU_R0805-SI3002V4.1-eagle-import R370
+U 1 1 DC3CDAB5
+P 26800 7100
+F 0 "R370" H 26650 7159 59  0000 L BNN
+F 1 "10k" H 26650 6970 59  0000 L BNN
+F 2 "SI3002V4.1:R0805" H 26800 7100 50  0001 C CNN
+F 3 "" H 26800 7100 50  0001 C CNN
+	1    26800 7100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:R-EU_R0805-SI3002V4.1-eagle-import R371
+U 1 1 EE976323
+P 27000 7100
+F 0 "R371" H 26850 7159 59  0000 L BNN
+F 1 "10K" H 26850 6970 59  0000 L BNN
+F 2 "SI3002V4.1:R0805" H 27000 7100 50  0001 C CNN
+F 3 "" H 27000 7100 50  0001 C CNN
+	1    27000 7100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:MA02-1-SI3002V4.1-eagle-import CON324
+U 1 1 5C57C1EE
+P 33000 10100
+F 0 "CON324" H 32750 9830 59  0000 L BNN
+F 1 "2pol.Stiftl." H 32750 9900 59  0000 L BNN
+F 2 "SI3002V4.1:MA02-1" H 33000 10100 50  0001 C CNN
+F 3 "" H 33000 10100 50  0001 C CNN
+	1    33000 10100
+	-1   0    0    1   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:GND-SI3002V4.1-eagle-import #U$028
+U 1 1 EC169927
+P 32600 10400
+F 0 "#U$028" H 32600 10400 50  0001 C CNN
+F 1 "GND" H 32600 10400 50  0001 C CNN
+F 2 "" H 32600 10400 50  0001 C CNN
+F 3 "" H 32600 10400 50  0001 C CNN
+	1    32600 10400
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:+15V-SI3002V4.1-eagle-import #U$026
+U 1 1 61545C92
+P 31200 9100
+F 0 "#U$026" H 31200 9100 50  0001 C CNN
+F 1 "+15V" H 30800 9100 85  0000 L BNN
+F 2 "" H 31200 9100 50  0001 C CNN
+F 3 "" H 31200 9100 50  0001 C CNN
+	1    31200 9100
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:SMD-R_STANDARDR0805-SI3002V4.1-eagle-import R368
+U 1 1 B3893466
+P 30900 9800
+F 0 "R368" H 30800 9900 59  0000 L BNN
+F 1 "10k" H 30800 9600 59  0000 L BNN
+F 2 "SI3002V4.1:R0805" H 30900 9800 50  0001 C CNN
+F 3 "" H 30900 9800 50  0001 C CNN
+	1    30900 9800
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:DIODE1-SI3002V4.1-eagle-import D336
+U 1 1 3978D352
+P 30400 9800
+F 0 "D336" H 30200 9900 59  0000 L BNN
+F 1 "LL4148" H 30400 9800 50  0001 C CNN
+F 2 "SI3002V4.1:SMD-DIODE_STANDARD" H 30400 9800 50  0001 C CNN
+F 3 "" H 30400 9800 50  0001 C CNN
+	1    30400 9800
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:CPOL-USE2.5-7-SI3002V4.1-eagle-import C367
+U 1 1 DD87600F
+P 31000 9400
+F 0 "C367" V 30875 9240 59  0000 L BNN
+F 1 "100µF/20-25V" H 31040 9235 59  0001 L BNN
+F 2 "SI3002V4.1:E2,5-7" H 31000 9400 50  0001 C CNN
+F 3 "" H 31000 9400 50  0001 C CNN
+	1    31000 9400
+	0    1    1    0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:CPOL-USE5-8.5-SI3002V4.1-eagle-import C374
+U 1 1 159A753A
+P 21700 12300
+F 0 "C374" H 21640 12425 59  0000 L BNN
+F 1 "100µF/20-25V" H 21740 12135 59  0000 L BNN
+F 2 "SI3002V4.1:E5-8,5" H 21700 12300 50  0001 C CNN
+F 3 "" H 21700 12300 50  0001 C CNN
+	1    21700 12300
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:R-EU_0207_10-SI3002V4.1-eagle-import R373
+U 1 1 A1ACF3C9
+P 1500 2900
+F 0 "R373" V 1941 2750 59  0000 L BNN
+F 1 "100k" V 1930 2850 59  0000 L BNN
+F 2 "SI3002V4.1:0207_10" H 1500 2900 50  0001 C CNN
+F 3 "" H 1500 2900 50  0001 C CNN
+	1    1500 2900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:R-EU_0207_10-SI3002V4.1-eagle-import R374
+U 1 1 4E65BB97
+P 1500 3500
+F 0 "R374" V 1141 3350 59  0000 L BNN
+F 1 "100k" V 1030 3450 59  0000 L BNN
+F 2 "SI3002V4.1:0207_10" H 1500 3500 50  0001 C CNN
+F 3 "" H 1500 3500 50  0001 C CNN
+	1    1500 3500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:C22_10-SI3002V4.1-eagle-import C368
+U 1 1 F1C280B1
+P 2400 2900
+F 0 "C368" H 2640 2985 59  0000 R TNN
+F 1 "330nF X1" H 2460 2715 59  0000 L BNN
+F 2 "SI3002V4.1:C22.5B10" H 2400 2900 50  0001 C CNN
+F 3 "" H 2400 2900 50  0001 C CNN
+	1    2400 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:POWERCLAMP2-SI3002V4.1-eagle-import CON322
+U 1 1 DB13D395
+P 1000 1900
+F 0 "CON322" H 1000 1900 50  0001 C CNN
+F 1 "POWERCLAMP2" H 1000 1900 50  0001 C CNN
+F 2 "SI3002V4.1:POWERCLAMP" H 1000 1900 50  0001 C CNN
+F 3 "" H 1000 1900 50  0001 C CNN
+	1    1000 1900
+	0    1    1    0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:POWERCLAMP2-SI3002V4.1-eagle-import CON314
+U 1 1 6E996527
+P 700 4900
+F 0 "CON314" H 700 4900 50  0001 C CNN
+F 1 "POWERCLAMP2" H 700 4900 50  0001 C CNN
+F 2 "SI3002V4.1:POWERCLAMP" H 700 4900 50  0001 C CNN
+F 3 "" H 700 4900 50  0001 C CNN
+	1    700  4900
+	0    1    1    0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:POWERCLAMP2-SI3002V4.1-eagle-import CON304
+U 1 1 6EE0B88E
+P 25700 3800
+F 0 "CON304" H 25700 3800 50  0001 C CNN
+F 1 "POWERCLAMP2" H 25700 3800 50  0001 C CNN
+F 2 "SI3002V4.1:POWERCLAMP" H 25700 3800 50  0001 C CNN
+F 3 "" H 25700 3800 50  0001 C CNN
+	1    25700 3800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:POWERCLAMP2-SI3002V4.1-eagle-import CON305
+U 1 1 5DDD8107
+P 25700 5600
+F 0 "CON305" H 25700 5600 50  0001 C CNN
+F 1 "POWERCLAMP2" H 25700 5600 50  0001 C CNN
+F 2 "SI3002V4.1:POWERCLAMP" H 25700 5600 50  0001 C CNN
+F 3 "" H 25700 5600 50  0001 C CNN
+	1    25700 5600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:DOPPELKONTAKTGROß-SI3002V4.1-eagle-import #CON325
+U 1 1 C1004E6B
+P 1000 4000
+F 0 "#CON325" H 850 4100 42  0000 L BNN
+F 1 "Steckzunge breit" H 850 3880 42  0000 L BNN
+F 2 "" H 1000 4000 50  0001 C CNN
+F 3 "" H 1000 4000 50  0001 C CNN
+	1    1000 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:POWERCLAMP2-SI3002V4.1-eagle-import CON312
+U 1 1 38A74726
+P 25700 4400
+F 0 "CON312" H 25700 4400 50  0001 C CNN
+F 1 "POWERCLAMP2" H 25700 4400 50  0001 C CNN
+F 2 "SI3002V4.1:POWERCLAMP" H 25700 4400 50  0001 C CNN
+F 3 "" H 25700 4400 50  0001 C CNN
+	1    25700 4400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:POWERCLAMP2-SI3002V4.1-eagle-import CON313
+U 1 1 B7F809D1
+P 25700 5000
+F 0 "CON313" H 25700 5000 50  0001 C CNN
+F 1 "POWERCLAMP2" H 25700 5000 50  0001 C CNN
+F 2 "SI3002V4.1:POWERCLAMP" H 25700 5000 50  0001 C CNN
+F 3 "" H 25700 5000 50  0001 C CNN
+	1    25700 5000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:KONDENSATORABST5.04-SI3002V4.1-eagle-import C387
+U 1 1 CE6B55E9
+P 4600 2900
+F 0 "C387" H 5100 2880 73  0000 L BNN
+F 1 "100nF/250V" H 4400 2700 73  0000 L BNN
+F 2 "SI3002V4.1:KOND_RM5" H 4600 2900 50  0001 C CNN
+F 3 "" H 4600 2900 50  0001 C CNN
+	1    4600 2900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:CPOL-EUE7.5-18-SI3002V4.1-eagle-import C388
+U 1 1 F721835D
+P 6200 3000
+F 0 "C388" V 6181 2645 59  0000 L BNN
+F 1 "100uF/160V" H 6245 2819 59  0000 L BNN
+F 2 "SI3002V4.1:E7,5-18" H 6200 3000 50  0001 C CNN
+F 3 "" H 6200 3000 50  0001 C CNN
+	1    6200 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:KONDENSATORABST5.04-SI3002V4.1-eagle-import C323
+U 1 1 54F4FD7D
+P 9200 9700
+F 0 "C323" H 9000 9880 73  0000 L BNN
+F 1 "1nF/100V" H 9000 9500 73  0000 L BNN
+F 2 "SI3002V4.1:KOND_RM5" H 9200 9700 50  0001 C CNN
+F 3 "" H 9200 9700 50  0001 C CNN
+	1    9200 9700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:KONDENSATORABST5.04-SI3002V4.1-eagle-import C389
+U 1 1 BD97D111
+P 3200 3000
+F 0 "C389" V 3520 2900 73  0000 L BNN
+F 1 "100nF/250V" H 3000 2800 73  0000 L BNN
+F 2 "SI3002V4.1:KOND_RM5" H 3200 3000 50  0001 C CNN
+F 3 "" H 3200 3000 50  0001 C CNN
+	1    3200 3000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:CPOL-EUE7.5-16-SI3002V4.1-eagle-import C390
+U 1 1 80CC6804
+P 25700 12300
+F 0 "C390" H 25745 12319 59  0000 L BNN
+F 1 "C390" H 25745 12119 59  0000 L BNN
+F 2 "SI3002V4.1:E7,5-16" H 25700 12300 50  0001 C CNN
+F 3 "" H 25700 12300 50  0001 C CNN
+	1    25700 12300
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:DOPPELKONTAKTGROß-SI3002V4.1-eagle-import #CON317
+U 1 1 14BADE43
+P 1000 2200
+F 0 "#CON317" H 850 2300 42  0000 L BNN
+F 1 "Steckzunge breit" H 850 2080 42  0000 L BNN
+F 2 "" H 1000 2200 50  0001 C CNN
+F 3 "" H 1000 2200 50  0001 C CNN
+	1    1000 2200
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:DOPPELKONTAKTGROß-SI3002V4.1-eagle-import #CON319
+U 1 1 90A87893
+P 1000 3900
+F 0 "#CON319" H 850 4000 42  0000 L BNN
+F 1 "Steckzunge breit" H 850 3780 42  0000 L BNN
+F 2 "" H 1000 3900 50  0001 C CNN
+F 3 "" H 1000 3900 50  0001 C CNN
+	1    1000 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:CPOL-USSMCA-SI3002V4.1-eagle-import C352
+U 1 1 699FAAE7
+P 21500 7400
+F 0 "C352" V 21400 7250 59  0000 L BNN
+F 1 "1µF/20V Tantal" V 21300 7100 59  0000 L BNN
+F 2 "SI3002V4.1:SMC_A" H 21500 7400 50  0001 C CNN
+F 3 "" H 21500 7400 50  0001 C CNN
+	1    21500 7400
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:CPOL-USSMCB-SI3002V4.1-eagle-import C307
+U 1 1 6844EC67
+P 12800 4700
+F 0 "C307" V 12775 4940 59  0000 L BNN
+F 1 "2,2µF / 20V Tantal" H 12840 4535 59  0000 L BNN
+F 2 "SI3002V4.1:SMC_B" H 12800 4700 50  0001 C CNN
+F 3 "" H 12800 4700 50  0001 C CNN
+	1    12800 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:CPOL-USSMCB-SI3002V4.1-eagle-import C313
+U 1 1 49C5966B
+P 18000 4700
+F 0 "C313" V 17925 5160 59  0000 R TNN
+F 1 "2,2µF/20V Tantal" H 18040 4535 59  0000 L BNN
+F 2 "SI3002V4.1:SMC_B" H 18000 4700 50  0001 C CNN
+F 3 "" H 18000 4700 50  0001 C CNN
+	1    18000 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:+7,5V-SI3002V4.1-eagle-import #U$025
+U 1 1 A5CE1551
+P 31700 9800
+F 0 "#U$025" H 31700 9800 50  0001 C CNN
+F 1 "+7,5V" H 31500 9900 85  0000 L BNN
+F 2 "" H 31700 9800 50  0001 C CNN
+F 3 "" H 31700 9800 50  0001 C CNN
+	1    31700 9800
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:DIODE1-SI3002V4.1-eagle-import D341
+U 1 1 C27E972A
+P 31000 10100
+F 0 "D341" H 30800 10200 59  0000 L BNN
+F 1 "LL4148" H 31000 10100 50  0001 C CNN
+F 2 "SI3002V4.1:SMD-DIODE_STANDARD" H 31000 10100 50  0001 C CNN
+F 3 "" H 31000 10100 50  0001 C CNN
+	1    31000 10100
+	-1   0    0    1   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:DIODE1-SI3002V4.1-eagle-import D340
+U 1 1 9DCB55E7
+P 31500 10100
+F 0 "D340" H 31300 10200 59  0000 L BNN
+F 1 "LL4148" H 31500 10100 50  0001 C CNN
+F 2 "SI3002V4.1:SMD-DIODE_STANDARD" H 31500 10100 50  0001 C CNN
+F 3 "" H 31500 10100 50  0001 C CNN
+	1    31500 10100
+	-1   0    0    1   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:R-EU_R0805-SI3002V4.1-eagle-import R375
+U 1 1 23BCC6DF
+P 26600 7600
+F 0 "R375" H 26450 7659 59  0000 L BNN
+F 1 "10K" H 26450 7470 59  0000 L BNN
+F 2 "SI3002V4.1:R0805" H 26600 7600 50  0001 C CNN
+F 3 "" H 26600 7600 50  0001 C CNN
+	1    26600 7600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:DOPPELKONTAKTGROß-SI3002V4.1-eagle-import #CON332
+U 1 1 1B37C22B
+P 1000 4300
+F 0 "#CON332" H 850 4400 42  0000 L BNN
+F 1 "Steckzunge breit" H 850 4180 42  0000 L BNN
+F 2 "" H 1000 4300 50  0001 C CNN
+F 3 "" H 1000 4300 50  0001 C CNN
+	1    1000 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:DOPPELKONTAKTGROß-SI3002V4.1-eagle-import #CON333
+U 1 1 E361AA26
+P 1000 2100
+F 0 "#CON333" H 850 2200 42  0000 L BNN
+F 1 "Steckzunge breit" H 850 1980 42  0000 L BNN
+F 2 "" H 1000 2100 50  0001 C CNN
+F 3 "" H 1000 2100 50  0001 C CNN
+	1    1000 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:SMD-R_STANDARDR0805-SI3002V4.1-eagle-import R308//1
+U 1 1 D19F0F31
+P 24500 11000
+F 0 "R308//1" H 24400 10650 59  0000 L BNN
+F 1 "1.5k" H 24400 10800 59  0000 L BNN
+F 2 "SI3002V4.1:R0805" H 24500 11000 50  0001 C CNN
+F 3 "" H 24500 11000 50  0001 C CNN
+	1    24500 11000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:SMD-R_STANDARDR0805-SI3002V4.1-eagle-import R348//1
+U 1 1 D5768912
+P 20200 10800
+F 0 "R348//1" H 19550 10750 59  0000 L BNN
+F 1 "je nach Trafo" H 20100 10600 59  0000 L BNN
+F 2 "SI3002V4.1:R0805" H 20200 10800 50  0001 C CNN
+F 3 "" H 20200 10800 50  0001 C CNN
+	1    20200 10800
+	0    1    1    0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:SMD-R_STANDARDR0805-SI3002V4.1-eagle-import R376
+U 1 1 D8719FA6
+P 14100 9600
+F 0 "R376" H 14100 9400 59  0000 L BNN
+F 1 "0R" H 14000 9400 59  0000 L BNN
+F 2 "SI3002V4.1:R0805" H 14100 9600 50  0001 C CNN
+F 3 "" H 14100 9600 50  0001 C CNN
+	1    14100 9600
+	-1   0    0    1   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:ELKOS-SI3002V4.1-eagle-import C301
+U 1 1 162145BA
+P 5250 2950
+F 0 "C301" H 5050 3080 42  0000 L BNN
+F 1 "5600µF/100V" H 5050 2780 42  0000 L BNN
+F 2 "SI3002V4.1:KOND_D35" H 5250 2950 50  0001 C CNN
+F 3 "" H 5250 2950 50  0001 C CNN
+	1    5250 2950
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:POTI2-SI3002V4.1-eagle-import P303
+U 1 1 DB116D74
+P 16000 9100
+F 0 "P303" H 15800 8910 42  0000 L BNN
+F 1 "22k" H 16090 8910 42  0000 L BNN
+F 2 "SI3002V4.1:POTI2" H 16000 9100 50  0001 C CNN
+F 3 "" H 16000 9100 50  0001 C CNN
+	1    16000 9100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:SMD-R_STANDARDR0805-SI3002V4.1-eagle-import R378
+U 1 1 ABB8BAAD
+P 15700 10000
+F 0 "R378" H 15600 10100 59  0000 L BNN
+F 1 "0R" H 15600 9800 59  0000 L BNN
+F 2 "SI3002V4.1:R0805" H 15700 10000 50  0001 C CNN
+F 3 "" H 15700 10000 50  0001 C CNN
+	1    15700 10000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:SMD-R_STANDARDR0805-SI3002V4.1-eagle-import R377
+U 1 1 5D116BD2
+P 15700 9400
+F 0 "R377" H 15600 9500 59  0000 L BNN
+F 1 "0R" H 15600 9200 59  0000 L BNN
+F 2 "SI3002V4.1:R0805" H 15700 9400 50  0001 C CNN
+F 3 "" H 15700 9400 50  0001 C CNN
+	1    15700 9400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:KONDENSATORC1206-SI3002V4.1-eagle-import C391
+U 1 1 436E6C7A
+P 9700 9700
+F 0 "C391" H 9500 9880 73  0000 L BNN
+F 1 "10n/200V X7R" H 9500 9500 73  0000 L BNN
+F 2 "SI3002V4.1:C1206" H 9700 9700 50  0001 C CNN
+F 3 "" H 9700 9700 50  0001 C CNN
+	1    9700 9700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:SMD-R_STANDARDR0805-SI3002V4.1-eagle-import R379
+U 1 1 59F4FEDF
+P 9500 9000
+F 0 "R379" H 9400 9100 59  0000 L BNN
+F 1 "10R" H 9400 8800 59  0000 L BNN
+F 2 "SI3002V4.1:R0805" H 9500 9000 50  0001 C CNN
+F 3 "" H 9500 9000 50  0001 C CNN
+	1    9500 9000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:GND-SI3002V4.1-eagle-import #U$03
+U 1 1 6E1B97F5
+P 9700 10000
+F 0 "#U$03" H 9700 10000 50  0001 C CNN
+F 1 "GND" H 9700 10000 50  0001 C CNN
+F 2 "" H 9700 10000 50  0001 C CNN
+F 3 "" H 9700 10000 50  0001 C CNN
+	1    9700 10000
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:SMD-R_STANDARDR0805-SI3002V4.1-eagle-import R384
+U 1 1 66499AFB
+P 24800 6400
+F 0 "R384" H 24700 6500 59  0000 L BNN
+F 1 "100R" H 24700 6200 59  0000 L BNN
+F 2 "SI3002V4.1:R0805" H 24800 6400 50  0001 C CNN
+F 3 "" H 24800 6400 50  0001 C CNN
+	1    24800 6400
+	0    1    1    0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:WIDERSTAND1-SI3002V4.1-eagle-import R395
+U 1 1 157D6967
+P 9100 8900
+F 0 "R395" H 8930 9040 64  0000 L BNN
+F 1 "10R" H 8900 8700 64  0000 L BNN
+F 2 "SI3002V4.1:R_RM2.5" H 9100 8900 50  0001 C CNN
+F 3 "" H 9100 8900 50  0001 C CNN
+	1    9100 8900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:C-EUC2220K-SI3002V4.1-eagle-import C392
+U 1 1 AA699623
+P 23300 4600
+F 0 "C392" H 23360 4615 59  0000 L BNN
+F 1 "C-EUC2220K" H 23360 4415 59  0000 L BNN
+F 2 "SI3002V4.1:C2220K" H 23300 4600 50  0001 C CNN
+F 3 "" H 23300 4600 50  0001 C CNN
+	1    23300 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:C-EUC2220K-SI3002V4.1-eagle-import C419
+U 1 1 7180BD15
+P 23600 4600
+F 0 "C419" H 23660 4615 59  0000 L BNN
+F 1 "C-EUC2220K" H 23660 4415 59  0000 L BNN
+F 2 "SI3002V4.1:C2220K" H 23600 4600 50  0001 C CNN
+F 3 "" H 23600 4600 50  0001 C CNN
+	1    23600 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:C-EUC2220K-SI3002V4.1-eagle-import C396
+U 1 1 B353D29D
+P 23900 4600
+F 0 "C396" H 23960 4615 59  0000 L BNN
+F 1 "C-EUC2220K" H 23960 4415 59  0000 L BNN
+F 2 "SI3002V4.1:C2220K" H 23900 4600 50  0001 C CNN
+F 3 "" H 23900 4600 50  0001 C CNN
+	1    23900 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:C-EUC2220K-SI3002V4.1-eagle-import C397
+U 1 1 EF794CCA
+P 24200 4600
+F 0 "C397" H 24260 4615 59  0000 L BNN
+F 1 "C-EUC2220K" H 24260 4415 59  0000 L BNN
+F 2 "SI3002V4.1:C2220K" H 24200 4600 50  0001 C CNN
+F 3 "" H 24200 4600 50  0001 C CNN
+	1    24200 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:C-EUC1210-SI3002V4.1-eagle-import C399
+U 1 1 97E0C1E8
+P 23200 5000
+F 0 "C399" H 23260 5015 59  0000 L BNN
+F 1 "C-EUC1210" H 23260 4815 59  0000 L BNN
+F 2 "SI3002V4.1:C1210" H 23200 5000 50  0001 C CNN
+F 3 "" H 23200 5000 50  0001 C CNN
+	1    23200 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:C-EUC1210-SI3002V4.1-eagle-import C400
+U 1 1 D7AFFADF
+P 23500 5000
+F 0 "C400" H 23560 5015 59  0000 L BNN
+F 1 "C-EUC1210" H 23560 4815 59  0000 L BNN
+F 2 "SI3002V4.1:C1210" H 23500 5000 50  0001 C CNN
+F 3 "" H 23500 5000 50  0001 C CNN
+	1    23500 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:C-EUC1210-SI3002V4.1-eagle-import C401
+U 1 1 EED32EEE
+P 23800 5000
+F 0 "C401" H 23860 5015 59  0000 L BNN
+F 1 "C-EUC1210" H 23860 4815 59  0000 L BNN
+F 2 "SI3002V4.1:C1210" H 23800 5000 50  0001 C CNN
+F 3 "" H 23800 5000 50  0001 C CNN
+	1    23800 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:C-EUC1210-SI3002V4.1-eagle-import C402
+U 1 1 E3102F3A
+P 24100 5000
+F 0 "C402" H 24160 5015 59  0000 L BNN
+F 1 "C-EUC1210" H 24160 4815 59  0000 L BNN
+F 2 "SI3002V4.1:C1210" H 24100 5000 50  0001 C CNN
+F 3 "" H 24100 5000 50  0001 C CNN
+	1    24100 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:G5V1-SI3002V4.1-eagle-import K307
+U 1 1 81231E90
+P 30400 9400
+F 0 "K307" H 30400 9400 50  0001 C CNN
+F 1 "G5V1" H 30450 9515 59  0001 L BNN
+F 2 "SI3002V4.1:G5V1" H 30400 9400 50  0001 C CNN
+F 3 "" H 30400 9400 50  0001 C CNN
+	1    30400 9400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:G5V1-SI3002V4.1-eagle-import K307
+U 2 1 81231E9C
+P 31800 8900
+F 0 "K307" H 31800 8900 50  0001 C CNN
+F 1 "G5V1" H 31850 9015 59  0001 L BNN
+F 2 "SI3002V4.1:G5V1" H 31800 8900 50  0001 C CNN
+F 3 "" H 31800 8900 50  0001 C CNN
+	2    31800 8900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:R-EU_R0805-SI3002V4.1-eagle-import R383
+U 1 1 C1D5A353
+P 19000 8300
+F 0 "R383" H 18850 8359 59  0000 L BNN
+F 1 "10K" H 18850 8170 59  0000 L BNN
+F 2 "SI3002V4.1:R0805" H 19000 8300 50  0001 C CNN
+F 3 "" H 19000 8300 50  0001 C CNN
+	1    19000 8300
+	0    1    1    0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:R-EU_R0805-SI3002V4.1-eagle-import R382
+U 1 1 56E8C6D5
+P 19500 7800
+F 0 "R382" H 19350 7859 59  0000 L BNN
+F 1 "10K" H 19350 7670 59  0000 L BNN
+F 2 "SI3002V4.1:R0805" H 19500 7800 50  0001 C CNN
+F 3 "" H 19500 7800 50  0001 C CNN
+	1    19500 7800
+	-1   0    0    1   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:POTI2-SI3002V4.1-eagle-import P304
+U 1 1 EE95D4D1
+P 19000 7700
+F 0 "P304" H 18800 7510 42  0000 L BNN
+F 1 "22k" H 19090 7510 42  0000 L BNN
+F 2 "SI3002V4.1:POTI2" H 19000 7700 50  0001 C CNN
+F 3 "" H 19000 7700 50  0001 C CNN
+	1    19000 7700
+	-1   0    0    1   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:SMD-R_STANDARDR0805-SI3002V4.1-eagle-import R381
+U 1 1 2E3E629C
+P 23900 10100
+F 0 "R381" H 23800 10200 59  0000 L BNN
+F 1 "270R" H 23800 9900 59  0000 L BNN
+F 2 "SI3002V4.1:R0805" H 23900 10100 50  0001 C CNN
+F 3 "" H 23900 10100 50  0001 C CNN
+	1    23900 10100
+	-1   0    0    1   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:POTI2-SI3002V4.1-eagle-import P305
+U 1 1 FF4F5A0B
+P 24400 10100
+F 0 "P305" H 24150 10250 42  0000 L BNN
+F 1 "100R" H 24490 9910 42  0000 L BNN
+F 2 "SI3002V4.1:POTI2" H 24400 10100 50  0001 C CNN
+F 3 "" H 24400 10100 50  0001 C CNN
+	1    24400 10100
+	-1   0    0    1   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:SMD-R_STANDARDR0805-SI3002V4.1-eagle-import R380
+U 1 1 2956A97A
+P 24500 9800
+F 0 "R380" H 24400 9900 59  0000 L BNN
+F 1 "39R" H 24400 9600 59  0000 L BNN
+F 2 "SI3002V4.1:R0805" H 24500 9800 50  0001 C CNN
+F 3 "" H 24500 9800 50  0001 C CNN
+	1    24500 9800
+	-1   0    0    1   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:ELKOS-SI3002V4.1-eagle-import C398
+U 1 1 C9D5842E
+P 7500 3000
+F 0 "C398" H 7300 3130 42  0000 L BNN
+F 1 "5600µF/100V" H 7300 2830 42  0000 L BNN
+F 2 "SI3002V4.1:KOND_D35" H 7500 3000 50  0001 C CNN
+F 3 "" H 7500 3000 50  0001 C CNN
+	1    7500 3000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:ELKOS-SI3002V4.1-eagle-import C403
+U 1 1 58045144
+P 7200 3000
+F 0 "C403" H 7000 3130 42  0000 L BNN
+F 1 "5600µF/100V" H 7000 2830 42  0000 L BNN
+F 2 "SI3002V4.1:KOND_D35" H 7200 3000 50  0001 C CNN
+F 3 "" H 7200 3000 50  0001 C CNN
+	1    7200 3000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:BUZ11BV-SI3002V4.1-eagle-import Q313
+U 1 1 92367A2A
+P 17700 3500
+F 0 "Q313" H 17900 3600 59  0000 L BNN
+F 1 "FDP2532" H 17900 3500 59  0000 L BNN
+F 2 "SI3002V4.1:TO220BV" H 17700 3500 50  0001 C CNN
+F 3 "" H 17700 3500 50  0001 C CNN
+	1    17700 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:SMD-R_STANDARDR0805-SI3002V4.1-eagle-import R391
+U 1 1 F8386707
+P 17500 3500
+F 0 "R391" H 17400 3600 59  0000 L BNN
+F 1 "22" H 17400 3300 59  0000 L BNN
+F 2 "SI3002V4.1:R0805" H 17500 3500 50  0001 C CNN
+F 3 "" H 17500 3500 50  0001 C CNN
+	1    17500 3500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:Z-DIODEA-SI3002V4.1-eagle-import D318
+U 1 1 7E375A2A
+P 17500 3800
+F 0 "D318" H 17430 3875 59  0000 L BNN
+F 1 "BZV55C18" H 17430 3665 59  0000 L BNN
+F 2 "SI3002V4.1:SMD-DIODE_STANDARD" H 17500 3800 50  0001 C CNN
+F 3 "" H 17500 3800 50  0001 C CNN
+	1    17500 3800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:BUZ11BV-SI3002V4.1-eagle-import Q314
+U 1 1 15971C49
+P 17800 6600
+F 0 "Q314" H 18000 6700 59  0000 L BNN
+F 1 "FDP2532" H 18000 6600 59  0000 L BNN
+F 2 "SI3002V4.1:TO220BV" H 17800 6600 50  0001 C CNN
+F 3 "" H 17800 6600 50  0001 C CNN
+	1    17800 6600
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:SMD-R_STANDARDR0805-SI3002V4.1-eagle-import R392
+U 1 1 B88E72CD
+P 17600 6600
+F 0 "R392" H 17500 6700 59  0000 L BNN
+F 1 "22" H 17500 6400 59  0000 L BNN
+F 2 "SI3002V4.1:R0805" H 17600 6600 50  0001 C CNN
+F 3 "" H 17600 6600 50  0001 C CNN
+	1    17600 6600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:Z-DIODEA-SI3002V4.1-eagle-import D319
+U 1 1 19044CCC
+P 17600 6900
+F 0 "D319" H 17530 6975 59  0000 L BNN
+F 1 "BZV55C18" H 17530 6765 59  0000 L BNN
+F 2 "SI3002V4.1:SMD-DIODE_STANDARD" H 17600 6900 50  0001 C CNN
+F 3 "" H 17600 6900 50  0001 C CNN
+	1    17600 6900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:BUZ11BV-SI3002V4.1-eagle-import Q315
+U 1 1 88735919
+P 12100 6600
+F 0 "Q315" H 12300 6700 59  0000 L BNN
+F 1 "FDP2532" H 12300 6600 59  0000 L BNN
+F 2 "SI3002V4.1:TO220BV" H 12100 6600 50  0001 C CNN
+F 3 "" H 12100 6600 50  0001 C CNN
+	1    12100 6600
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:SMD-R_STANDARDR0805-SI3002V4.1-eagle-import R394
+U 1 1 3F07139B
+P 11800 6600
+F 0 "R394" H 11700 6700 59  0000 L BNN
+F 1 "22" H 11700 6400 59  0000 L BNN
+F 2 "SI3002V4.1:R0805" H 11800 6600 50  0001 C CNN
+F 3 "" H 11800 6600 50  0001 C CNN
+	1    11800 6600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:Z-DIODEA-SI3002V4.1-eagle-import D327
+U 1 1 D4D6B43D
+P 11800 6900
+F 0 "D327" H 11730 6975 59  0000 L BNN
+F 1 "BZV55C18" H 11730 6765 59  0000 L BNN
+F 2 "SI3002V4.1:SMD-DIODE_STANDARD" H 11800 6900 50  0001 C CNN
+F 3 "" H 11800 6900 50  0001 C CNN
+	1    11800 6900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:BUZ11BV-SI3002V4.1-eagle-import Q316
+U 1 1 90571D34
+P 12400 3500
+F 0 "Q316" H 12600 3600 59  0000 L BNN
+F 1 "FDP2532" H 12600 3500 59  0000 L BNN
+F 2 "SI3002V4.1:TO220BV" H 12400 3500 50  0001 C CNN
+F 3 "" H 12400 3500 50  0001 C CNN
+	1    12400 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:Z-DIODEA-SI3002V4.1-eagle-import D337
+U 1 1 F0FFD755
+P 12200 3800
+F 0 "D337" H 12130 3875 59  0000 L BNN
+F 1 "BZV55C18" H 12130 3665 59  0000 L BNN
+F 2 "SI3002V4.1:SMD-DIODE_STANDARD" H 12200 3800 50  0001 C CNN
+F 3 "" H 12200 3800 50  0001 C CNN
+	1    12200 3800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:SMD-R_STANDARDR0805-SI3002V4.1-eagle-import R393
+U 1 1 2FE6C420
+P 12200 3500
+F 0 "R393" H 12100 3600 59  0000 L BNN
+F 1 "22" H 12100 3300 59  0000 L BNN
+F 2 "SI3002V4.1:R0805" H 12200 3500 50  0001 C CNN
+F 3 "" H 12200 3500 50  0001 C CNN
+	1    12200 3500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:CAP11-SI3002V4.1-eagle-import C404
+U 1 1 18BBB3E9
+P 24900 4900
+F 0 "C404" H 24800 5000 85  0000 L BNN
+F 1 "22µF/63V" H 24800 4750 68  0000 L BNN
+F 2 "SI3002V4.1:C-27,5" H 24900 4900 50  0001 C CNN
+F 3 "" H 24900 4900 50  0001 C CNN
+	1    24900 4900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:C22_10-SI3002V4.1-eagle-import C405
+U 1 1 71457B3D
+P 27600 4800
+F 0 "C405" V 27485 4460 59  0000 L BNN
+F 1 "330nF X1" H 27660 4615 59  0000 L BNN
+F 2 "SI3002V4.1:C22.5B10" H 27600 4800 50  0001 C CNN
+F 3 "" H 27600 4800 50  0001 C CNN
+	1    27600 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:C27_9-SI3002V4.1-eagle-import C406
+U 1 1 82AA0697
+P 19100 12700
+F 0 "C406" H 18960 12815 59  0000 L BNN
+F 1 "330nF X1" H 19160 12515 59  0000 L BNN
+F 2 "SI3002V4.1:C27.5B9" H 19100 12700 50  0001 C CNN
+F 3 "" H 19100 12700 50  0001 C CNN
+	1    19100 12700
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:C27_11-SI3002V4.1-eagle-import C407
+U 1 1 8E3B2D37
+P 4800 3800
+F 0 "C407" H 4860 3815 59  0000 L BNN
+F 1 "680nF X1" H 4860 3615 59  0000 L BNN
+F 2 "SI3002V4.1:C27.5B11" H 4800 3800 50  0001 C CNN
+F 3 "" H 4800 3800 50  0001 C CNN
+	1    4800 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:C22_10-SI3002V4.1-eagle-import C408
+U 1 1 7E832936
+P 5100 3800
+F 0 "C408" H 5340 3885 59  0000 R TNN
+F 1 "330nF X1" H 5160 3615 59  0000 L BNN
+F 2 "SI3002V4.1:C22.5B10" H 5100 3800 50  0001 C CNN
+F 3 "" H 5100 3800 50  0001 C CNN
+	1    5100 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:DOPPELKONTAKTKLEIN-SI3002V4.1-eagle-import CON335
+U 1 1 513F846C
+P 26300 4000
+F 0 "CON335" H 26150 4100 42  0000 L BNN
+F 1 "Steckzunge breit" H 26150 3880 42  0000 L BNN
+F 2 "SI3002V4.1:KONTAKT_KLEIN" H 26300 4000 50  0001 C CNN
+F 3 "" H 26300 4000 50  0001 C CNN
+	1    26300 4000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:DOPPELKONTAKTKLEIN-SI3002V4.1-eagle-import CON336
+U 1 1 BFC33B15
+P 26300 6200
+F 0 "CON336" H 26150 6300 42  0000 L BNN
+F 1 "Steckzunge breit" H 26150 6080 42  0000 L BNN
+F 2 "SI3002V4.1:KONTAKT_KLEIN" H 26300 6200 50  0001 C CNN
+F 3 "" H 26300 6200 50  0001 C CNN
+	1    26300 6200
+	0    1    1    0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:POWERCLAMP2-SI3002V4.1-eagle-import CON337
+U 1 1 8C71FE73
+P 700 5500
+F 0 "CON337" H 700 5500 50  0001 C CNN
+F 1 "POWERCLAMP2" H 700 5500 50  0001 C CNN
+F 2 "SI3002V4.1:POWERCLAMP" H 700 5500 50  0001 C CNN
+F 3 "" H 700 5500 50  0001 C CNN
+	1    700  5500
+	0    1    1    0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:POWERCLAMP2-SI3002V4.1-eagle-import CON338
+U 1 1 F7395F19
+P 1000 1300
+F 0 "CON338" H 1000 1300 50  0001 C CNN
+F 1 "POWERCLAMP2" H 1000 1300 50  0001 C CNN
+F 2 "SI3002V4.1:POWERCLAMP" H 1000 1300 50  0001 C CNN
+F 3 "" H 1000 1300 50  0001 C CNN
+	1    1000 1300
+	0    1    1    0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:POWERCLAMP2-SI3002V4.1-eagle-import CON339
+U 1 1 4B828008
+P 25500 5700
+F 0 "CON339" H 25500 5700 50  0001 C CNN
+F 1 "POWERCLAMP2" H 25500 5700 50  0001 C CNN
+F 2 "SI3002V4.1:POWERCLAMP" H 25500 5700 50  0001 C CNN
+F 3 "" H 25500 5700 50  0001 C CNN
+	1    25500 5700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:POWERCLAMP2-SI3002V4.1-eagle-import CON340
+U 1 1 97453103
+P 25300 5700
+F 0 "CON340" H 25300 5700 50  0001 C CNN
+F 1 "POWERCLAMP2" H 25300 5700 50  0001 C CNN
+F 2 "SI3002V4.1:POWERCLAMP" H 25300 5700 50  0001 C CNN
+F 3 "" H 25300 5700 50  0001 C CNN
+	1    25300 5700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:POWERCLAMP2-SI3002V4.1-eagle-import CON342
+U 1 1 4F39F502
+P 25700 2600
+F 0 "CON342" H 25700 2600 50  0001 C CNN
+F 1 "POWERCLAMP2" H 25700 2600 50  0001 C CNN
+F 2 "SI3002V4.1:POWERCLAMP" H 25700 2600 50  0001 C CNN
+F 3 "" H 25700 2600 50  0001 C CNN
+	1    25700 2600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:POWERCLAMP2-SI3002V4.1-eagle-import CON341
+U 1 1 B3799C56
+P 25700 3200
+F 0 "CON341" H 25700 3200 50  0001 C CNN
+F 1 "POWERCLAMP2" H 25700 3200 50  0001 C CNN
+F 2 "SI3002V4.1:POWERCLAMP" H 25700 3200 50  0001 C CNN
+F 3 "" H 25700 3200 50  0001 C CNN
+	1    25700 3200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:PTSA-SI3002V4.1-eagle-import CON334
+U 1 1 90204672
+P 16000 9900
+F 0 "CON334" H 16000 10150 42  0000 L BNN
+F 1 "PTSA" H 16000 9600 42  0000 L BNN
+F 2 "SI3002V4.1:PTSA" H 16000 9900 50  0001 C CNN
+F 3 "" H 16000 9900 50  0001 C CNN
+	1    16000 9900
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:SICHERUNGSHALTER-SI3002V4.1-eagle-import F302
+U 1 1 0E7748C0
+P 32350 4350
+F 0 "F302" H 32350 4350 50  0001 C CNN
+F 1 "SICHERUNGSHALTER" H 32350 4350 50  0001 C CNN
+F 2 "SI3002V4.1:SICHERUNGSHALTER" H 32350 4350 50  0001 C CNN
+F 3 "" H 32350 4350 50  0001 C CNN
+	1    32350 4350
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:W237-146-SI3002V4.1-eagle-import X300
+U 1 1 4723A65B
+P 32950 5400
+F 0 "X300" H 32950 5435 59  0000 R TNN
+F 1 "W237-146" H 32950 5400 50  0001 C CNN
+F 2 "SI3002V4.1:W237-146" H 32950 5400 50  0001 C CNN
+F 3 "" H 32950 5400 50  0001 C CNN
+	1    32950 5400
+	-1   0    0    1   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:W237-146-SI3002V4.1-eagle-import X300
+U 2 1 4723A657
+P 32950 5000
+F 0 "X300" H 32950 5035 59  0000 R TNN
+F 1 "W237-146" H 32950 5000 50  0001 C CNN
+F 2 "SI3002V4.1:W237-146" H 32950 5000 50  0001 C CNN
+F 3 "" H 32950 5000 50  0001 C CNN
+	2    32950 5000
+	-1   0    0    1   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:W237-146-SI3002V4.1-eagle-import X300
+U 3 1 4723A653
+P 32950 4600
+F 0 "X300" H 32950 4635 59  0000 R TNN
+F 1 "W237-146" H 32950 4600 50  0001 C CNN
+F 2 "SI3002V4.1:W237-146" H 32950 4600 50  0001 C CNN
+F 3 "" H 32950 4600 50  0001 C CNN
+	3    32950 4600
+	-1   0    0    1   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:SINUSDROSSEL3-SI3002V4.1-eagle-import DR302
+U 1 1 9875C52A
+P 21900 4800
+F 0 "DR302" H 21400 4700 59  0000 L BNN
+F 1 "SINUSDROSSEL3" H 21400 4800 59  0000 L BNN
+F 2 "SI3002V4.1:SINUSDROSSEL3" H 21900 4800 50  0001 C CNN
+F 3 "" H 21900 4800 50  0001 C CNN
+	1    21900 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:C22_10-SI3002V4.1-eagle-import C420
+U 1 1 1B02517F
+P 2800 2900
+F 0 "C420" H 3040 2985 59  0000 R TNN
+F 1 "330nF X1" H 2860 2715 59  0000 L BNN
+F 2 "SI3002V4.1:C22.5B10" H 2800 2900 50  0001 C CNN
+F 3 "" H 2800 2900 50  0001 C CNN
+	1    2800 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:RINGKERN-SI3002V4.1-eagle-import TRA300
+U 1 1 A49712C7
+P 31950 2100
+F 0 "TRA300" H 31800 2400 59  0000 L BNN
+F 1 "RINGKERN" H 31800 1725 59  0000 L BNN
+F 2 "SI3002V4.1:RINGKERN" H 31950 2100 50  0001 C CNN
+F 3 "" H 31950 2100 50  0001 C CNN
+	1    31950 2100
+	-1   0    0    1   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:R-EU_R0805-SI3002V4.1-eagle-import R396
+U 1 1 CEA74FB4
+P 30700 4300
+F 0 "R396" H 30550 4359 59  0000 L BNN
+F 1 "0R" H 30550 4170 59  0000 L BNN
+F 2 "SI3002V4.1:R0805" H 30700 4300 50  0001 C CNN
+F 3 "" H 30700 4300 50  0001 C CNN
+	1    30700 4300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:R-EU_R0805-SI3002V4.1-eagle-import R397
+U 1 1 04D4D95C
+P 31600 4350
+F 0 "R397" H 31450 4409 59  0000 L BNN
+F 1 "0R" H 31450 4220 59  0000 L BNN
+F 2 "SI3002V4.1:R0805" H 31600 4350 50  0001 C CNN
+F 3 "" H 31600 4350 50  0001 C CNN
+	1    31600 4350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:DB?GLS20-SI3002V4.1-eagle-import B1
+U 1 1 E7971931
+P 30850 2100
+F 0 "B1" H 31050 2200 59  0000 L BNN
+F 1 "DB?GLS20" H 31050 1900 59  0000 L BNN
+F 2 "SI3002V4.1:DBS" H 30850 2100 50  0001 C CNN
+F 3 "" H 30850 2100 50  0001 C CNN
+	1    30850 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:R-EU_R0805-SI3002V4.1-eagle-import R403
+U 1 1 C1A7378A
+P 31100 1600
+F 0 "R403" H 30950 1659 59  0000 L BNN
+F 1 "27K" H 30950 1470 59  0000 L BNN
+F 2 "SI3002V4.1:R0805" H 31100 1600 50  0001 C CNN
+F 3 "" H 31100 1600 50  0001 C CNN
+	1    31100 1600
+	0    1    1    0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:R-EU_R0805-SI3002V4.1-eagle-import R404
+U 1 1 E3C0FE67
+P 31550 1350
+F 0 "R404" H 31400 1409 59  0000 L BNN
+F 1 "1k" H 31400 1220 59  0000 L BNN
+F 2 "SI3002V4.1:R0805" H 31550 1350 50  0001 C CNN
+F 3 "" H 31550 1350 50  0001 C CNN
+	1    31550 1350
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:GND-SI3002V4.1-eagle-import #U$030
+U 1 1 A87AFBDE
+P 31850 1500
+F 0 "#U$030" H 31850 1500 50  0001 C CNN
+F 1 "GND" H 31850 1500 50  0001 C CNN
+F 2 "" H 31850 1500 50  0001 C CNN
+F 3 "" H 31850 1500 50  0001 C CNN
+	1    31850 1500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:ELKOSABST5.09_D1.0-SI3002V4.1-eagle-import C409
+U 1 1 D3D387FE
+P 30050 2200
+F 0 "C409" H 29850 2330 42  0000 L BNN
+F 1 "100µF/160V" H 29850 2030 42  0000 L BNN
+F 2 "SI3002V4.1:ELKO_RM5" H 30050 2200 50  0001 C CNN
+F 3 "" H 30050 2200 50  0001 C CNN
+	1    30050 2200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:GND-SI3002V4.1-eagle-import #U$032
+U 1 1 F4AAF165
+P 29800 2550
+F 0 "#U$032" H 29800 2550 50  0001 C CNN
+F 1 "GND" H 29800 2550 50  0001 C CNN
+F 2 "" H 29800 2550 50  0001 C CNN
+F 3 "" H 29800 2550 50  0001 C CNN
+	1    29800 2550
+	0    1    1    0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:WIDERSTANDR343-SI3002V4.1-eagle-import R405
+U 1 1 6D35BF97
+P 27050 1500
+F 0 "R405" H 26880 1640 64  0000 L BNN
+F 1 "1k5/5W" H 26850 1300 64  0000 L BNN
+F 2 "SI3002V4.1:R_LEISTUNG_RM5" H 27050 1500 50  0001 C CNN
+F 3 "" H 27050 1500 50  0001 C CNN
+	1    27050 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:PTC660-SI3002V4.1-eagle-import RX1
+U 1 1 EAB8B9BA
+P 32950 2100
+F 0 "RX1" H 33031 1990 59  0000 L BNN
+F 1 "Bü 82 E 3562" H 33030 1895 59  0000 L BNN
+F 2 "SI3002V4.1:B57164" H 32950 2100 50  0001 C CNN
+F 3 "" H 32950 2100 50  0001 C CNN
+	1    32950 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:TR5-SI3002V4.1-eagle-import F303
+U 1 1 899C8729
+P 30350 2550
+F 0 "F303" H 30200 2605 59  0000 L BNN
+F 1 "Bürklin 50G362" H 30200 2435 59  0000 L BNN
+F 2 "SI3002V4.1:TR5" H 30350 2550 50  0001 C CNN
+F 3 "" H 30350 2550 50  0001 C CNN
+	1    30350 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:CONWUERTH_7461097-SI3002V4.1-eagle-import U$40
+U 1 1 BF9B7B38
+P 1500 1800
+F 0 "U$40" H 1500 2000 59  0000 L BNN
+F 1 "CONWUERTH_7461097" H 1500 1800 50  0001 C CNN
+F 2 "SI3002V4.1:CONWUERTH_7461097" H 1500 1800 50  0001 C CNN
+F 3 "" H 1500 1800 50  0001 C CNN
+	1    1500 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:CONWUERTH_7461097-SI3002V4.1-eagle-import U$41
+U 1 1 CFCCCDAA
+P 1400 4800
+F 0 "U$41" H 1400 5000 59  0000 L BNN
+F 1 "CONWUERTH_7461097" H 1400 4800 50  0001 C CNN
+F 2 "SI3002V4.1:CONWUERTH_7461097" H 1400 4800 50  0001 C CNN
+F 3 "" H 1400 4800 50  0001 C CNN
+	1    1400 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI3002V4.1-rescue:CAP11-SI3002V4.1-eagle-import C1
+U 1 1 A8CEA2C9
+P 24700 4900
+F 0 "C1" H 24600 5000 85  0000 L BNN
+F 1 "22µF/63V" H 24600 4750 68  0000 L BNN
+F 2 "SI3002V4.1:C-27,5" H 24700 4900 50  0001 C CNN
+F 3 "" H 24700 4900 50  0001 C CNN
+	1    24700 4900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:MA02-1-SI3002V4.1-eagle-import CON2
+U 1 1 0D3B8988
+P 14500 11300
+F 0 "CON2" H 14250 11030 59  0000 L BNN
+F 1 "2pol.Stiftl." H 14250 11100 59  0000 L BNN
+F 2 "SI3002V4.1:MA02-1" H 14500 11300 50  0001 C CNN
+F 3 "" H 14500 11300 50  0001 C CNN
+	1    14500 11300
+	0    1    1    0   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:R-EU_0207_2V-SI3002V4.1-eagle-import R1
+U 1 1 4105110E
+P 31250 2550
+F 0 "R1" H 31100 2609 59  0000 L BNN
+F 1 "5R1 / 0,6W" H 31100 2420 59  0000 L BNN
+F 2 "SI3002V4.1:0207_2V" H 31250 2550 50  0001 C CNN
+F 3 "" H 31250 2550 50  0001 C CNN
+	1    31250 2550
+	-1   0    0    1   
+$EndComp
+$Comp
+L SI3002V4.1-rescue:1N4004-SI3002V4.1-eagle-import D1
+U 1 1 C78C3FBD
+P 27800 1500
+F 0 "D1" H 27900 1519 59  0000 L BNN
+F 1 "1N4004" H 27900 1409 59  0000 L BNN
+F 2 "SI3002V4.1:DO41-10" H 27800 1500 50  0001 C CNN
+F 3 "" H 27800 1500 50  0001 C CNN
+	1    27800 1500
+	-1   0    0    1   
+$EndComp
+Wire Notes Line
+	25800 4800 26000 4800
+Wire Notes Line
+	26000 4500 26000 4800
+Wire Notes Line
+	25800 5100 26000 5100
+Wire Notes Line
+	26000 5700 26000 5100
+Wire Notes Line
+	22700 6000 22700 5600
+Wire Notes Line
+	22700 5600 23100 5600
+Wire Notes Line
+	23000 6000 23000 5800
+Wire Notes Line
+	23000 5800 23100 5800
+Wire Notes Line
+	26100 5700 26100 5200
+Wire Notes Line
+	26100 5200 26200 5200
+Wire Notes Line
+	26100 4500 26100 4800
+Wire Notes Line
+	26100 4800 26200 4800
+Wire Notes Line
+	26640 5040 26780 5040
+Wire Notes Line
+	26660 5080 26760 5080
+Wire Notes Line
+	26700 5000 26700 4900
+Wire Notes Line
+	26700 4900 26900 4900
+Wire Notes Line
+	29400 5700 29400 5300
+Wire Notes Line
+	29400 4700 29400 5000
+Wire Notes Line
+	31100 5600 31100 4500
+Wire Notes Line
+	31100 6100 31100 6000
+Wire Notes Line
+	30400 9200 30400 8900
+Wire Notes Line
+	30400 8900 31500 8900
+Text Notes 9250 10450 0    68   ~ 0
+2
+Text Notes 32800 4350 0    127  ~ 0
+Netz
+Text Notes 1900 3250 0    127  ~ 0
+DC
+Text Notes 29400 11200 0    100  ~ 0
+PPI - Leistungsplatine
+Text Notes 900  3400 0    127  ~ 0
+-
+Text Notes 800  2900 0    127  ~ 0
++
+Text Notes 1800 5600 0    59   ~ 0
+PE
+Text Notes 26650 4880 0    59   ~ 0
+PE
+Text Notes 33500 7800 0    64   ~ 0
+LED+
+Text Notes 33500 7950 0    64   ~ 0
+LED-
+Text Notes 33500 7650 0    64   ~ 0
+LED-
+Text Notes 17700 12800 0    85   ~ 0
+Imon
+Text Notes 17900 13000 0    85   ~ 0
+Overvolt
+Text Notes 18100 12800 0    85   ~ 0
+analog
+Text Notes 18300 12800 0    85   ~ 0
+Relay
+Text Notes 18500 12800 0    85   ~ 0
+LED2
+Text Notes 18800 13000 0    85   ~ 0
+reserviert
+Text Notes 33200 8850 0    64   ~ 0
+Rel.- out
+Text Notes 33200 10150 0    64   ~ 0
+Analog Input
+Text Notes 32580 1530 0    59   ~ 0
+Achtung Bauteil ist nicht angeschlossen
+Text Notes 30825 4110 0    59   ~ 0
+alternativ R6 oder R7 bestücken
+Text Notes 31855 940  0    59   ~ 0
+Die 3 Relais müssen noch zu den ST Pins zugeordnet werden. Freilaufdiode kann laut Otto entfallen~
+Text Notes 31855 755  0    59   ~ 0
+Relais und bauteil-bezeichnungen fortlaufend nummerieren~
+Text Notes 32695 3160 0    59   ~ 0
+Ladungsrelais mit einschalten wenn eines der laderelais an ist
+Text Notes 27000 1795 0    59   ~ 0
+Grid Revers Start
+Text Notes 28545 2860 0    59   ~ 0
+Werte müssen noch definiert werden~
+Text Notes 32580 1630 0    59   ~ 0
+Falsches bauteil das hier ist nur ein dummy ohne Pins. kann nie angeschlossen werden~ Bitte anders bauteil aussuchen
+Wire Wire Line
+	30800 6600 30800 6300
+Wire Wire Line
+	8400 9400 8800 9400
+Wire Wire Line
+	7700 10600 7700 11600
+Wire Wire Line
+	26900 4500 26900 5200
+Wire Notes Line
+	26600 5000 26820 5000
+$EndSCHEMATC
